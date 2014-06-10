@@ -58,95 +58,100 @@
 \contentsline {subsubsection}{\numberline {3.6.4.1}1\textsuperscript {st} option: Maxon Motor EPOS2 70/10, Digital positioning controller, 10 A, 11 - 70 VDC Part Number: 375711}{42}{subsubsection.3.6.4.1}
 \contentsline {subsection}{\numberline {3.6.5}Motor Combinations}{45}{subsection.3.6.5}
 \contentsline {subsubsection}{\numberline {3.6.5.1}1\textsuperscript {st} option: Maxon Motor Combination Part Number: 470625 - Items: Motor 305013 / Encoder 225778 / Reduction Gear 326660}{45}{subsubsection.3.6.5.1}
-\contentsline {section}{\numberline {3.7}Printed circuit boards}{48}{section.3.7}
-\contentsline {section}{\numberline {3.8}Electronic components}{48}{section.3.8}
-\contentsline {section}{\numberline {3.9}Wiring}{50}{section.3.9}
-\contentsline {subsection}{\numberline {3.9.1}Connectors}{50}{subsection.3.9.1}
+\contentsline {section}{\numberline {3.7}Printed circuit boards}{47}{section.3.7}
+\contentsline {section}{\numberline {3.8}Electronic components}{47}{section.3.8}
+\contentsline {section}{\numberline {3.9}Wiring}{47}{section.3.9}
+\contentsline {subsection}{\numberline {3.9.1}Connectors}{47}{subsection.3.9.1}
 \contentsline {subsubsection}{\numberline {3.9.1.1}10pinF(CAN): DIN 41651 connector, pitch 2.54 mm, 10 poles, plug strain relief (Female)}{50}{subsubsection.3.9.1.1}
 \contentsline {subsubsection}{\numberline {3.9.1.2}10pinF(Encoder): DIN 41651 connector, pitch 2.54 mm, 10 poles, plug strain relief (Female)}{50}{subsubsection.3.9.1.2}
-\contentsline {subsubsection}{\numberline {3.9.1.3}CG(CAN): Cable Gland for CAN}{50}{subsubsection.3.9.1.3}
-\contentsline {subsubsection}{\numberline {3.9.1.4}CG(LAN): Cable Gland for Ethernet LAN}{53}{subsubsection.3.9.1.4}
-\contentsline {subsubsection}{\numberline {3.9.1.5}DB9F(SH): Shielded DB9 (Female)}{54}{subsubsection.3.9.1.5}
+\contentsline {subsubsection}{\numberline {3.9.1.3}CG(CAN): Cable Gland for CAN}{51}{subsubsection.3.9.1.3}
+\contentsline {subsubsection}{\numberline {3.9.1.4}CG(LAN): Cable Gland for Ethernet LAN}{52}{subsubsection.3.9.1.4}
+\contentsline {subsubsection}{\numberline {3.9.1.5}DB9F(SH): Shielded DB9 (Female)}{53}{subsubsection.3.9.1.5}
 \contentsline {subsubsection}{\numberline {3.9.1.6}DB9M(SH): Shielded DB9 (Male)}{55}{subsubsection.3.9.1.6}
 \contentsline {subsubsection}{\numberline {3.9.1.7}microCAN: Molex Micro-Fit 3.0\texttrademark 4 poles (43025-0400)}{55}{subsubsection.3.9.1.7}
 \contentsline {subsubsection}{\numberline {3.9.1.8}microHall: Molex Micro-Fit 3.0\texttrademark 6 poles (43025-0600)}{55}{subsubsection.3.9.1.8}
-\contentsline {subsubsection}{\numberline {3.9.1.9}miniMotor: Molex Mini-Fit\textregistered Jr. 4 poles (39-01-2040)}{60}{subsubsection.3.9.1.9}
-\contentsline {subsubsection}{\numberline {3.9.1.10}miniPower: Molex Mini-Fit\textregistered Jr. 2 poles (39-01-2020)}{60}{subsubsection.3.9.1.10}
-\contentsline {subsubsection}{\numberline {3.9.1.11}RJ45F(SH): Shielded RJ-45 (Female)}{60}{subsubsection.3.9.1.11}
-\contentsline {subsubsection}{\numberline {3.9.1.12}RJ45M(SH): Shielded RJ-45 (Male)}{60}{subsubsection.3.9.1.12}
-\contentsline {subsubsection}{\numberline {3.9.1.13}SCANF(SH): Shielded Special CAN Industrial Connector (Female)}{65}{subsubsection.3.9.1.13}
-\contentsline {subsubsection}{\numberline {3.9.1.14}SCANM(SH): Shielded Special CAN Industrial Connector (Male)}{65}{subsubsection.3.9.1.14}
-\contentsline {subsubsection}{\numberline {3.9.1.15}SLANF(SH): Shielded Special Ethernet Industrial Connector (Female)}{65}{subsubsection.3.9.1.15}
-\contentsline {subsubsection}{\numberline {3.9.1.16}SLANM(SH): Shielded Special Ethernet Industrial Connector (Male)}{69}{subsubsection.3.9.1.16}
-\contentsline {subsection}{\numberline {3.9.2}Cables}{69}{subsection.3.9.2}
-\contentsline {subsubsection}{\numberline {3.9.2.1}Cable signal type: CAN}{71}{subsubsection.3.9.2.1}
-\contentsline {subsubsection}{\numberline {3.9.2.2}Cable signal type: Electric (Encoder)}{71}{subsubsection.3.9.2.2}
-\contentsline {subsubsection}{\numberline {3.9.2.3}Cable signal type: Electric (Hall)}{71}{subsubsection.3.9.2.3}
-\contentsline {subsubsection}{\numberline {3.9.2.4}Cable signal type: Electric (Motor)}{71}{subsubsection.3.9.2.4}
-\contentsline {subsubsection}{\numberline {3.9.2.5}Cable signal type: Ethernet}{71}{subsubsection.3.9.2.5}
-\contentsline {subsubsection}{\numberline {3.9.2.6}Cable signal type: USB 2.0}{71}{subsubsection.3.9.2.6}
-\contentsline {section}{\numberline {3.10}Tools and utilities}{71}{section.3.10}
+\contentsline {subsubsection}{\numberline {3.9.1.9}miniMotor: Molex Mini-Fit\textregistered Jr. 4 poles (39-01-2040)}{55}{subsubsection.3.9.1.9}
+\contentsline {subsubsection}{\numberline {3.9.1.10}miniPower: Molex Mini-Fit\textregistered Jr. 2 poles (39-01-2020)}{59}{subsubsection.3.9.1.10}
+\contentsline {subsubsection}{\numberline {3.9.1.11}RJ45F(SH): Shielded RJ-45 (Female)}{59}{subsubsection.3.9.1.11}
+\contentsline {subsubsection}{\numberline {3.9.1.12}RJ45M(SH): Shielded RJ-45 (Male)}{59}{subsubsection.3.9.1.12}
+\contentsline {subsubsection}{\numberline {3.9.1.13}SCANF(SH): Shielded Special CAN Industrial Connector (Female)}{64}{subsubsection.3.9.1.13}
+\contentsline {subsubsection}{\numberline {3.9.1.14}SCANM(SH): Shielded Special CAN Industrial Connector (Male)}{64}{subsubsection.3.9.1.14}
+\contentsline {subsubsection}{\numberline {3.9.1.15}SLANF(SH): Shielded Special Ethernet Industrial Connector (Female)}{64}{subsubsection.3.9.1.15}
+\contentsline {subsubsection}{\numberline {3.9.1.16}SLANM(SH): Shielded Special Ethernet Industrial Connector (Male)}{68}{subsubsection.3.9.1.16}
+\contentsline {subsection}{\numberline {3.9.2}Cables}{68}{subsection.3.9.2}
+\contentsline {subsubsection}{\numberline {3.9.2.1}Cable signal type: CAN}{70}{subsubsection.3.9.2.1}
+\contentsline {subsubsection}{\numberline {3.9.2.2}Cable signal type: Electric (Encoder)}{70}{subsubsection.3.9.2.2}
+\contentsline {subsubsection}{\numberline {3.9.2.3}Cable signal type: Electric (Hall)}{74}{subsubsection.3.9.2.3}
+\contentsline {subsubsection}{\numberline {3.9.2.4}Cable signal type: Electric (Motor)}{74}{subsubsection.3.9.2.4}
+\contentsline {subsubsection}{\numberline {3.9.2.5}Cable signal type: Ethernet}{75}{subsubsection.3.9.2.5}
+\contentsline {subsubsection}{\numberline {3.9.2.6}Cable signal type: USB 2.0}{75}{subsubsection.3.9.2.6}
+\contentsline {section}{\numberline {3.10}Tools and utilities}{75}{section.3.10}
 \contentsline {subsection}{\numberline {3.10.1}Tools}{75}{subsection.3.10.1}
 \contentsline {subsubsection}{\numberline {3.10.1.1}Heat blower}{75}{subsubsection.3.10.1.1}
-\contentsline {subsubsection}{\numberline {3.10.1.2}Plier: Cutting plier}{75}{subsubsection.3.10.1.2}
-\contentsline {subsubsection}{\numberline {3.10.1.3}Plier: Long needle-nose plier}{75}{subsubsection.3.10.1.3}
-\contentsline {subsubsection}{\numberline {3.10.1.4}Plier: Molex hand crimper for Micro-Fit 3.0 \texttrademark crimp terminals (63819-0000)}{75}{subsubsection.3.10.1.4}
-\contentsline {subsubsection}{\numberline {3.10.1.5}Plier: Molex hand crimper for Mini-Fit\textregistered crimp terminals (63819-0900)}{80}{subsubsection.3.10.1.5}
-\contentsline {subsubsection}{\numberline {3.10.1.6}Soldering station}{81}{subsubsection.3.10.1.6}
+\contentsline {subsubsection}{\numberline {3.10.1.2}Plier: Cutting plier}{76}{subsubsection.3.10.1.2}
+\contentsline {subsubsection}{\numberline {3.10.1.3}Plier: Long needle-nose plier}{76}{subsubsection.3.10.1.3}
+\contentsline {subsubsection}{\numberline {3.10.1.4}Plier: Molex hand crimper for Micro-Fit 3.0 \texttrademark crimp terminals (63819-0000)}{76}{subsubsection.3.10.1.4}
+\contentsline {subsubsection}{\numberline {3.10.1.5}Plier: Molex hand crimper for Mini-Fit\textregistered crimp terminals (63819-0900)}{76}{subsubsection.3.10.1.5}
+\contentsline {subsubsection}{\numberline {3.10.1.6}Soldering station}{82}{subsubsection.3.10.1.6}
 \contentsline {subsection}{\numberline {3.10.2}Utilities}{83}{subsection.3.10.2}
 \contentsline {subsubsection}{\numberline {3.10.2.1}Heat shrink tube for thermal insulation}{83}{subsubsection.3.10.2.1}
 \contentsline {subsubsection}{\numberline {3.10.2.2}microCrimp: Molex Micro-Fit 3.0\texttrademark female crimp terminals (43030-xxxx)}{83}{subsubsection.3.10.2.2}
 \contentsline {subsubsection}{\numberline {3.10.2.3}miniCrimp: Molex Mini-Fit\textregistered Jr. female crimp terminals (44476-xxxx)}{83}{subsubsection.3.10.2.3}
-\contentsline {chapter}{\numberline {4}Procedures for system assembly/installation/testing/commisioning}{88}{chapter.4}
+\contentsline {chapter}{\numberline {4}Procedures for system assembly/installation/testing/commisioning}{89}{chapter.4}
 \contentsline {section}{\numberline {4.1}System assembly}{89}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Cable}{89}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.1}Cable construction}{89}{subsection.4.1.1}
 \contentsline {subsubsection}{\numberline {4.1.1.1}Construction of ACT/E - Cable for motor encoder}{89}{subsubsection.4.1.1.1}
 \contentsline {subsubsection}{\numberline {4.1.1.2}Construction of ACT/H - Cable for motor Hall effect sensor}{89}{subsubsection.4.1.1.2}
-\contentsline {subsubsection}{\numberline {4.1.1.3}Construction of ACT/M - Cable for motor supply}{89}{subsubsection.4.1.1.3}
-\contentsline {subsubsection}{\numberline {4.1.1.4}Construction of CAN/D-D - Cable for CAN between drivers}{89}{subsubsection.4.1.1.4}
-\contentsline {subsubsection}{\numberline {4.1.1.5}Construction of CAN/I-Dc - Cable for CAN between driver and an interface (shield cut)}{89}{subsubsection.4.1.1.5}
-\contentsline {subsubsection}{\numberline {4.1.1.6}Construction of CAN/I-Dp - Cable for CAN between driver and an interface (shield pass)}{89}{subsubsection.4.1.1.6}
-\contentsline {subsubsection}{\numberline {4.1.1.7}Construction of CAN/I-I - Cable for CAN between interfaces}{89}{subsubsection.4.1.1.7}
-\contentsline {subsubsection}{\numberline {4.1.1.8}Construction of CAN/I-PC - Cable for CAN between PC and an interface}{89}{subsubsection.4.1.1.8}
-\contentsline {subsubsection}{\numberline {4.1.1.9}Construction of CAN/Out - Outdoor cable for CAN between modules}{89}{subsubsection.4.1.1.9}
-\contentsline {subsubsection}{\numberline {4.1.1.10}Construction of LAN/I-S - Cable for Ethernet between Ethernet Switch and an interface}{89}{subsubsection.4.1.1.10}
-\contentsline {subsubsection}{\numberline {4.1.1.11}Construction of LAN/Out - Outdoor cable for Ethernet between modules}{89}{subsubsection.4.1.1.11}
-\contentsline {subsubsection}{\numberline {4.1.1.12}Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}{89}{subsubsection.4.1.1.12}
-\contentsline {subsubsection}{\numberline {4.1.1.13}Construction of USB/DAQ - Cable for USB between DAQ and PC}{89}{subsubsection.4.1.1.13}
-\contentsline {subsubsection}{\numberline {4.1.1.14}Crimping Molex Micro-Fit 3.0\texttrademark Family}{89}{subsubsection.4.1.1.14}
-\contentsline {subsubsection}{\numberline {4.1.1.15}Crimping Molex Mini-Fit\textregistered Family}{95}{subsubsection.4.1.1.15}
-\contentsline {subsection}{\numberline {4.1.2}Printed circuit boards (PCB) fabrication and assembly}{100}{subsection.4.1.2}
-\contentsline {section}{\numberline {4.2}System installation on site}{100}{section.4.2}
-\contentsline {section}{\numberline {4.3}System testing on site}{100}{section.4.3}
-\contentsline {section}{\numberline {4.4}System commissioning}{100}{section.4.4}
-\contentsline {chapter}{\numberline {5}Performed tests for validations}{101}{chapter.5}
-\contentsline {chapter}{\numberline {6}Bibliographic references}{102}{chapter.6}
-\contentsline {chapter}{\numberline {A}Team}{103}{appendix.A}
-\contentsline {section}{\numberline {A.1}General Organogram}{103}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Project Coordinator}{104}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Group 1: Mechanics Organogram}{105}{subsection.A.1.2}
-\contentsline {subsection}{\numberline {A.1.3}Group 2: Electronics Organogram}{106}{subsection.A.1.3}
-\contentsline {subsection}{\numberline {A.1.4}Group 3: Power Organogram}{107}{subsection.A.1.4}
-\contentsline {subsection}{\numberline {A.1.5}Group 4: Software Organogram}{108}{subsection.A.1.5}
-\contentsline {subsection}{\numberline {A.1.6}Group 5: Signal Processing Organogram}{109}{subsection.A.1.6}
-\contentsline {subsection}{\numberline {A.1.7}Project Secretary}{110}{subsection.A.1.7}
-\contentsline {section}{\numberline {A.2}Project Coordinator}{111}{section.A.2}
-\contentsline {section}{\numberline {A.3}Group 1: Mechanics}{112}{section.A.3}
-\contentsline {subsection}{\numberline {A.3.1}Coordinator}{112}{subsection.A.3.1}
-\contentsline {subsection}{\numberline {A.3.2}Ph.D., M.Sc., and B.Sc. Students}{112}{subsection.A.3.2}
-\contentsline {subsection}{\numberline {A.3.3}Mechanical Designers}{113}{subsection.A.3.3}
-\contentsline {section}{\numberline {A.4}Group 2: Electronics}{114}{section.A.4}
-\contentsline {subsection}{\numberline {A.4.1}Coordinator}{114}{subsection.A.4.1}
-\contentsline {subsection}{\numberline {A.4.2}Professors and M.Sc. Students}{114}{subsection.A.4.2}
-\contentsline {section}{\numberline {A.5}Group 3: Power}{115}{section.A.5}
-\contentsline {subsection}{\numberline {A.5.1}Coordinator}{115}{subsection.A.5.1}
-\contentsline {subsection}{\numberline {A.5.2}Professors and M.Sc. Students}{115}{subsection.A.5.2}
-\contentsline {section}{\numberline {A.6}Group 4: Software}{116}{section.A.6}
-\contentsline {subsection}{\numberline {A.6.1}Coordinator}{116}{subsection.A.6.1}
-\contentsline {subsection}{\numberline {A.6.2}Ph.D. and M.Sc. Students}{116}{subsection.A.6.2}
-\contentsline {section}{\numberline {A.7}Group 5: Signal Processing}{117}{section.A.7}
-\contentsline {subsection}{\numberline {A.7.1}Coordinators}{117}{subsection.A.7.1}
-\contentsline {subsection}{\numberline {A.7.2}Post-doctor Researchers}{117}{subsection.A.7.2}
-\contentsline {subsection}{\numberline {A.7.3}Ph.D. and M.Sc. Students}{118}{subsection.A.7.3}
-\contentsline {section}{\numberline {A.8}Secretary}{119}{section.A.8}
-\contentsline {chapter}{Bibliography}{120}{appendix*.5}
+\contentsline {subsubsection}{\numberline {4.1.1.3}Construction of ACT/M - Cable for motor supply}{91}{subsubsection.4.1.1.3}
+\contentsline {subsubsection}{\numberline {4.1.1.4}Construction of CAN/D-D - Cable for CAN between drivers}{91}{subsubsection.4.1.1.4}
+\contentsline {subsubsection}{\numberline {4.1.1.5}Construction of CAN/I-Dc - Cable for CAN between driver and an interface (shield cut)}{94}{subsubsection.4.1.1.5}
+\contentsline {subsubsection}{\numberline {4.1.1.6}Construction of CAN/I-Dp - Cable for CAN between driver and an interface (shield pass)}{96}{subsubsection.4.1.1.6}
+\contentsline {subsubsection}{\numberline {4.1.1.7}Construction of CAN/I-I - Cable for CAN between interfaces}{96}{subsubsection.4.1.1.7}
+\contentsline {subsubsection}{\numberline {4.1.1.8}Construction of CAN/I-PC - Cable for CAN between PC and an interface}{99}{subsubsection.4.1.1.8}
+\contentsline {subsubsection}{\numberline {4.1.1.9}Construction of CAN/Out - Outdoor cable for CAN between modules}{102}{subsubsection.4.1.1.9}
+\contentsline {subsubsection}{\numberline {4.1.1.10}Construction of LAN/I-S - Cable for Ethernet between Ethernet Switch and an interface}{102}{subsubsection.4.1.1.10}
+\contentsline {subsubsection}{\numberline {4.1.1.11}Construction of LAN/Out - Outdoor cable for Ethernet between modules}{104}{subsubsection.4.1.1.11}
+\contentsline {subsubsection}{\numberline {4.1.1.12}Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}{107}{subsubsection.4.1.1.12}
+\contentsline {subsubsection}{\numberline {4.1.1.13}Construction of USB/DAQ - Cable for USB between DAQ and PC}{107}{subsubsection.4.1.1.13}
+\contentsline {subsection}{\numberline {4.1.2}Connector installation procedures}{107}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}Installation of 4-pin connector}{107}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}Installation of 10-pin connector}{107}{subsubsection.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.2.3}Installation of DB9 connector family}{107}{subsubsection.4.1.2.3}
+\contentsline {subsubsection}{\numberline {4.1.2.4}Installation of RJ-45 connector family}{107}{subsubsection.4.1.2.4}
+\contentsline {subsubsection}{\numberline {4.1.2.5}Crimping Molex Micro-Fit 3.0\texttrademark Family}{107}{subsubsection.4.1.2.5}
+\contentsline {subsubsection}{\numberline {4.1.2.6}Crimping Molex Mini-Fit\textregistered Family}{110}{subsubsection.4.1.2.6}
+\contentsline {subsection}{\numberline {4.1.3}Printed circuit boards (PCB) fabrication and assembly}{115}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}System installation on site}{115}{section.4.2}
+\contentsline {section}{\numberline {4.3}System testing on site}{115}{section.4.3}
+\contentsline {section}{\numberline {4.4}System commissioning}{115}{section.4.4}
+\contentsline {chapter}{\numberline {5}Performed tests for validations}{120}{chapter.5}
+\contentsline {chapter}{\numberline {6}Bibliographic references}{121}{chapter.6}
+\contentsline {chapter}{\numberline {A}Team}{122}{appendix.A}
+\contentsline {section}{\numberline {A.1}General Organogram}{122}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Project Coordinator}{123}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Group 1: Mechanics Organogram}{124}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Group 2: Electronics Organogram}{125}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Group 3: Power Organogram}{126}{subsection.A.1.4}
+\contentsline {subsection}{\numberline {A.1.5}Group 4: Software Organogram}{127}{subsection.A.1.5}
+\contentsline {subsection}{\numberline {A.1.6}Group 5: Signal Processing Organogram}{128}{subsection.A.1.6}
+\contentsline {subsection}{\numberline {A.1.7}Project Secretary}{129}{subsection.A.1.7}
+\contentsline {section}{\numberline {A.2}Project Coordinator}{130}{section.A.2}
+\contentsline {section}{\numberline {A.3}Group 1: Mechanics}{131}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}Coordinator}{131}{subsection.A.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Ph.D., M.Sc., and B.Sc. Students}{131}{subsection.A.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Mechanical Designers}{132}{subsection.A.3.3}
+\contentsline {section}{\numberline {A.4}Group 2: Electronics}{133}{section.A.4}
+\contentsline {subsection}{\numberline {A.4.1}Coordinator}{133}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A.4.2}Professors and M.Sc. Students}{133}{subsection.A.4.2}
+\contentsline {section}{\numberline {A.5}Group 3: Power}{134}{section.A.5}
+\contentsline {subsection}{\numberline {A.5.1}Coordinator}{134}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A.5.2}Professors and M.Sc. Students}{134}{subsection.A.5.2}
+\contentsline {section}{\numberline {A.6}Group 4: Software}{135}{section.A.6}
+\contentsline {subsection}{\numberline {A.6.1}Coordinator}{135}{subsection.A.6.1}
+\contentsline {subsection}{\numberline {A.6.2}Ph.D. and M.Sc. Students}{135}{subsection.A.6.2}
+\contentsline {section}{\numberline {A.7}Group 5: Signal Processing}{136}{section.A.7}
+\contentsline {subsection}{\numberline {A.7.1}Coordinators}{136}{subsection.A.7.1}
+\contentsline {subsection}{\numberline {A.7.2}Post-doctor Researchers}{136}{subsection.A.7.2}
+\contentsline {subsection}{\numberline {A.7.3}Ph.D. and M.Sc. Students}{137}{subsection.A.7.3}
+\contentsline {section}{\numberline {A.8}Secretary}{138}{section.A.8}
+\contentsline {chapter}{Bibliography}{139}{appendix*.5}

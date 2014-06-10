@@ -606,34 +606,19 @@ Maxon Motor EPOS2 70/10 375711 scheme and interfaces and can be seen in figure~\
 \end{figure}
 \section{Printed circuit boards}
 \section{Electronic components}
-ESCREVER colocar os componentes minimos, a proposta de reserva e os molex
-\underline{Manufacturer: \emph{PCB (IMI)}}\\
-\underline{Model: \emph{623C00 High Frequency Industrial ICP Accelerometer}}\\
-\underline{Interface: \emph{Analog Voltage Signal}}\\
-\underline{Specified by: G5}\\
-\\
-Model picture, main specifications and input/output diagram are shown in figure~\ref{FIG:VIBSENSOR}.\\
-References in~\cite{Model2013PCB}.
-\begin{figure}[H]
-  \centering
-  % Requires \usepackage{graphicx}
-  \includegraphics[width=1\columnwidth]{figs/tables/vibsensor.pdf}\\
-  \caption[Vibration Sensor - Specifications]{Vibration Sensor - Specifications.}
-  \label{FIG:VIBSENSOR}
-\end{figure}
-\newpage
-
 
 \section{Wiring}
 \subsection{Connectors} \label{DEVICE:CONNECTORS}
-The following table (figure~\ref{FIG:DEVICECONNECTORTABLE1}) summarizes all the connectors that must be purchased for DORIS assembly. Each connector type has a respective connector acronym that appears in the cable list (section~\ref{DEVICE:CABLES}) as a easy reference for the cable connectors. In the next subsections, the most important connector types and pinouts are detailed. The possible commercial models for purchase are also suggested for each connector type. ESCREVER TABELA
-%\begin{figure}
-%  \centering
-%  % Requires \usepackage{graphicx}
-%  \includegraphics[angle=90,width=1\columnwidth]{figs/body02/FIGDEVICECONNECTORTABLE1.pdf}\\
-%  \caption[Connector table]{Connector table}
-%  \label{FIG:DEVICECONNECTORTABLE1}
-%\end{figure}
+The following table (figure~\ref{FIG:DEVICECONNECTORTABLE1}) summarizes all the connectors that must be purchased for DORIS assembly. Each connector type has a respective connector acronym that appears in the cable list (section~\ref{DEVICE:CABLES}) as a easy reference for the cable connectors. In the next subsections, the most important connector types and pinouts are detailed. The possible commercial models for purchase are also suggested for each connector type.
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[angle=90,width=1\columnwidth]{figs/body02/FIGDEVICECONNECTORTABLE1.pdf}\\
+  \caption[Connector table]{Connector table}
+  \label{FIG:DEVICECONNECTORTABLE1}
+\end{figure}
+Also note that, for each cable connector at the "cable list", an acronym (SH-Pass, SH-Cut or SH-No) is designated. This indicates if the cable shield is plugged at the cable connector. The shield acronyms meanings are also described at the above connector table (figure~\ref{FIG:DEVICECONNECTORTABLE1}).
+
 \subsubsection{10pinF(CAN): DIN 41651 connector, pitch 2.54 mm, 10 poles, plug strain relief (Female)} \label{DEVICE:10pinF(CAN)}
 \begin{itemize}
   \item Acronym for cable/connector lists: 10pinF
@@ -765,7 +750,7 @@ The following table (figure~\ref{FIG:DEVICECONNECTORTABLE1}) summarizes all the 
   \caption[miniMotor: Molex Mini-Fit\textregistered Jr. 4 poles (39-01-2040)]{miniMotor: Molex Mini-Fit\textregistered Jr. 4 poles (39-01-2040)}
   \label{FIG:DEVICEminiMotor}
 \end{figure}
-\subsubsection{miniPower: Molex Mini-Fit\textregistered Jr. 2 poles (39-01-2020)} \label{DEVICE:miniMotor}
+\subsubsection{miniPower: Molex Mini-Fit\textregistered Jr. 2 poles (39-01-2020)} \label{DEVICE:miniPower}
 \begin{itemize}
   \item Acronym for cable/connector lists: miniPower
   \item Name: Molex Mini-Fit\textregistered Jr. 2 poles, Part Number: 39-01-2020
@@ -975,8 +960,8 @@ The table (figure~\ref{FIG:CABLELIST}) summarizes all the communication cables t
 \subsubsection{Cable signal type: USB 2.0} \label{CABLETYPE:USB20}
 \begin{itemize}
   \item Purpose: transmission of USB 2.0
-  \item Total length to be purchased: 1050 mm (1.5 m)
-  \item Important highlight: the USB devices generally comes with the specific cable set. If the cable is long enough for the application, there is no need for purchasing 1.5 meters of USB cable.
+  \item Total length to be purchased: 1050 mm (1.-5 m)
+  \item Important highlight: the USB devices generally comes with the specific cable set. However, if needed, this cable can be purchased apart. Generally, 1 meter USB commercial cables can be easily found.
   \item Commercial models: ESCREVER
 \end{itemize}
 \section{Tools and utilities}
@@ -1121,4 +1106,4 @@ This section presents a list of tools and utilities that must be used for DORIS 
   \includegraphics[angle=90,width=1\columnwidth]{figs/body02/FIGDEVICEminiCrimp.pdf}\\
   \caption[miniCrimp: Molex Mini-Fit\textregistered Jr. female crimp terminals (44476-xxxx)]{miniCrimp: Molex Mini-Fit\textregistered Jr. female crimp terminals (44476-xxxx)}
   \label{FIG:DEVICEminiCrimp}
-\end{figure}
+\end{figure} 

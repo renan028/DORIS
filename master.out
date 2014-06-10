@@ -98,7 +98,7 @@
 \BOOKMARK [3][-]{subsubsection.3.10.2.3}{miniCrimp: Molex Mini-Fit\256Jr. female crimp terminals \(44476-xxxx\)}{subsection.3.10.2}% 98
 \BOOKMARK [0][-]{chapter.4}{Procedures for system assembly/installation/testing/commisioning}{}% 99
 \BOOKMARK [1][-]{section.4.1}{System assembly}{chapter.4}% 100
-\BOOKMARK [2][-]{subsection.4.1.1}{Cable}{section.4.1}% 101
+\BOOKMARK [2][-]{subsection.4.1.1}{Cable construction}{section.4.1}% 101
 \BOOKMARK [3][-]{subsubsection.4.1.1.1}{Construction of ACT/E - Cable for motor encoder}{subsection.4.1.1}% 102
 \BOOKMARK [3][-]{subsubsection.4.1.1.2}{Construction of ACT/H - Cable for motor Hall effect sensor}{subsection.4.1.1}% 103
 \BOOKMARK [3][-]{subsubsection.4.1.1.3}{Construction of ACT/M - Cable for motor supply}{subsection.4.1.1}% 104
@@ -112,40 +112,45 @@
 \BOOKMARK [3][-]{subsubsection.4.1.1.11}{Construction of LAN/Out - Outdoor cable for Ethernet between modules}{subsection.4.1.1}% 112
 \BOOKMARK [3][-]{subsubsection.4.1.1.12}{Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}{subsection.4.1.1}% 113
 \BOOKMARK [3][-]{subsubsection.4.1.1.13}{Construction of USB/DAQ - Cable for USB between DAQ and PC}{subsection.4.1.1}% 114
-\BOOKMARK [3][-]{subsubsection.4.1.1.14}{Crimping Molex Micro-Fit 3.0\222Family}{subsection.4.1.1}% 115
-\BOOKMARK [3][-]{subsubsection.4.1.1.15}{Crimping Molex Mini-Fit\256Family}{subsection.4.1.1}% 116
-\BOOKMARK [2][-]{subsection.4.1.2}{Printed circuit boards \(PCB\) fabrication and assembly}{section.4.1}% 117
-\BOOKMARK [1][-]{section.4.2}{System installation on site}{chapter.4}% 118
-\BOOKMARK [1][-]{section.4.3}{System testing on site}{chapter.4}% 119
-\BOOKMARK [1][-]{section.4.4}{System commissioning}{chapter.4}% 120
-\BOOKMARK [0][-]{chapter.5}{Performed tests for validations}{}% 121
-\BOOKMARK [0][-]{chapter.6}{Bibliographic references}{}% 122
-\BOOKMARK [0][-]{appendix.A}{Team}{}% 123
-\BOOKMARK [1][-]{section.A.1}{General Organogram}{appendix.A}% 124
-\BOOKMARK [2][-]{subsection.A.1.1}{Project Coordinator}{section.A.1}% 125
-\BOOKMARK [2][-]{subsection.A.1.2}{Group 1: Mechanics Organogram}{section.A.1}% 126
-\BOOKMARK [2][-]{subsection.A.1.3}{Group 2: Electronics Organogram}{section.A.1}% 127
-\BOOKMARK [2][-]{subsection.A.1.4}{Group 3: Power Organogram}{section.A.1}% 128
-\BOOKMARK [2][-]{subsection.A.1.5}{Group 4: Software Organogram}{section.A.1}% 129
-\BOOKMARK [2][-]{subsection.A.1.6}{Group 5: Signal Processing Organogram}{section.A.1}% 130
-\BOOKMARK [2][-]{subsection.A.1.7}{Project Secretary}{section.A.1}% 131
-\BOOKMARK [1][-]{section.A.2}{Project Coordinator}{appendix.A}% 132
-\BOOKMARK [1][-]{section.A.3}{Group 1: Mechanics}{appendix.A}% 133
-\BOOKMARK [2][-]{subsection.A.3.1}{Coordinator}{section.A.3}% 134
-\BOOKMARK [2][-]{subsection.A.3.2}{Ph.D., M.Sc., and B.Sc. Students}{section.A.3}% 135
-\BOOKMARK [2][-]{subsection.A.3.3}{Mechanical Designers}{section.A.3}% 136
-\BOOKMARK [1][-]{section.A.4}{Group 2: Electronics}{appendix.A}% 137
-\BOOKMARK [2][-]{subsection.A.4.1}{Coordinator}{section.A.4}% 138
-\BOOKMARK [2][-]{subsection.A.4.2}{Professors and M.Sc. Students}{section.A.4}% 139
-\BOOKMARK [1][-]{section.A.5}{Group 3: Power}{appendix.A}% 140
-\BOOKMARK [2][-]{subsection.A.5.1}{Coordinator}{section.A.5}% 141
-\BOOKMARK [2][-]{subsection.A.5.2}{Professors and M.Sc. Students}{section.A.5}% 142
-\BOOKMARK [1][-]{section.A.6}{Group 4: Software}{appendix.A}% 143
-\BOOKMARK [2][-]{subsection.A.6.1}{Coordinator}{section.A.6}% 144
-\BOOKMARK [2][-]{subsection.A.6.2}{Ph.D. and M.Sc. Students}{section.A.6}% 145
-\BOOKMARK [1][-]{section.A.7}{Group 5: Signal Processing}{appendix.A}% 146
-\BOOKMARK [2][-]{subsection.A.7.1}{Coordinators}{section.A.7}% 147
-\BOOKMARK [2][-]{subsection.A.7.2}{Post-doctor Researchers}{section.A.7}% 148
-\BOOKMARK [2][-]{subsection.A.7.3}{Ph.D. and M.Sc. Students}{section.A.7}% 149
-\BOOKMARK [1][-]{section.A.8}{Secretary}{appendix.A}% 150
-\BOOKMARK [0][-]{appendix*.5}{Bibliography}{}% 151
+\BOOKMARK [2][-]{subsection.4.1.2}{Connector installation procedures}{section.4.1}% 115
+\BOOKMARK [3][-]{subsubsection.4.1.2.1}{Installation of 4-pin connector}{subsection.4.1.2}% 116
+\BOOKMARK [3][-]{subsubsection.4.1.2.2}{Installation of 10-pin connector}{subsection.4.1.2}% 117
+\BOOKMARK [3][-]{subsubsection.4.1.2.3}{Installation of DB9 connector family}{subsection.4.1.2}% 118
+\BOOKMARK [3][-]{subsubsection.4.1.2.4}{Installation of RJ-45 connector family}{subsection.4.1.2}% 119
+\BOOKMARK [3][-]{subsubsection.4.1.2.5}{Crimping Molex Micro-Fit 3.0\222Family}{subsection.4.1.2}% 120
+\BOOKMARK [3][-]{subsubsection.4.1.2.6}{Crimping Molex Mini-Fit\256Family}{subsection.4.1.2}% 121
+\BOOKMARK [2][-]{subsection.4.1.3}{Printed circuit boards \(PCB\) fabrication and assembly}{section.4.1}% 122
+\BOOKMARK [1][-]{section.4.2}{System installation on site}{chapter.4}% 123
+\BOOKMARK [1][-]{section.4.3}{System testing on site}{chapter.4}% 124
+\BOOKMARK [1][-]{section.4.4}{System commissioning}{chapter.4}% 125
+\BOOKMARK [0][-]{chapter.5}{Performed tests for validations}{}% 126
+\BOOKMARK [0][-]{chapter.6}{Bibliographic references}{}% 127
+\BOOKMARK [0][-]{appendix.A}{Team}{}% 128
+\BOOKMARK [1][-]{section.A.1}{General Organogram}{appendix.A}% 129
+\BOOKMARK [2][-]{subsection.A.1.1}{Project Coordinator}{section.A.1}% 130
+\BOOKMARK [2][-]{subsection.A.1.2}{Group 1: Mechanics Organogram}{section.A.1}% 131
+\BOOKMARK [2][-]{subsection.A.1.3}{Group 2: Electronics Organogram}{section.A.1}% 132
+\BOOKMARK [2][-]{subsection.A.1.4}{Group 3: Power Organogram}{section.A.1}% 133
+\BOOKMARK [2][-]{subsection.A.1.5}{Group 4: Software Organogram}{section.A.1}% 134
+\BOOKMARK [2][-]{subsection.A.1.6}{Group 5: Signal Processing Organogram}{section.A.1}% 135
+\BOOKMARK [2][-]{subsection.A.1.7}{Project Secretary}{section.A.1}% 136
+\BOOKMARK [1][-]{section.A.2}{Project Coordinator}{appendix.A}% 137
+\BOOKMARK [1][-]{section.A.3}{Group 1: Mechanics}{appendix.A}% 138
+\BOOKMARK [2][-]{subsection.A.3.1}{Coordinator}{section.A.3}% 139
+\BOOKMARK [2][-]{subsection.A.3.2}{Ph.D., M.Sc., and B.Sc. Students}{section.A.3}% 140
+\BOOKMARK [2][-]{subsection.A.3.3}{Mechanical Designers}{section.A.3}% 141
+\BOOKMARK [1][-]{section.A.4}{Group 2: Electronics}{appendix.A}% 142
+\BOOKMARK [2][-]{subsection.A.4.1}{Coordinator}{section.A.4}% 143
+\BOOKMARK [2][-]{subsection.A.4.2}{Professors and M.Sc. Students}{section.A.4}% 144
+\BOOKMARK [1][-]{section.A.5}{Group 3: Power}{appendix.A}% 145
+\BOOKMARK [2][-]{subsection.A.5.1}{Coordinator}{section.A.5}% 146
+\BOOKMARK [2][-]{subsection.A.5.2}{Professors and M.Sc. Students}{section.A.5}% 147
+\BOOKMARK [1][-]{section.A.6}{Group 4: Software}{appendix.A}% 148
+\BOOKMARK [2][-]{subsection.A.6.1}{Coordinator}{section.A.6}% 149
+\BOOKMARK [2][-]{subsection.A.6.2}{Ph.D. and M.Sc. Students}{section.A.6}% 150
+\BOOKMARK [1][-]{section.A.7}{Group 5: Signal Processing}{appendix.A}% 151
+\BOOKMARK [2][-]{subsection.A.7.1}{Coordinators}{section.A.7}% 152
+\BOOKMARK [2][-]{subsection.A.7.2}{Post-doctor Researchers}{section.A.7}% 153
+\BOOKMARK [2][-]{subsection.A.7.3}{Ph.D. and M.Sc. Students}{section.A.7}% 154
+\BOOKMARK [1][-]{section.A.8}{Secretary}{appendix.A}% 155
+\BOOKMARK [0][-]{appendix*.5}{Bibliography}{}% 156
