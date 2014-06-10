@@ -1,0 +1,50 @@
+%%******************************************************************************
+%%
+%% signature.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: Signature
+%%
+%% Author.....: Petrobras-Statoil Team
+%%
+%% Started....: Sun Feb 24 2013
+%% Modified...: Tue Feb 26 2013
+%%
+%% Emails.....: jleite@lps.ufrj.br
+%%              jleitex@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% SIGNATURE
+%%******************************************************************************
+
+% \newpage
+%
+% \thispagestyle{empty}
+%
+% \begin{center}
+%   Rio de Janeiro, \today
+%   \vfill
+%
+%   Prof. ???? ???? ???? \\
+%   Project Coordinator
+%   \vfill
+%
+%   Prof. ???? ???? ???? \\
+%   Program Coordinator
+%   \vfill
+%
+%   Prof. SEGEN FARID ESTEFEN \\
+%   COPPETEC Fundation Superintendent Director
+%   \vspace{0.25cm}
+%
+%   \addlogo{1.0cm}{coppetec}
+% \end{center}
+

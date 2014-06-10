@@ -1,0 +1,106 @@
+%%******************************************************************************
+%%
+%% body04.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: Chapter Title
+%%
+%% Author.....: Petrobras-Statoil Team
+%%
+%% Started....: Sat Feb 02 2013
+%% Modified...: Thu Feb 14 2013
+%%
+%% Emails.....: jleite@lps.ufrj.br
+%%              jleitex@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% CHAPTER - Chapter Title
+%%******************************************************************************
+
+
+\chapter{Interfaces}
+This chapter presents the communication interfaces between the computer network and all other devices.
+\newpage
+
+
+%%******************************************************************************
+%% SECTION - Section
+%%******************************************************************************
+
+
+\section{Data Acquisition Board - Environmental Data}
+Data from the environment (vibration rate, hydrocarbon concentration and temperature) are measured by specific sensors and transmitted as analog electrical signals, because they represent continuous physical variables. Hence, there must be some interface between computers and sensors so that the analog signals can be communicated and interpreted by the CPUs, which are digital in nature. This interface is the data acquisition board (DAQ), which must be specified to make available different I/O ports for the analog signals formats output by each sensor (4-20 mA, 8-12 VDC, etc.).
+
+Each sensor will be connected by a cable to the correct DAQ port (corresponding to its output signal format). The DAQ board can be connected to the computer using many different interfaces. The recommended model by the Signal Processing Group is connected via PCI bus.
+
+Considering the chosen or pre-specified devices so far, we have the following scheme for interfacing with the data acquisition board (figure~\ref{FIG:INTERFACEDAQ}).
+\begin{figure}[H]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body02/TEX-RedeDAQ.pdf}\\
+  \caption[Data Acquisition Interface]{Data Acquisition Interface.}
+  \label{FIG:INTERFACEDAQ}
+\end{figure}
+
+
+\section{Controller Area Network (CAN Bus)}
+The control of all actuators of DORIS will be done via CAN (Controller Area Network) bus communication. The option for this bus communication was based on previous projects of our group (LEAD) and also based on the characteristics of the CAN network, which are interestingly applicable to the needs of DORIS.
+
+The chosen computer model (Small PC SC240ML i724) allows interface with CAN network via USB or serial ports. We decided for USB interface solution.
+
+The interface between the CAN network and the computers (considering the so far specified computer model) is a EasySYNC solution, described in~\cite{USB22013Easy}. Figure~\ref{FIG:INTERFACECAN} shows the interconnection and interface between the computers and the actuators controller through the CAN Network.
+\begin{figure}[H]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body02/TEX-RedeCAN.pdf}\\
+  \caption[CAN/USB Interface]{CAN/USB Interface.}
+  \label{FIG:INTERFACECAN}
+\end{figure}
+\newpage
+\section{Ethernet Network}
+The Ethernet Network will be the interface between the computers and all devices that communicate via Ethernet Protocol. Among them, there are the access points, that will send and receive via wireless the control signals from the remote station operation. Therefore, the Ethernet protocol will be the communication interface between the remote operator and the CPUs.
+
+A Ethernet Switch will be the connection between all Ethernet equipment (CPUs, Access Points and Ethernet devices), hence establishing a network between them. Instead of a bridge, the switch was the chosen solution, because: a) It can establish an internal network in which every device (network node) can establish a connection with another one within the same network; b) There is no data collision event if a transmission between two other devices happens at the same time.
+
+The chosen computer model (Small PC SC240ML i724) allows interface with CAN network via USB or serial ports. We decided for USB interface solution.
+
+Considering the chosen or pre-specified devices so far, we have the following scheme for the Ethernet interface (figure~\ref{FIG:ETHERNETNETWORK}). Note that all computers network will be connected to the switch.
+\begin{figure}[H]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body02/TEX-RedeEthernet.pdf}\\
+  \caption[Ethernet Network]{Ethernet Network.}
+  \label{FIG:ETHERNETNETWORK}
+\end{figure}
+\newpage
+\section{Universal Serial Bus (USB)}
+Some devices can communicate via USB, which interface is available by the so far specified computer model. At the present time, the only USB device incorporated to our electronics architecture is the Thermal Camera.
+
+So, we have the following scheme for the USB interface (figure~\ref{FIG:INTERFACEUSB}).
+\begin{figure}[H]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body02/TEX-USB.pdf}\\
+  \caption[Universal Serial Bus (USB)]{Universal Serial Bus (USB).}
+  \label{FIG:INTERFACEUSB}
+\end{figure}\newpage
+\section{Audio}
+The system and audio devices have not yet been specified. However, we know that the so far specified computer model offers audio inputs and outputs (line-in, MIC and line-out), which can be used for future connection/interface with the audio system.
+
+We have the following scheme for the audio interface (figure~\ref{FIG:INTERFACEAUDIO}).
+\begin{figure}[H]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=0.3\columnwidth]{figs/body02/TEX-RedeAudio.pdf}\\
+  \caption[Audio Interface]{Audio Interfaces.}
+  \label{FIG:INTERFACEAUDIO}
+\end{figure}
+

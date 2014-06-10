@@ -1,0 +1,9 @@
+\begin{thebibliography}{1}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem{Model2013PCB}
+EQUIPMENT, \enquote{PCB Model: 623C00},
+  \url{http://www.pcb.com/Products.aspx?m=623C00\#.UT8k5BxQEZI}, Accessed:
+  12-march-2013.
+
+\end{thebibliography}

@@ -1,0 +1,69 @@
+%%******************************************************************************
+%%
+%% conclusion.tex
+%%
+%%******************************************************************************
+%%
+%% Chapter....: Conclusion
+%%
+%% Author.....: Petrobras-Statoil Team
+%%
+%% Started....: Sat Feb 02 2013
+%% Modified...: Thu Feb 14 2013
+%%
+%% Emails.....: jleite@lps.ufrj.br
+%%              jleitex@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% CHAPTER - Conclusion
+%%******************************************************************************
+
+
+\chapter{Conclusion}
+This report describes in detail the proposed electronics architecture at the present time. In the next sections, we list and highlight the most important points already defined and the tasks already completed. The last section enumerates the future goals to be achieved by our group.
+
+
+%%******************************************************************************
+%% SECTION - Section
+%%******************************************************************************
+
+\section{Main Achievements}
+\begin{itemize}
+    \item The architecture is modular, i.e., it is distributed in multiple wagons and it must allow communication between then.
+    \item In order to better segment and organize the architecture, it was divided into three: Wireless/Remote Communication, Actuators Control Communication, Peripheral Devices Communication.
+    \item There will be multiple computers working together within a Ethernet network. At this moment, there are defined 2 (two) computers for DORIS.
+    \item The architecture allows adding/removing of all electronic devices at any time.
+    \item The interface for controlling the actuators must be specific for this purpose, and it is already defined: Controller Area Network (CAN), and connected to the computer via USB adapter.
+    \item The possible interfaces for other devices were defined: USB, Data Acquisition Board (PCI) for analog signals, Wireless (Wi-Fi and Radio), Ethernet, RS232/485/422, audio ports, video ports, etc.
+    \item A Single-Board Computer solution was chosen:
+    \begin{itemize}
+        \item Embedded solution.
+        \item Waterproof, sealed and adequate for operation in extreme conditions.
+        \item Connections to all specified interfaces.
+        \item One possible model: SMALL PC SC240ML - i724 - Intel Core i7 - 512GB SSD - 16GB RAM.
+    \end{itemize}
+    \item Devices specified by the other project teams were incorporated to the system architecture: sensors, cameras, motors and drivers.
+\end{itemize}
+
+
+%%******************************************************************************
+%% SUBSECTION - Subsection
+%%******************************************************************************
+
+\section{Future Works}
+\begin{itemize}
+    \item Specify the radio communication solution for emergency operation. The radio system is a proposed solution for the remote operation of the DORIS basic circuits in case of emergency (e.g.: Wi-Fi communication failure), but we did not specified in detail this system yet. One possible way to design the radio system is to specify an access point with Radio RX/TX function and take advantage of that feature.
+    \item Validate or modify the specification of the preliminarily proposed devices. Until then, with the exception of computers, all electronic devices considered in the current architecture were chosen based on specifications and recommendations of other groups (a. sensors, switches, data acquisition board, access points: Signal Processing Group; b. Motors/drivers: Mechanics Group). However, our group will still validate if each of these devices really meet all the project requirements, and if appropriate, investigate other solutions.
+    \item Specify the audio system together with the Signal Processing Group collaboration.
+    \item Design the interface with the power supply system. Critical issues to be analyzed: ground loops, electrical current noise, electromagnetic interference, activation/deactivation intelligent switches, etc.
+    \item Design the monitoring system/watchdog.
+    \item Devise solutions for battery recharging system during operation (feasibility analysis).
+\end{itemize}
+

@@ -1,0 +1,154 @@
+%%******************************************************************************
+%%
+%% 01_frontpage.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: DORIS - Offshore Facilities Monitoring Robots
+%%
+%% Author.....: COPPE/LEAD-UFRJ Team - G2 (Embedded Electronics)
+%%
+%% Started....:      Fri Feb 01 2013
+%% Last Modified...: Fri Jun 10 2013
+%%
+%% Emails.....: liu@coep.ufrj.br
+%%              jacoud@poli.ufrj.br
+%%              marco.fsantosx@gmail.com
+%%              renan028@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% FRONT PAGE
+%%******************************************************************************
+
+%%==============================================================================
+%% HEADLETTER LOGO(S)
+%%==============================================================================
+
+%\addheadlogo{L}{2.0cm}{coppetec50}
+\addheadlogo{R}{2.0cm}{coppetec50}
+
+%\addfootlogo{L}{2.0cm}{coppetec50}
+%\addfootlogo{R}{2.0cm}{coppetec50}
+
+
+%%==============================================================================
+%% FRONT PAGE CONTENTS
+%%==============================================================================
+
+\thispagestyle{empty}
+
+%% Disable page anchor to avoid multiple page number definition warnings.
+\hypersetup{pageanchor=false}
+
+%% Restart page counter.
+\setpagecounter{0}
+
+\begin{center}
+  {\LARGE \DORIS}
+
+  {\LARGE Offshore Facilities Monitoring Robots}
+  \vfill
+
+  %% Logo section. -----------------------------------------------------------
+
+  {\LARGE Collaboration among}
+  \vspace{0.25cm}
+
+  \addpicture{0.60}{LR}{
+    \addlogo{1.25cm}{cenpes} & \addlogo{1.25cm}{statoil} \rowend
+    \addlogo{1.25cm}{lead}   & \addlogo{1.25cm}{smt}
+  }
+  \vfill
+
+  %% Group section. ----------------------------------------------------------
+
+  {\LARGE Group 2}
+
+  {\LARGE Group Area \\ Electronics}
+  \vfill
+
+  %% Title section. ----------------------------------------------------------
+
+  {\LARGE Project Memorandum}
+  \vspace{0.25cm}
+
+  {\LARGE G2-M01}
+  \vfill
+
+  %% Date section. -----------------------------------------------------------
+
+  {\LARGE Jun/2014}
+\end{center}
+
+\newpage
+
+
+%%==============================================================================
+%% AUTHORS AND VERSION PAGE
+%%==============================================================================
+
+\thispagestyle{empty}
+
+%% Restart page counter.
+\setpagecounter{0}
+
+\begin{center}
+  %% Version section. --------------------------------------------------------
+
+  {\LARGE Document Version 1}
+  \vspace{0.25cm}
+
+  %% Project section. --------------------------------------------------------
+
+  {\Large CENPES-16288}
+
+  {\Large \DORIS}
+  \vfill
+
+  {\Large Interested Petrobras/Statoil}
+  \vfill
+
+  %% Authors section. --------------------------------------------------------
+
+  {\LARGE AUTHOR(S)}
+  \vspace{0.50cm}
+
+  {\large \textbf{Marco Fernandes dos Santos Xaud} \\ \email{marco.fsantosx@gmail.com}}
+  \vspace{0.25cm}
+
+  {\large \textbf{Renan Salles de Freitas} \\ \email{renan028@gmail.com}}
+  \vspace{0.25cm}
+
+  {\large \textbf{Alessandro Jacoud Peixoto} \\ \email{jacoud@poli.ufrj.br}}
+  \vspace{0.25cm}
+
+  {\large \textbf{Liu Hsu} \\ \email{liu@coep.ufrj.br}}
+  \vfill
+
+  %% Change log section. -----------------------------------------------------
+
+  \addtabular{1.0}{c|L|l|l}{
+    \rowhdr \cellcap{Version}    &
+            \cellcap{Annotation} &
+            \cellcap{Date}       &
+            \cellcap{Author(s)}  \rowend
+    %
+    \rowodd 1 & the first version of the document & Jun 30th, 2014 & Marco, Renan \rowend
+    \roweve 2 & & & \rowend
+    \rowodd 3 &  &  &  \rowend
+    \roweve 4  &  &  &
+  }
+\end{center}
+
+\newpage
+
+%% Enable page anchor again.
+\hypersetup{pageanchor=true}
+

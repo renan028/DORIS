@@ -1,0 +1,57 @@
+
+
+\chapter{Introduction}
+This memorandum presents the executive project of DORIS electronics system. The main objective of this document is to provide: a) the description of the architecture of the embedded electronics subsystems on both DORIS and remote control base; b) the list of devices (and their manufacturers) that compose the system; c) detailed manual for the assembly, installation, testing and commissioning of the electronics system; d) detailed description of tests conducted in LEAD to validate parts of the system; e) summary of bibliographic references.
+
+
+\section{Document structure}
+\begin{itemize}
+  \item Technical nomenclature
+  \item System architecture
+  \begin{itemize}
+    \item DORIS
+    \begin{itemize}
+      \item Overall system
+      \item Computers
+      \item Video, audio and sensor devices
+      \item LAN: Ethernet / Wi-Fi communication
+      \item Traction system / CAN communication
+      \item Supervisory circuits / Radio
+    \end{itemize}
+    \item Remote Control Base
+  \end{itemize}
+  \item System devices and components / Manufacturers
+  \begin{itemize}
+    \item Computers
+    \item Data acquisition system
+    \item Network devices
+    \item Motor and drivers
+    \item Printed circuit boards (PCBs)
+    \item Electronic components
+    \item Cables
+    \item Connectors
+    \item Tools and accessories
+  \end{itemize}
+  \item Procedures for installation
+  \item Performed tests for validation
+  \item Bibliographic references
+\end{itemize}
+
+\section{Technical nomenclature}
+Before continuing, we shall propose a technical nomenclature to use as standard in this memorandum: ESCREVER
+%    \begin{itemize}
+%        \item The robot and other major apparatus operating in the platform will be referred as \emph{electronic equipments} (e.g.: DORIS).
+%        \item Computers and its associated components (storage, physical memory, motherboard) will be referred \emph{computers}. All the remaining electronic gadgets will be referred \emph{devices}.
+%        \item Sensors, Cameras, Audio Systems and any other electronic equipment that performs data sensing from the environment will be referred \emph{Environmental Data Devices}. Lamps and other lighting devices are also in this category.
+%        \item Switches, Access Points and any other hardware for communication/interface (e.g.: Data Acquisition Board, Interface adapters, etc.) will be referred \emph{Interface Devices}.
+%        \item Environmental Data Devices and Interface Devices will compound together the \emph{Peripheral Devices}.
+%        \item Any device for actuation purpose (e.g.: motors and drivers for mobile locomotion/manipulator) will be referred \emph{Actuation Devices}.
+%    \end{itemize}
+%Figure~\ref{FIG:STD} summarizes this standardization.
+%\begin{figure}
+%  \centering
+%  % Requires \usepackage{graphicx}
+%  \includegraphics[width=1\columnwidth]{figs/body01/TEX-STD.pdf}\\
+%  \caption[Standardization for electronic equipments/devices.]{Standardization for electronic equipments/devices.}
+%  \label{FIG:STD}
+%\end{figure} 

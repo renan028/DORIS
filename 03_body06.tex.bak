@@ -1,0 +1,228 @@
+%%******************************************************************************
+%%
+%% body01.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: DORIS - Offshore Facilities Monitoring Robots
+%%
+%% Author.....: COPPE/LEAD-UFRJ Team - G2 (Embedded Electronics)
+%%
+%% Started....:      Fri Feb 01 2013
+%% Last Modified...: Fri Jun 10 2013
+%%
+%% Emails.....: liu@coep.ufrj.br
+%%              jacoud@poli.ufrj.br
+%%              marco.fsantosx@gmail.com
+%%              renan028@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% CHAPTER - Preliminary Schemes and Definitions
+%%******************************************************************************
+
+
+\chapter{Supervisory Electronic Circuits}
+In this chapter, it will be presented the schemes, drawings and explanations that illustrate DORIS preliminary electronics architecture and its subdivisions.
+
+
+%%******************************************************************************
+%% SECTION - Section
+%%******************************************************************************
+
+
+\section{Overall Block Diagram}
+Our first methodology was to analyze a set of electronics architectures developed in previous projects by our group (LEAD - Control and Automation, Application Engineering and Development Laboratory) and then propose adaptations and modifications for DORIS.
+\\ \\
+We propose an overall scheme for DORIS electronics main subsystems and its interconnections, which is shown in a block diagram in figure~\ref{FIG:NEWBLOCKDIAGRAMFIG}.
+
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[angle=90,width=1\columnwidth]{figs/body01/NEWBLOCKDIAGRAM.pdf}\\
+  \caption[Overall Subsystem Block Diagram]{Block Diagram showing the electronics subsystems}
+  \label{FIG:NEWBLOCKDIAGRAMFIG}
+\end{figure}
+%----------------------------------------------------------------------------
+
+We shall highlight the following points:
+
+    \begin{itemize}
+    \item \emph{Processing Units}. DORIS will have two CPUs operating within a \emph{computer network}. One computer will be dedicated to control the actuators (locomotion motors and manipulator motors), and the other one will be dedicated to perform image, video, and algorithm processing.
+    \item \emph{Remote Operation}. In DORIS project, the robot will either perform automatic tasks or be remotely operated through wireless communication. Wired solutions (twisted pair cables, optical fibers, etc.) must not be used due to the mechanical concepts of DORIS, as well as the locomotion rail, which lead to cost and complexity restrictions for cable wiring.
+    \item \emph{Local Communication}:\\Computers are responsible for processing, managing/scheduling, controlling and communicating the signals from/to all electronics equipments of DORIS, such as: sensor, cameras, audio drivers, motors/drives, access points, among others. In order to better segment and organize the equipment networks, the communication was divided into two main sections:
+    \begin{itemize}
+        \item \emph{Actuators Control Communication}:\\Specially dedicated for actuator controlling (locomotion and manipulator joints). The Controller Area Network (CAN) interface is  responsible for the actuator controlling communication.
+        \item \emph{Peripheral Devices Communication}:\\Includes interfaces for communication with other devices of DORIS (excluding those dedicated for the actuators). There are several possible interfaces for communication with the peripheral equipments, such as: USB, PCI, video ports (HDMI, VGA), audio ports (line-in, mic, line-out), LAN/Ethernet, RS232/485/422, Firewire, SMBUS (for connection with power supply telemetry).
+    \end{itemize}
+    \item \emph{Power Supply}:\\There will be power supply modules and DC/DC converters, which will supply energy to each different part of the robot through specific buses. It is important to mention:
+        \begin{itemize}
+            \item Control and Monitoring Module to perform the telemetry of power supply modules (the current specified batteries by G3 already have this module).
+            \item Backups power supply modules for emergency operation.
+        \end{itemize}
+    \end{itemize}
+
+
+\subsection{Technical Nomenclature}
+At this time, we shall propose a technical nomenclature to use as standard in this report:
+    \begin{itemize}
+        \item All electronic apparatus are \emph{electronic equipments}.
+        \item CPUs and its associated components (storage, physical memory, motherboard) will be referred \emph{computers}. All the remaining electronic gadgets will be referred \emph{devices}.
+        \item Sensors, Cameras, Audio Systems and any other electronic equipment that performs data sensing from the environment will be referred \emph{Environmental Data Devices}. Lamps and other lighting devices are also in this category.
+        \item Switches, Access Points and any other hardware for communication/interface (e.g.: Data Acquisition Board, Interface adapters, etc.) will be referred \emph{Interface Devices}.
+        \item Environmental Data Devices and Interface Devices will compound together the \emph{Peripheral Devices}.
+        \item Any device for actuation purpose (e.g.: motors and drivers for mobile locomotion/manipulator) will be referred \emph{Actuation Devices}.
+    \end{itemize}
+Figure~\ref{FIG:STD} summarizes this standardization.
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body01/TEX-STD.pdf}\\
+  \caption[Standardization for electronic equipments/devices.]{Standardization for electronic equipments/devices.}
+  \label{FIG:STD}
+\end{figure}
+
+
+\subsection{Wireless Communication}
+DORIS could be operated by a remote control/operation station, which will require a long-distance communication (limited by the dimensions of the oil/gas platform facility).
+
+According to the Mechanics Project, DORIS will operate along rails, installed on the platform. Considering this, wired communication will not be used for the following reasons:
+    \begin{itemize}
+        \item High cost of purchasing, implementing and maintaining long communication cables.
+        \item Structural difficulty or impediment for an implementation involving cables and wires along the rail.
+    \end{itemize}
+Hence, wireless is the best solution for remote operation. The main communication will be via Wi-Fi, since it is fast, reliable, easy to be installed (in both robot and operation station) and provides a wide communication range. In addition, a secondary  wireless technology, such as radio, could be used in case of emergency operations.
+
+Figure~\ref{FIG:REMOTEFIG} presents an illustration of the wireless communication of DORIS.
+
+\begin{figure}
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body01/REMOTE.png}\\
+    \caption[Wireless Communication Interfaces]{Wireless Interface of the Remote Communication}
+  \label{FIG:REMOTEFIG}
+\end{figure}
+
+
+
+\subsubsection{Main Wireless Communication: Wi-Fi}
+The Wi-Fi communication must overcome great distances. To be established, it will be necessary:
+\begin{itemize}
+    \item Access point for the robot. Multiple access points can be used to improve communication performance, signal quality and reliability.
+    \item Access point for each operation station.
+    \item Wi-Fi repeaters along the rail.
+\end{itemize}
+
+
+\subsubsection{Secondary Wireless Communication: Radio}
+The system will have a secondary wireless technology for emergency purposes, in case of Wi-Fi communication failure (as described in section~\ref{FAILURE_SCE}).
+
+For radio, it must have backup devices able to provide communication via radio (transmitter and receptor).
+The radio system will be specified further, in future activities.
+
+
+\section{Local Communication Interfaces}
+\subsection{Devices}
+The robot will carry in its structure several electronic devices, each with different features. Until now, there are defined:
+    \begin{itemize}
+        \item \emph{Sensors}
+            \begin{itemize}
+                \item Vibration Sensor;
+                \item Hydrocarbon/Gas Sensor;
+            \end{itemize}
+        \item \emph{Cameras}
+            \begin{itemize}
+                \item Fixed Camera;
+                \item Panoramic Camera;
+                \item Infrared Thermal Camera;
+                \item Stereoscopic Camera;
+            \end{itemize}
+        \item Audio
+            \begin{itemize}
+                \item Three Microphone Array Models;
+            \end{itemize}
+        \item Interface Devices
+            \begin{itemize}
+                \item LAN/Ethernet Switch;
+                \item Access Point;
+                \item Data Acquisition Board;
+                \item Interface adapters (unknown quantity);
+            \end{itemize}
+        \item Actuators
+            \begin{itemize}
+                \item Motors;
+                \item Motor Controllers/Drivers;
+            \end{itemize}
+    \end{itemize}
+
+
+\subsection{Peripheral Devices Communication}
+Figure~\ref{FIG:LOCALFIG} illustrates the interfaces of the connections between the computer network and the peripheral devices.
+
+\begin{figure}[!h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body01/LOCAL.png}\\
+  \caption[Peripheral Communication]{Peripheral Devices and the communication interfaces with the computers}  \label{FIG:LOCALFIG}
+\end{figure}
+
+
+\subsection{Actuators Control Communication}
+Figure~\ref{FIG:CANBUS1FIG} illustrates the actuator interfaces. The motors for both locomotion and manipulator are controlled by drivers, which are connected to a CAN Bus. On the other hand, the CAN interface is converted to Ethernet and connected to the computer network by switch.
+
+\begin{figure}[!h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body01/CANBUS1.png}\\
+  \caption[Actuators Control Communication]{Actuators Control Network and the communication via CAN}  \label{FIG:CANBUS1FIG}
+\end{figure}
+
+
+\subsection{Computer Network}
+As mentioned before, DORIS will have multiple computers, and each one will be dedicated for specific tasks. At the present time, it is defined that DORIS will operate with two computers (one dedicated for the actuator control and another one for collecting and processing signals from the environment, such as: images, videos, audio, measured physical variables, etc.).
+
+In order to operate in network, computers will be connected to Ethernet switches, which will establish and manage a single broadcast domain.
+
+\subsection{Hardware Interfaces}
+Computing interfaces are all the possible communications between peripheral devices and the CPUs. There are several types of interfaces, such as, Analog, USB, Firewire, Ethernet and others.
+\\
+We analyzed different types of devices that may be connected to the CPUs, concerning about the following features: input signal type, output signal type, presence or absence of communication via network, communication protocol type, power supply type, etc. This analysis took into account: a) research on equipment specified and used on old projects of our group, b) A survey performed by the Signal Processing Group on models of sensors, cameras, interface boards and other network equipment, c) Specification of a motor/driver model from the Mechanics Group, d) Project Specifications and constraints. So, we mapped the following points:
+    \begin{itemize}
+        \item In general, sensors of external physical variables transmit analog signals, which may be of type 4-20 mA, 8-10VDC, etc. A Data Acquisition Board (DAQ) will process these signals and convert into digital numeric values that can be interpreted/manipulated by the CPU. Interfaces between DAQ and PC can be Ethernet, USB, PCI, or PCI express.
+        \item Most of the surveyed cameras communicate via Ethernet Network.
+        \item Some Audio and Cameras interfaces are USB.
+        \item Interface adapters CAN/Ethernet and USB/Ethernet may be used due to project constraints.
+        \item There are some available interfaces between the CAN Bus and the computer, such as PCI and USB.
+    \end{itemize}
+
+Thus, G2 must specify a network and a computer model that can provide communication through all these listed interfaces.
+
+\section{Modular Topology}
+As mentioned before, the electronics of DORIS must fit the modular arrangement imposed by the mechanical project, weight and dimensions constraints. It means that each module (wagon) will contain separately a set of specific electronic devices. In order to ensure efficient and robust operations, electronics devices should be in a fully connected network. The information sharing grants parallel computation and better task management, and devices failures do not compromise the entire system (robustness of DORIS will be studied in chapter~\ref{OPERATION_SCE} of operational modes). So far, two spatial layouts were studied, and they are presented in chapter\ref{SPATIAL_LAYOUT}.
+
+%\begin{itemize}
+%Five wagons Layout. Figure XXX (two traction wagons - 4 locomotion motors):
+%    \item First wagon (Traction wagon 1): two motors defined by G1.
+%    \item Second wagon (Manipulator wagon): one computer (PC 1), manipulator, analog sensors, Ethernet switch and electronics conditioning circuits.
+%    \item Third wagon (Battery Wagon): Batteries, mechanical switches, Ethernet switch, PLC, diodes and electronics conditioning circuits.
+%    \item Fourth wagon (Signal Processing - SP Wagon): other sensors, cameras, audio devices, one high capacity computer (PC 2), access point for remote operations, ethernet switch and  electronics conditioning circuits.
+%- Rear wagon: traction wagon.
+%Four wagons Layout, Figure X.Y (one traction wagon - 2 motors):
+%- First wagon: one computer, the manipulator, analog sensors, ethernet switch and electronics conditioning circuits.
+%- Second wagon: Batteries, mechanical switches, ethernet switch, PLC, diodes and electronics conditioning circuits.
+%- Third wagon: Traction wagon.
+%- Fourth wagon: Fourth wagon: "LPS wagon" with other sensors, cameras, audio, one high capacity computer, access point for remote operations, ethernet switch and  electronics conditioning circuits.
+%\end{itemize}
+In both spatial layouts, all communication and power channels are grouped in a bus passing by in all wagons. Between each wagon, there will be a connector to link the bus from one module to the bus from another module, as shown in figure~\ref{FIG:MODULESFIG}.
+\begin{figure}[!h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=1\columnwidth]{figs/body01/TEX-Modules.pdf}\\
+  \caption[Modular Electronic Architecture]{Electronics Architecture considering the modular structure in wagons.}  \label{FIG:MODULESFIG}
+\end{figure}

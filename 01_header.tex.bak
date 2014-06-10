@@ -1,0 +1,55 @@
+%%******************************************************************************
+%%
+%% header.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: DORIS - Offshore Facilities Monitoring Robots
+%%
+%% Author.....: Petrobras-Statoil Team
+%%
+%% Started....: Fri Feb 01 2013
+%% Last Modified...: Fri Jun 10 2013
+%%
+%% Emails.....: liu@coep.ufrj.br
+%%              jacoud@poli.ufrj.br
+%%              marco.fsantosx@gmail.com
+%%              renan028@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% PAGE HEADERS AND FOOTERS
+%%******************************************************************************
+
+\pagestyle{fancy}
+
+%% Set header text.
+\def\headtextl{G2-R01}
+\def\headtextc{}
+\def\headtextr{\today}
+
+%% Set foot text.
+\def\foottextl{}
+\def\foottextc{\thepage}
+\def\foottextr{}
+
+%% Configure header and footer rules.
+\configheadrule{1.5pt}{shadgray}
+\configfootrule{0.0pt}{shadgray}
+
+%% Add header and footer text.
+\addhead{black}{\headtextl}{\headtextc}{\headtextr}
+\addfoot{black}{\foottextl}{\foottextc}{\foottextr}
+
+%% Configure header and footer rules/text for the plain page style.
+\configplainstyle{%
+  \configfootrule{0.0pt}{shadgray}%
+  \addfoot{black}{\foottextl}{\foottextc}{\foottextr}%
+}
+

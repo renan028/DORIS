@@ -1,0 +1,33 @@
+%%******************************************************************************
+%%
+%% bibliography.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: Bibliography
+%%
+%% Author.....: Petrobras-Statoil Team
+%%
+%% Started....: Wed Feb 06 2013
+%% Modified...: Wed Feb 06 2013
+%%
+%% Emails.....: jleite@lps.ufrj.br
+%%              jleitex@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% CHAPTER - Bibliography
+%%******************************************************************************
+
+\bibliographystyle{master}
+\bibliography{master}
+
+\addcontentsline{toc}{chapter}{Bibliography}
+
+

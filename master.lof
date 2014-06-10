@@ -1,0 +1,79 @@
+\select@language {english}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Overall communications diagram of the designed system}}{5}{figure.2.1}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overall communications diagram considering system expansions}}{6}{figure.2.2}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Local Area Network - Overall architecture}}{9}{figure.2.3}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces DORIS Ethernet Network - Detailed architecture}}{10}{figure.2.4}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Overall actuation system diagram and traction/manipulator subsystems}}{13}{figure.2.5}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Computer (Option 1): ADLQM67PC-2715QE}}{20}{figure.3.1}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Computer (Option 2): ADLQM87PC}}{22}{figure.3.2}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Computer (Option 3): SC240ML-i724}}{25}{figure.3.3}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Computer (Option 3): SC240ML-i724 cable set and heat pipe}}{26}{figure.3.4}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Computer (Option 3): SC240ML-i724 technical drawing (in inches)}}{27}{figure.3.5}
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Ethernet Switch (Option 1): Korenix JetNet 3008G}}{29}{figure.3.6}
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Ethernet Switch (Option 1): Korenix JetNet 3008G technical drawing (in inches)}}{30}{figure.3.7}
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Ethernet Switch (Option 2): Korenix JetNet 3008G}}{31}{figure.3.8}
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Ethernet Switch (Option 2): Korenix JetNet 3005G technical drawing (in inches)}}{32}{figure.3.9}
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Ethernet Switch (Option 3): Korenix JetNet 3005G V2}}{33}{figure.3.10}
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Ethernet Switch (Option 4): Korenix JetNet 3010G-w}}{35}{figure.3.11}
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Ethernet Switch (Option 4): Korenix JetNet 3010G-w technical drawing (in inches)}}{37}{figure.3.12}
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Wi-Fi Access Point (Option 1): Extronics iWAP107}}{38}{figure.3.13}
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Motor (Option 1): Maxon Motor EC-4pole 200W 305013}}{40}{figure.3.14}
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Reduction gear (Option 1): Maxon Motor Planetary Gearhead 21:1 326660}}{43}{figure.3.15}
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Controller driver (Option 1): Maxon Motor EPOS2 70/10 375711}}{46}{figure.3.16}
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Controller driver (Option 1): Maxon Motor EPOS2 70/10 375711 interfaces/pinout}}{47}{figure.3.17}
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Motor combination (Option 1): Maxon Motor Combination 470625}}{47}{figure.3.18}
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Motor combination (Option 1): Maxon Motor Combination 470625 scheme and interfaces}}{48}{figure.3.19}
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Vibration Sensor - Specifications}}{49}{figure.3.20}
+\contentsline {figure}{\numberline {3.21}{\ignorespaces 10pinF(CAN): DIN 41651 connector, pitch 2.54 mm, 10 poles, plug strain relief (Female)}}{51}{figure.3.21}
+\contentsline {figure}{\numberline {3.22}{\ignorespaces 10pinF(Encoder): DIN 41651 connector, pitch 2.54 mm, 10 poles, plug strain relief (Female)}}{52}{figure.3.22}
+\contentsline {figure}{\numberline {3.23}{\ignorespaces CG(CAN): Cable Gland for CAN}}{53}{figure.3.23}
+\contentsline {figure}{\numberline {3.24}{\ignorespaces CG(LAN): Cable Gland for Ethernet}}{54}{figure.3.24}
+\contentsline {figure}{\numberline {3.25}{\ignorespaces DB9F(SH): Shielded DB9 (Female)}}{56}{figure.3.25}
+\contentsline {figure}{\numberline {3.26}{\ignorespaces DB9M(SH): Shielded DB9 (Male)}}{57}{figure.3.26}
+\contentsline {figure}{\numberline {3.27}{\ignorespaces microCAN: Molex Micro-Fit 3.0\texttrademark 4 poles (43025-0400)}}{58}{figure.3.27}
+\contentsline {figure}{\numberline {3.28}{\ignorespaces microHall: Molex Micro-Fit 3.0\texttrademark 6 poles (43025-0600)}}{59}{figure.3.28}
+\contentsline {figure}{\numberline {3.29}{\ignorespaces miniMotor: Molex Mini-Fit\textregistered Jr. 4 poles (39-01-2040)}}{61}{figure.3.29}
+\contentsline {figure}{\numberline {3.30}{\ignorespaces miniPower: Molex Mini-Fit\textregistered Jr. 2 poles (39-01-2020)}}{62}{figure.3.30}
+\contentsline {figure}{\numberline {3.31}{\ignorespaces RJ45F(SH): Shielded RJ-45 (Female)}}{63}{figure.3.31}
+\contentsline {figure}{\numberline {3.32}{\ignorespaces RJ45M(SH): Shielded RJ-45 (Male)}}{64}{figure.3.32}
+\contentsline {figure}{\numberline {3.33}{\ignorespaces SCANF(SH): Shielded Special CAN Industrial Connector (Female)}}{66}{figure.3.33}
+\contentsline {figure}{\numberline {3.34}{\ignorespaces SCANM(SH): Shielded Special CAN Industrial Connector (Male)}}{67}{figure.3.34}
+\contentsline {figure}{\numberline {3.35}{\ignorespaces SLANF(SH): Shielded Special Ethernet Industrial Connector (Female)}}{68}{figure.3.35}
+\contentsline {figure}{\numberline {3.36}{\ignorespaces SLANM(SH): Shielded Special Ethernet Industrial Connector (Male)}}{70}{figure.3.36}
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Cable list}}{72}{figure.3.37}
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Cable signal type list}}{73}{figure.3.38}
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Cable Mark Type: Ovalgrip}}{74}{figure.3.39}
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Heat shrink tube for thermal insulation}}{76}{figure.3.40}
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Heat blower - Application over the cable/wires}}{77}{figure.3.41}
+\contentsline {figure}{\numberline {3.42}{\ignorespaces Cutting plier examples (out of scale)}}{78}{figure.3.42}
+\contentsline {figure}{\numberline {3.43}{\ignorespaces Long needle-nose plier examples (out of scale)}}{79}{figure.3.43}
+\contentsline {figure}{\numberline {3.44}{\ignorespaces Plier: Molex hand crimper for Micro-Fit 3.0\texttrademark crimp terminals (63819-0000)}}{80}{figure.3.44}
+\contentsline {figure}{\numberline {3.45}{\ignorespaces Plier: Molex hand crimper for Mini-Fit\textregistered crimp terminals (63819-0900)}}{81}{figure.3.45}
+\contentsline {figure}{\numberline {3.46}{\ignorespaces Soldering station}}{82}{figure.3.46}
+\contentsline {figure}{\numberline {3.47}{\ignorespaces Heat shrink tube for thermal insulation}}{84}{figure.3.47}
+\contentsline {figure}{\numberline {3.48}{\ignorespaces Heat shrink tube for thermal insulation - Application over the cable/wires}}{85}{figure.3.48}
+\contentsline {figure}{\numberline {3.49}{\ignorespaces microCrimp: Molex Micro-Fit 3.0\texttrademark female crimp terminals (43030-xxxx)}}{86}{figure.3.49}
+\contentsline {figure}{\numberline {3.50}{\ignorespaces miniCrimp: Molex Mini-Fit\textregistered Jr. female crimp terminals (44476-xxxx)}}{87}{figure.3.50}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : placing the crimp terminal}}{91}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : procedures for manual crimping}}{92}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : applying the heat shrink tube}}{93}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : inserting the crimp terminals into the connector holes}}{94}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Crimping Molex Mini-Fit \textregistered : placing the crimp terminal}}{96}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Crimping Molex Mini-Fit \textregistered : procedures for manual crimping}}{97}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Crimping Molex Mini-Fit \textregistered : applying the heat shrink tube}}{98}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Crimping Molex Mini-Fit \textregistered : inserting the crimp terminals into the connector holes}}{99}{figure.4.8}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {A.1}{\ignorespaces \leavevmode {\color {blue}General organogram.}}}{103}{figure.A.1}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces \leavevmode {\color {blue}Project coordinator.}}}{104}{figure.A.2}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces \leavevmode {\color {blue}Mechanics organogram.}}}{105}{figure.A.3}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces \leavevmode {\color {blue}Electronics organogram.}}}{106}{figure.A.4}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces \leavevmode {\color {blue}Power organogram.}}}{107}{figure.A.5}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces \leavevmode {\color {blue}Software organogram.}}}{108}{figure.A.6}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces \leavevmode {\color {blue}Signal processing organogram.}}}{109}{figure.A.7}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces \leavevmode {\color {blue}Project secretary.}}}{110}{figure.A.8}

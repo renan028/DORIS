@@ -1,0 +1,987 @@
+%%******************************************************************************
+%%
+%% mybook.sty
+%%
+%%******************************************************************************
+%%
+%% Title......: Report style in a book format.
+%%
+%% Author.....: Petrobras-Statoil Team
+%%
+%% Started....: Sat Feb 02 2013
+%% Modified...: Thu Mar 21 2013
+%%
+%% Emails.....: jleite@lps.ufrj.br
+%%              jleitex@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% PACKAGES
+%%******************************************************************************
+
+\usepackage[T1]{fontenc}
+\usepackage[latin1]{inputenc}
+\usepackage[english]{babel}
+
+\usepackage{rotating}
+\usepackage{enumerate}
+
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{array}
+
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{multirow}
+\usepackage{tabularx}
+\usepackage{supertabular}
+
+\usepackage{palatino}
+\usepackage{mathpazo}
+
+\usepackage{afterpage}
+\usepackage{textcomp}
+
+\usepackage{listings}
+
+\usepackage{eso-pic}
+\usepackage{fancyhdr}
+
+\usepackage[pagebackref=true]{hyperref}
+\usepackage{multimedia}
+
+%% Must be here, as the last package.
+\usepackage{mytranslator}
+
+
+%%******************************************************************************
+%% COLORS
+%%******************************************************************************
+
+%% ---------------------------------------------------------------------------
+%% Bright colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{brightred}     {rgb}{1.00, 0.95, 0.95}
+\definecolor{brightgreen}   {rgb}{0.95, 1.00, 0.95}
+\definecolor{brightblue}    {rgb}{0.95, 0.95, 1.00}
+
+\definecolor{brightyellow}  {rgb}{1.00, 1.00, 0.95}
+\definecolor{brightmagenta} {rgb}{1.00, 0.95, 1.00}
+\definecolor{brightcyan}    {rgb}{0.95, 1.00, 1.00}
+
+\definecolor{brightorange}  {rgb}{1.00, 0.95, 0.85}
+
+%% ---------------------------------------------------------------------------
+%% Pale colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{palered}     {rgb}{1.00, 0.85, 0.85}
+\definecolor{palegreen}   {rgb}{0.85, 1.00, 0.85}
+\definecolor{paleblue}    {rgb}{0.85, 0.85, 1.00}
+
+\definecolor{paleyellow}  {rgb}{1.00, 1.00, 0.85}
+\definecolor{palemagenta} {rgb}{1.00, 0.85, 1.00}
+\definecolor{palecyan}    {rgb}{0.85, 1.00, 1.00}
+
+\definecolor{paleorange}  {rgb}{1.00, 0.85, 0.65}
+
+%% ---------------------------------------------------------------------------
+%% Light colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{lightred}     {rgb}{0.95, 0.00, 0.00}
+\definecolor{lightgreen}   {rgb}{0.00, 0.95, 0.00}
+\definecolor{lightblue}    {rgb}{0.00, 0.00, 0.95}
+
+\definecolor{lightyellow}  {rgb}{0.95, 0.95, 0.00}
+\definecolor{lightmagenta} {rgb}{0.95, 0.00, 0.95}
+\definecolor{lightcyan}    {rgb}{0.00, 0.95, 0.95}
+
+\definecolor{lightgray}    {rgb}{0.95, 0.95, 0.95}
+
+\definecolor{lightorange}  {rgb}{0.95, 0.63, 0.00}
+
+%% ---------------------------------------------------------------------------
+%% Middle colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{midred}     {rgb}{0.85, 0.00, 0.00}
+\definecolor{midgreen}   {rgb}{0.00, 0.85, 0.00}
+\definecolor{midblue}    {rgb}{0.00, 0.00, 0.85}
+
+\definecolor{midyellow}  {rgb}{0.85, 0.85, 0.00}
+\definecolor{midmagenta} {rgb}{0.85, 0.00, 0.85}
+\definecolor{midcyan}    {rgb}{0.00, 0.85, 0.85}
+
+\definecolor{midgray}    {rgb}{0.85, 0.85, 0.85}
+
+\definecolor{midorange}  {rgb}{0.85, 0.57, 0.00}
+
+%% ---------------------------------------------------------------------------
+%% Normal colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{red}     {rgb}{0.75, 0.00, 0.00}
+\definecolor{green}   {rgb}{0.00, 0.75, 0.00}
+\definecolor{blue}    {rgb}{0.00, 0.00, 0.75}
+
+\definecolor{yellow}  {rgb}{0.75, 0.75, 0.00}
+\definecolor{magenta} {rgb}{0.75, 0.00, 0.75}
+\definecolor{cyan}    {rgb}{0.00, 0.75, 0.75}
+
+\definecolor{gray}    {rgb}{0.75, 0.75, 0.75}
+
+\definecolor{orange}  {rgb}{0.75, 0.50, 0.00}
+
+%% ---------------------------------------------------------------------------
+%% Shadow colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{shadred}     {rgb}{0.65, 0.00, 0.00}
+\definecolor{shadgreen}   {rgb}{0.00, 0.65, 0.00}
+\definecolor{shadblue}    {rgb}{0.00, 0.00, 0.65}
+
+\definecolor{shadyellow}  {rgb}{0.65, 0.65, 0.00}
+\definecolor{shadmagenta} {rgb}{0.65, 0.00, 0.65}
+\definecolor{shadcyan}    {rgb}{0.00, 0.65, 0.65}
+
+\definecolor{shadgray}    {rgb}{0.65, 0.65, 0.65}
+
+\definecolor{shadorange}  {rgb}{0.65, 0.43, 0.00}
+
+%% ---------------------------------------------------------------------------
+%% Darker colors
+%% ---------------------------------------------------------------------------
+
+\definecolor{darkred}     {rgb}{0.50, 0.00, 0.00}
+\definecolor{darkgreen}   {rgb}{0.00, 0.50, 0.00}
+\definecolor{darkblue}    {rgb}{0.00, 0.00, 0.50}
+
+\definecolor{darkyellow}  {rgb}{0.50, 0.50, 0.00}
+\definecolor{darkmagenta} {rgb}{0.50, 0.00, 0.50}
+\definecolor{darkcyan}    {rgb}{0.00, 0.50, 0.50}
+
+\definecolor{darkgray}    {rgb}{0.50, 0.50, 0.50}
+
+\definecolor{darkorange}  {rgb}{0.50, 0.33, 0.00}
+
+%% ---------------------------------------------------------------------------
+%% Hyperref setup
+%% ---------------------------------------------------------------------------
+
+\hypersetup{
+  breaklinks   = true,
+  colorlinks   = true,
+  linkcolor    = darkblue,
+  anchorcolor  = darkcyan,
+  citecolor    = darkred,
+  filecolor    = darkorange,
+  menucolor    = darkmagenta,
+  urlcolor     = darkgreen,
+  pdfhighlight = /I,
+  pdfstartview = FitH,
+  pdfview      = FitH
+}
+
+
+%%******************************************************************************
+%% DOCUMENT STRUCTURE
+%%******************************************************************************
+
+%% ---------------------------------------------------------------------------
+%% Page appearance
+%% ---------------------------------------------------------------------------
+
+\setlength{\textheight}{24.7cm}
+\setlength{\textwidth }{15.0cm}
+
+\setlength{\footskip   }{1.0cm}
+\setlength{\footnotesep}{0.5cm}
+
+\setlength{\headheight}{1.0cm}
+\setlength{\headsep   }{0.5cm}
+
+\setlength{\oddsidemargin }{ 0.46cm} %  0.46
+\setlength{\topmargin     }{-1.54cm} % -0.04
+\setlength{\marginparsep  }{0pt}
+\setlength{\marginparwidth}{0pt}
+
+\setlength{\parindent}{1.00cm}
+
+\newcommand{\setbaselinestretch}[1]{\renewcommand{\baselinestretch}{#1}}
+
+\newcommand{\setpagecounter}[1]{\setcounter{page}{#1}}
+
+\setbaselinestretch{1.5}
+
+%% ---------------------------------------------------------------------------
+%% Numbering
+%% ---------------------------------------------------------------------------
+
+%% Subsubsection numbering.
+\setcounter{secnumdepth}{3}
+
+%% Subsubsection index.
+\setcounter{tocdepth}{3}
+
+%% ---------------------------------------------------------------------------
+%% Math letters
+%% ---------------------------------------------------------------------------
+%%
+%% Usage example:
+%%
+%% \begin{mathletters}
+%% \begin{eqnarray}
+%%   a &=& b + c     \\
+%%     &=& b + d + e \\
+%%     &=& 4
+%% \end{eqnarray}
+%% \end{mathletters}
+%%
+%% Result:
+%%
+%%                             a = b + c                              (2.1a)
+%%                               = b + d + e                          (2.1b)
+%%                               = 4                                  (2.1c)
+%%
+%% ---------------------------------------------------------------------------
+
+\makeatletter
+\@ifundefined{mathletters}{%
+  \newcounter{equationnumber}
+  \def\mathletters{%
+     \addtocounter{equation}{1}
+     \edef\@currentlabel{\theequation}%
+     \setcounter{equationnumber}{\c@equation}
+     \setcounter{equation}{0}%
+     \edef\theequation{\@currentlabel\noexpand\alph{equation}}%
+  }
+  \def\endmathletters{%
+     \setcounter{equation}{\value{equationnumber}}%
+  }
+}{}
+
+
+%%******************************************************************************
+%% NEW COMMANDS
+%%******************************************************************************
+
+%% ---------------------------------------------------------------------------
+%% Colored text
+%% ---------------------------------------------------------------------------
+
+\newcommand{\textwhite}[1]{\textcolor{white}{#1}}
+\newcommand{\textgray}[1]{\textcolor{gray}{#1}}
+\newcommand{\textblack}[1]{\textcolor{black}{#1}}
+
+\newcommand{\textred}[1]{\textcolor{red}{#1}}
+\newcommand{\textblue}[1]{\textcolor{blue}{#1}}
+\newcommand{\textgreen}[1]{\textcolor{green}{#1}}
+
+%% Text highlight.
+\newcommand{\texthfg}[1]{\textcolor{blue}{#1}}
+\newcommand{\texthbg}[1]{\fcolorbox{lightgray}{lightgray}{#1}}
+
+%% ---------------------------------------------------------------------------
+%% Monospace text
+%% ---------------------------------------------------------------------------
+
+\newcommand{\monotxt}[1]{\textbf{\texttt{#1}}}
+
+%% ---------------------------------------------------------------------------
+%% Centralize (Do not remove the empty line)
+%% ---------------------------------------------------------------------------
+
+\newcommand{\centralize}[1]{%
+  \vspace{0.1cm}%
+  {\centering #1
+
+  }\vspace{0.1cm}%
+}
+
+%% ---------------------------------------------------------------------------
+%% Commands to display commands
+%% ---------------------------------------------------------------------------
+
+\newcommand{\cmd}[1]{\textblack{\textbf{\textbackslash #1}}}
+\newcommand{\car}[1]{\textblack{\{}\textred{#1}\textblack{\}}}
+
+%% ---------------------------------------------------------------------------
+%% Trademark, registered, and copyright
+%% ---------------------------------------------------------------------------
+
+\newcommand{\tm}{\texttrademark}
+\newcommand{\reg}{\textregistered}
+
+\newcommand{\copyr}{\textcopyright}
+
+%% ---------------------------------------------------------------------------
+%% DORIS
+%% ---------------------------------------------------------------------------
+
+\newcommand{\DORIS}{\texthfg{DORIS}}
+\newcommand{\LDORIS}{%
+  \DORIS\ -- Offshore Facilities Monitoring Robots%
+}
+
+%% ---------------------------------------------------------------------------
+%% Price
+%% ---------------------------------------------------------------------------
+
+\newcommand{\price}[2]{#1\$~#2}
+
+\newcommand{\usprice}[1]{\price{US}{#1}}
+\newcommand{\brprice}[1]{\price{R}{#1}}
+\newcommand{\caprice}[1]{\price{CAD}{#1}}
+
+%% ---------------------------------------------------------------------------
+%% Temperature
+%% ---------------------------------------------------------------------------
+
+\newcommand{\celsius}[1]{#1\textdegree{C}}
+\newcommand{\fahrenheit}[1]{#1\textdegree{F}}
+\newcommand{\rankine}[1]{#1\textdegree{R}}
+
+\newcommand{\kelvin}[1]{#1~K}
+
+%% ---------------------------------------------------------------------------
+%% Standard gravity
+%% ---------------------------------------------------------------------------
+
+\newcommand{\gzero}{\ensuremath{\textnormal{g}_{0}}}
+\newcommand{\gzeroval}{9.80665~\ensuremath{\textnormal{m/s}^{2}}}
+
+%% ---------------------------------------------------------------------------
+%% Tables
+%% ---------------------------------------------------------------------------
+
+\newlength{\mytabrule}
+\newlength{\myboxrule}
+
+\setlength\mytabrule{0.5pt}
+\setlength\myboxrule{1.0pt}
+
+\setlength{\tabcolsep}{3.0pt}
+\renewcommand{\arraystretch}{1.0}
+
+\setlength\arrayrulewidth{\mytabrule}
+
+\newcolumntype{|}{!{\color{white}\vline}}
+\newcommand{\addline}{\arrayrulecolor{white}\hline\arrayrulecolor{white}}
+
+%% Row colors.
+\newcommand{\rowhdr}{\rowcolor{darkblue}}
+\newcommand{\rowodd}{\rowcolor{brightblue}}
+\newcommand{\roweve}{\rowcolor{paleblue}}
+\newcommand{\rowsel}{\rowcolor{palegreen}}
+
+%% Row end.
+\newcommand{\rowend}{\tabularnewline\addline}
+\newcommand{\rowendnoline}{\tabularnewline}
+
+%% Cell text (header).
+\newcommand{\cellhfg}[1]{\textcolor{white}{#1}}
+\newcommand{\cellhbg}[1]{\cellcolor{darkblue}#1}
+
+\newcommand{\cellcap}[1]{\cellhfg{\textbf{#1}}}
+\newcommand{\cellhdr}[1]{\cellhbg{\cellcap{#1}}}
+
+%% Cell text (odd, even, and selection).
+\newcommand{\cellodd}[1]{\cellcolor{brightblue}#1}
+\newcommand{\celleve}[1]{\cellcolor{paleblue}#1}
+\newcommand{\cellsel}[1]{\cellcolor{palegreen}#1}
+
+%% Empty cell.
+\newcommand{\nocell}{\cellcolor{white}}
+
+%% Cell picture.
+\newcommand{\cellpicw}[2]{\includegraphics[width=#1\columnwidth]{#2}}
+\newcommand{\cellpich}[2]{\includegraphics[height=#1\columnheight]{#2}}
+\newcommand{\cellpics}[2]{\includegraphics[scale=#1]{#2}}
+
+\newcommand{\cellpic}[2]{%
+  %
+  % #1 - width in fraction of columnwidth
+  % #2 - figure path
+  %
+  \cellpicw{#1}{#2}%
+}
+
+\newcommand{\photo}[3]{%
+  %
+  % #1 - width in fraction of columnwidth
+  % #2 - team folder under team dir figs/team
+  % #3 - team member (eg. paul)
+  %
+  \setlength{\fboxrule}{\myboxrule}%
+  \fcolorbox{shadgray}{lightgray}{\cellpic{#1}{figs/team/#2/#3.pdf}}%
+}
+
+\renewcommand{\tabularxcolumn}[1]{m{#1}}
+
+\newcolumntype{C}{>{\centering}X}
+\newcolumntype{R}{>{\raggedleft}X}
+\newcolumntype{L}{>{\raggedright}X}
+
+%% Multicolumn rows.
+\newcommand{\mcrowhdr}[3]{\multicolumn{#1}{#2}{\cellhdr{#3}}}
+\newcommand{\mcrowodd}[3]{\multicolumn{#1}{#2}{\cellodd{#3}}}
+\newcommand{\mcroweve}[3]{\multicolumn{#1}{#2}{\celleve{#3}}}
+\newcommand{\mcrowsel}[3]{\multicolumn{#1}{#2}{\cellsel{#3}}}
+
+\newcommand{\addcaption}[1]{\caption{\texthfg{#1}}}
+
+%% Tabular (no caption).
+\newcommand{\addtabular}[3]{
+  %
+  % #1 - width in fraction of columnwidth
+  % #2 - columns and alignment
+  %
+  % #3 - table content
+  %
+  \begin{center}
+  %
+  \begin{footnotesize}
+  \begin{tabularx}{#1\columnwidth}{#2}
+    #3%
+  \end{tabularx}
+  \end{footnotesize}
+  %
+  \end{center}
+}
+
+%% Table container.
+\newcommand{\addtable}[5]{
+  %
+  % #1 - width in fraction of columnwidth
+  % #2 - columns and alignment
+  %
+  % #3 - table caption
+  % #4 - table label (it can be empty)
+  % #5 - table content
+  %
+  \begin{table}[tbh]
+  \begin{center}
+  %
+  \addcaption{#3}#4
+  \vspace{0.25cm}
+
+  \begin{footnotesize}
+  \begin{tabularx}{#1\columnwidth}{#2}
+    #5%
+  \end{tabularx}
+  \end{footnotesize}
+  %
+  \end{center}
+  \end{table}
+}
+
+%% ---------------------------------------------------------------------------
+%% Figures
+%% ---------------------------------------------------------------------------
+
+\newcommand{\rowendfig}{\rowendnoline}
+
+%% One figure per row.
+\newcommand{\rowonefig}[2]{\cellpic{#1}{#2}}
+
+%% One figure per row inside a color box.
+\newcommand{\rowonefigbox}[4]{\fcolorbox{#2}{#3}{\cellpic{#1}{#4}}}
+
+%% Two figures per row.
+\newcommand{\rowtwofig}[3]{\cellpic{#1}{#2} & \cellpic{#1}{#3}}
+
+%% Two figures per row inside color boxes.
+\newcommand{\rowtwofigbox}[5]{%
+  \fcolorbox{#2}{#3}{\cellpic{#1}{#4}} &
+  \fcolorbox{#2}{#3}{\cellpic{#1}{#5}}%
+}
+
+%% Picture container (no caption).
+\newcommand{\addpicture}[3]{
+  %
+  % #1 - width in fraction of columnwidth
+  % #2 - columns and alignment
+  %
+  % #3 - figure content
+  %
+  \begin{center}
+  %
+  \begin{scriptsize}
+  \begin{tabularx}{#1\columnwidth}{#2}
+    #3%
+  \end{tabularx}
+  \end{scriptsize}
+  %
+  \end{center}
+}
+
+%% Figure container.
+\newcommand{\addfigure}[5]{
+  %
+  % #1 - width in fraction of columnwidth
+  % #2 - columns and alignment
+  %
+  % #3 - figure caption
+  % #4 - figure label (it can be empty)
+  % #5 - figure content
+  %
+  \begin{figure}[tbh]
+  \begin{center}
+  %
+  \begin{footnotesize}
+  \begin{tabularx}{#1\columnwidth}{#2}
+    #5%
+  \end{tabularx}
+  \end{footnotesize}
+
+  \vspace{-0.50cm}
+  \addcaption{#3}#4
+  %
+  \end{center}
+  \end{figure}
+}
+
+%% ---------------------------------------------------------------------------
+%% Notes
+%% ---------------------------------------------------------------------------
+
+\newcommand{\addnote}[3]{%
+  %
+  % #1 - width
+  % #2 - note name (Ex: NOTE)
+  %
+  % #3 - note text
+  %
+  \addtabular{#1}{X}{\rowcolor{lightgray} \tiny \textbf{#2}: #3}%
+}
+
+%% ---------------------------------------------------------------------------
+%% Team information
+%% ---------------------------------------------------------------------------
+
+\newcommand{\addteaminfo}[3]{
+  %
+  % #1 - team group
+  % #2 - member name
+  %
+  % #3 - member information (in tabular format one column)
+  %
+  \begin{center}
+    \begin{minipage}[t]{0.250\columnwidth}
+      \vspace{0cm}
+      \photo{0.825}{#1}{#2}
+    \end{minipage}
+    %
+    \begin{minipage}[t]{0.550\columnwidth}
+      \vspace{0cm}
+      \begin{footnotesize}
+      \begin{tabularx}{0.990\columnwidth}{L}
+        #3%
+      \end{tabularx}
+      \end{footnotesize}
+    \end{minipage}
+  \end{center}
+}
+
+%% ---------------------------------------------------------------------------
+%% Listings
+%% ---------------------------------------------------------------------------
+%%
+%% backgroundcolor   : choose the background color; you must add
+%%                     \usepackage{color} or \usepackage{xcolor}
+%% basicstyle        : the size of the fonts that are used for the code
+%%
+%% breakatwhitespace : sets if automatic breaks should only happen at whitespace
+%% breaklines        : sets automatic line breaking
+%%
+%% captionpos        : sets the caption-position to bottom
+%%
+%% commentstyle      : comment style
+%% keywordstyle      : keyword style
+%% identifierstyle   : identifier style
+%% stringstyle       : string literal style
+%%
+%% morekeywords      : if you want to add more keywords to the set
+%% deletekeywords    : if you want to delete keywords from the given language
+%%
+%% escapeinside      : if you want to add LaTeX within your code
+%% extendedchar      : lets you use non-ASCII characters; for 8-bits encodings
+%%                     only, does not work with UTF-8
+%%
+%% frame=single      : adds a frame around the code
+%% rulecolor         : if not set, the frame-color may be changed on
+%%                     line-breaks within not-black text (e.g. comments)
+%%
+%% language          : the language of the code
+%%
+%% numbers           : where to put the line-numbers; possible values are
+%%                     (none, left, right)
+%% numbersep         : how far the line-numbers are from the code
+%% numberstyle       : the style that is used for the line-numbers
+%% stepnumber        : the step between two line-numbers. If it's 1, each line
+%%                     will be numbered
+%%
+%% showspaces        : show spaces everywhere adding particular underscores;
+%%                     it overrides 'showstringspaces'
+%% showstringspaces  : underline spaces within strings only
+%% showtabs          : show tabs within strings adding particular underscores
+%%
+%% tabsize           : sets default tabsize to 2 spaces
+%% title/caption     : shows the filename of files included with
+%%                     \lstinputlisting; also try caption instead of title
+%%
+%% ---------------------------------------------------------------------------
+
+\lstset{
+  backgroundcolor=\color{lightgray},
+  basicstyle=\scriptsize\ttfamily,
+  %
+  breakatwhitespace=false,
+  breaklines=true,
+  %
+  captionpos=t,
+  %
+  commentstyle=\bfseries\color{darkblue},
+  keywordstyle=\bfseries\color{black},
+  stringstyle=\color{blue},
+  identifierstyle=\color{black},
+  %
+  morekeywords={*,...},
+  deletekeywords={},
+  %
+  escapeinside={@(}{)@},
+  %
+  frame=single,
+  rulecolor=\color{gray},
+  %
+  numbers=left,
+  numbersep=10pt,
+  numberstyle=\ttfamily\bfseries\color{red},
+  stepnumber=1,
+  %
+  showspaces=false,
+  showstringspaces=false,
+  showtabs=false,
+  %
+  tabsize=2
+}
+
+%% List container.
+\newcommand{\addcode}[4]{
+  %
+  % #1 - language (eg. C, C++, TeX, Python, etc)
+  % #2 - file containing the code (eg. main.cpp)
+  %
+  % #3 - caption text (eg. Listing of main.cpp)
+  % #4 - listing label: use \label{} (optional)
+  %
+  \begin{center}
+    %
+    \setbaselinestretch{1.0}
+    %
+    \lstset{
+      language=#1,
+      caption=\texthfg{#3}#4
+    }
+    \lstinputlisting{#2}
+    %
+  \end{center}
+}
+
+%% List container (range selection).
+\newcommand{\addcoderange}[6]{
+  %
+  % #1 - language (eg. C, C++, TeX, Python, etc)
+  % #2 - file containing the code (eg. main.cpp)
+  %
+  % #3 - First line of the range
+  % #4 - Last line of the range
+  %
+  % #5 - caption text (eg. Listing of main.cpp)
+  % #6 - listing label: use \label{} (optional)
+  %
+  \begin{center}
+    %
+    \setbaselinestretch{1.0}
+    %
+    \lstset{
+      language=#1,
+      caption=\texthfg{#5}#6
+    }
+    \lstinputlisting[firstline=#3, lastline=#4]{#2}
+    %
+  \end{center}
+}
+
+%% ---------------------------------------------------------------------------
+%% Part title
+%% ---------------------------------------------------------------------------
+
+\newcommand{\addpart}[1]{\texthfg{\part{#1}}}
+
+%% ---------------------------------------------------------------------------
+%% Blocks
+%% ---------------------------------------------------------------------------
+
+\newcommand{\makeblock}[6]{%
+  %
+  % #1 - caption background color
+  % #2 - caption foreground color
+  %
+  % #3 - caption text
+  %
+  % #4 - contents background color
+  % #5 - contents foreground color
+  %
+  % #6 - contents text
+  %
+  \begin{center}
+  \begin{tabularx}{0.95\columnwidth}{X}
+    \rowcolor{#1} \textcolor{#2}{#3} \tabularnewline
+    \rowcolor{#4} \textcolor{#5}{#6}
+  \end{tabularx}
+  \end{center}%
+}
+
+%% Block normal.
+\newcommand{\myblock}[2]{%
+  %
+  % #1 - caption text
+  % #2 - contents text
+  %
+  \makeblock{blue}{white}{\textbf{#1}}{lightgray}{black}{#2}%
+}
+
+%% Block alert.
+\newcommand{\myalert}[2]{%
+  %
+  % #1 - caption text
+  % #2 - contents text
+  %
+  \makeblock{red}{white}{\textbf{#1}}{lightgray}{black}{#2}%
+}
+
+%% ---------------------------------------------------------------------------
+%% Logos
+%% ---------------------------------------------------------------------------
+
+\newcommand{\addlogo}[2]{\includegraphics[height=#1]{figs/logo/#2-logo.pdf}}
+
+%% Header logos.
+\newcommand{\headimageL}[2]{%
+  \setlength{\unitlength}{1.0cm}%
+  \put(0.6, -1.5){%
+    \parbox[b][\paperheight][s]{\paperwidth}{%
+      \raggedright\addlogo{#1}{#2}%
+      \vfill%
+    }%
+  }%
+}
+
+\newcommand{\headimageC}[2]{%
+  \setlength{\unitlength}{1.0cm}%
+  \put(0.0, -1.5){%
+    \parbox[b][\paperheight][s]{\paperwidth}{%
+      \centering\addlogo{#1}{#2}%
+      \vfill%
+    }%
+  }%
+}
+
+\newcommand{\headimageR}[2]{%
+  \setlength{\unitlength}{1.0cm}%
+  \put(-0.6, -1.5){%
+    \parbox[b][\paperheight][s]{\paperwidth}{%
+      \raggedleft\addlogo{#1}{#2}%
+      \vfill%
+    }%
+  }%
+}
+
+\newcommand{\addheadlogo}[3]{%
+  \AddToShipoutPicture{%
+    \csname headimage#1\endcsname{#2}{#3}%
+  }%
+}
+
+%% Footer logos.
+\newcommand{\footimageL}[2]{%
+  \setlength{\unitlength}{1.0cm}%
+  \put(0.6, 1.5){%
+    \parbox[b][\paperheight][s]{\paperwidth}{%
+      \vfill%
+      \raggedright\addlogo{#1}{#2}%
+    }%
+  }%
+}
+
+\newcommand{\footimageC}[2]{%
+  \setlength{\unitlength}{1.0cm}%
+  \put(0.0, 1.5){%
+    \parbox[b][\paperheight][s]{\paperwidth}{%
+      \vfill%
+      \centering\addlogo{#1}{#2}%
+    }%
+  }%
+}
+
+\newcommand{\footimageR}[2]{%
+  \setlength{\unitlength}{1.0cm}%
+  \put(-0.6, 1.5){%
+    \parbox[b][\paperheight][s]{\paperwidth}{%
+      \vfill%
+      \raggedleft\addlogo{#1}{#2}%
+    }%
+  }%
+}
+
+\newcommand{\addfootlogo}[3]{%
+  \AddToShipoutPicture{%
+    \csname footimage#1\endcsname{#2}{#3}%
+  }%
+}
+
+%% ---------------------------------------------------------------------------
+%% Header and footer
+%% ---------------------------------------------------------------------------
+
+%% Header.
+\newcommand{\configheadrule}[2]{%
+  \renewcommand{\headrulewidth}{#1}%
+  \renewcommand{\headrule}{%
+    {\color{#2}%
+     \hrule width\headwidth height\headrulewidth \vskip-\headrulewidth}%
+  }%
+}
+
+\newcommand{\addhead}[4]{%
+  \lhead{\small\textcolor{#1}{#2}}%
+  \chead{\small\textcolor{#1}{#3}}%
+  \rhead{\small\textcolor{#1}{#4}}%
+}
+
+%% Footer.
+\newcommand{\configfootrule}[2]{%
+  \renewcommand{\footrulewidth}{#1}%
+  %
+  \renewcommand{\footrule}{{%
+    \color{#2}%
+    \vskip-\footruleskip\vskip-\footrulewidth%
+    \hrule width\headwidth height\footrulewidth\vskip\footruleskip%
+  }}%
+}
+
+\newcommand{\addfoot}[4]{%
+  \lfoot{\small\textcolor{#1}{#2}}%
+  \cfoot{\small\textcolor{#1}{#3}}%
+  \rfoot{\small\textcolor{#1}{#4}}%
+}
+
+%% Command to configure plain style.
+\newcommand{\configplainstyle}[1]{%
+  \fancypagestyle{plain}{%
+    % Clear all header and footer fields.
+    \fancyhf{}%
+    %
+    \renewcommand{\headrulewidth}{0pt}%
+    \renewcommand{\footrulewidth}{0pt}%
+    #1
+  }
+}
+
+%% ---------------------------------------------------------------------------
+%% Email and web pages
+%% ---------------------------------------------------------------------------
+
+\newcommand{\email}[1]{\href{mailto:#1}{\monotxt{#1}}}
+\newcommand{\wpage}[2]{\href{http://#1}{\monotxt{#1}}}
+
+%% ---------------------------------------------------------------------------
+%% Reference button
+%% ---------------------------------------------------------------------------
+
+\newcommand{\mybutton}[1]{%
+  \setlength{\fboxrule}{\myboxrule}%
+  \fcolorbox{shadgray}{lightgray}{\strut #1}%
+}
+
+\newcommand{\refbutton}[2]{\mybutton{\hyperref[#1]{\textsf{\textbf{#2}}}}}
+
+%% -----------------------------------------------------------------------------
+%% Audio
+%% -----------------------------------------------------------------------------
+
+%% Button speaker.
+\newcommand{\speakericon}{\includegraphics[width=12pt]{figs/button/speaker.pdf}}
+\newcommand{\buttonspeaker}[1]{\raise -2.0pt \hbox{{\speakericon}}~\texthfg{#1}}
+
+%% Audio button and label.
+\newcommand{\addaudio}[2]{%
+  %
+  % #1 - label
+  % #2 - movie path.
+  %
+  \vspace{0.1cm}%
+  \movie[externalviewer]{\buttonspeaker{#1}}{#2}%
+  \vspace{0.1cm}%
+}
+
+%% ---------------------------------------------------------------------------
+%% Video
+%% ---------------------------------------------------------------------------
+
+%% Button play.
+\newcommand{\playicon}{\includegraphics[width=11pt]{figs/button/play.pdf}}
+\newcommand{\buttonplay}[1]{\raise -2.5pt \hbox{{\playicon}}~\texthfg{#1}}
+
+%% Movie container.
+\newcommand{\addmovie}[2]{%
+  %
+  % #1 - label
+  % #2 - movie path.
+  %
+  \vspace{0.1cm}%
+  \movie[externalviewer]{\buttonplay{#1}}{#2}%
+  \vspace{0.1cm}%
+}
+
+%% Movie preview (preview, button, and label).
+\newcommand{\addmoviepreview}[4]{%
+  %
+  % #1 - label
+  % #2 - movie path
+  %
+  % #3 - preview name (must be in <movie path>/preview)
+  % #4 - movie name
+  %
+  \addtabular{1}{C}{%
+    \movie[externalviewer]{\cellpic{0.95}{#2/preview/#3}}{#2/#4} \rowendnoline
+    \texthfg{#1}%
+  }%
+}
+
+%% ---------------------------------------------------------------------------
+%% Bullets
+%% ---------------------------------------------------------------------------
+
+%% First level.
+\renewcommand{\labelitemi}{\texthfg{$\bullet$}}
+
+%% Second level.
+\renewcommand{\labelitemii}{\texthfg{\tiny$\blacksquare$}}
+
+%% Third level.
+\renewcommand{\labelitemiii}{\texthfg{\scriptsize$\blacktriangleright$}}
+
+%% Fourth level.
+\renewcommand{\labelitemiv}{\texthfg{\scriptsize$\bigstar$}}
+

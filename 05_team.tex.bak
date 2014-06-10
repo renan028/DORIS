@@ -1,0 +1,714 @@
+%%******************************************************************************
+%%
+%% team.tex
+%%
+%%******************************************************************************
+%%
+%% Title......: DORIS - Offshore Facilities Monitoring Robots
+%%
+%% Author.....: COPPE/LEAD-UFRJ Team - G2 (Embedded Electronics)
+%%
+%% Started....:      Fri Feb 01 2013
+%% Last Modified...: Fri Jun 10 2013
+%%
+%% Emails.....: liu@coep.ufrj.br
+%%              jacoud@poli.ufrj.br
+%%              marco.fsantosx@gmail.com
+%%              renan028@gmail.com
+%%
+%% Address....: Universidade Federal do Rio de Janeiro
+%%              Caixa Postal 68.504, CEP: 21.945-970
+%%              Rio de Janeiro, RJ - Brasil.
+%%
+%%******************************************************************************
+
+
+%%******************************************************************************
+%% CHAPTER - Team
+%%******************************************************************************
+
+\chapter{Team}
+\label{Chap.Team}
+
+
+%%******************************************************************************
+%% SECTION - General Organogram
+%%******************************************************************************
+
+\section{General Organogram}
+\label{Chap.Team.Sec.Organogram}
+
+\begin{center}
+  \textbf{Version: Feb 01, 2013}
+
+  \textbf{The number of participants is 26.}
+\end{center}
+
+%% ---------------------------------------------------------------------------
+%% FIGURE
+%% ---------------------------------------------------------------------------
+
+\addfigure{1.0}{C}{General organogram.}
+                  {\label{Fig.Team.Organogram.General}}
+{
+  \rowonefig{0.95}{figs/team/organogram/general.pdf}
+}
+
+%% ---------------------------------------------------------------------------
+%% NAVIGATION BUTTONS
+%% ---------------------------------------------------------------------------
+
+\addtabular{1}{C}{
+ \refbutton{Chap.Team.Subsec.Organogram.Coordinator}{Coordinator}
+}
+%
+\addtabular{1}{CCCCCC}{
+ \refbutton{Chap.Team.Subsec.Organogram.Mechanics}{Group 1}   &
+ \refbutton{Chap.Team.Subsec.Organogram.Electronics}{Group 2} &
+ \refbutton{Chap.Team.Subsec.Organogram.Power}{Group 3}       &
+ \refbutton{Chap.Team.Subsec.Organogram.Software}{Group 4}    &
+ \refbutton{Chap.Team.Subsec.Organogram.Signal}{Group 5}      &
+  \refbutton{Chap.Team.Subsec.Organogram.Secretary}{Secretary}
+}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Project Coordinator
+%%******************************************************************************
+
+\subsection{Project Coordinator}
+\label{Chap.Team.Subsec.Organogram.Coordinator}
+
+\addfigure{1.0}{C}{Project coordinator.}
+                  {\label{Fig.Team.Organogram.Coordinator}}
+{
+  \rowonefig{0.95}{figs/team/organogram/coordinator.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Group 1: Mechanics Organogram
+%%******************************************************************************
+
+\subsection{Group 1: Mechanics Organogram}
+\label{Chap.Team.Subsec.Organogram.Mechanics}
+
+\addfigure{1.0}{C}{Mechanics organogram.}
+                  {\label{Fig.Team.Organogram.Mechanics}}
+{
+  \rowonefig{0.95}{figs/team/organogram/mechanics.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Group 2: Electronics Organogram
+%%******************************************************************************
+
+\subsection{Group 2: Electronics Organogram}
+\label{Chap.Team.Subsec.Organogram.Electronics}
+
+\addfigure{1.0}{C}{Electronics organogram.}
+                  {\label{Fig.Team.Organogram.Electronics}}
+{
+  \rowonefig{0.95}{figs/team/organogram/electronics.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Group 3: Power Organogram
+%%******************************************************************************
+
+\subsection{Group 3: Power Organogram}
+\label{Chap.Team.Subsec.Organogram.Power}
+
+\addfigure{1.0}{C}{Power organogram.}
+                  {\label{Fig.Team.Organogram.Power}}
+{
+  \rowonefig{0.95}{figs/team/organogram/power.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Group 4: Software Organogram
+%%******************************************************************************
+
+\subsection{Group 4: Software Organogram}
+\label{Chap.Team.Subsec.Organogram.Software}
+
+\addfigure{1.0}{C}{Software organogram.}
+                  {\label{Fig.Team.Organogram.Software}}
+{
+  \rowonefig{0.95}{figs/team/organogram/software.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Group 5: Signal Processing Organogram
+%%******************************************************************************
+
+\subsection{Group 5: Signal Processing Organogram}
+\label{Chap.Team.Subsec.Organogram.Signal}
+
+\addfigure{1.0}{C}{Signal processing organogram.}
+                  {\label{Fig.Team.Organogram.Signal}}
+{
+  \rowonefig{0.95}{figs/team/organogram/signal.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SUBSECTION - Project Secretary
+%%******************************************************************************
+
+\subsection{Project Secretary}
+\label{Chap.Team.Subsec.Organogram.Secretary}
+
+\addfigure{1.0}{C}{Project secretary.}
+                  {\label{Fig.Team.Organogram.Secretary}}
+{
+  \rowonefig{0.95}{figs/team/organogram/secretary.pdf}
+}
+\vfill
+
+\addtabular{1}{C}{\refbutton{Chap.Team.Sec.Organogram}{General Organogram}}
+\pagebreak
+
+
+%%******************************************************************************
+%% SECTION - Project Coordinator
+%%******************************************************************************
+
+\section{Project Coordinator}
+
+\addteaminfo{coordinator}{ramon}
+{
+  \rowhdr \cellcap{Ramon Romankevicius Costa} \rowend
+  %
+  \rowodd Project Coordinator \rowend
+  \roweve \textbf{Robotics}   \rowend
+  %
+  \rowodd \email{ramon@coep.ufrj.br} \rowend
+  \roweve \email{***}                \rowend
+  %
+  \rowodd +55 21 2562-8604 \rowend
+  \roweve +55 21 8887-8355
+}
+
+\pagebreak
+
+
+%%******************************************************************************
+%% SECTION - Group 1: Mechanics
+%%******************************************************************************
+
+\section{Group 1: Mechanics}
+
+
+%%******************************************************************************
+%% SUBSECTION - Coordinator
+%%******************************************************************************
+
+\subsection{Coordinator}
+
+\addteaminfo{mechanics}{pal}
+{
+  \rowhdr \cellcap{Pål Johan From} \rowend
+  %
+  \rowodd Professor - Coordinator \rowend
+  \roweve \textbf{Mechanics}      \rowend
+  %
+  \rowodd \email{pal.johan.from@umb.no} \rowend
+  \roweve \email{***}                   \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 7921-0055
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Ph.D.,  M.Sc., and B.Sc. Students
+%%******************************************************************************
+
+\subsection{Ph.D.,  M.Sc., and B.Sc. Students}
+
+\addteaminfo{mechanics}{gustavo}
+{
+  \rowhdr \cellcap{Gustavo Medeiros Freitas} \rowend
+  %
+  \rowodd Ph.D. Student     \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{gfreitas@coep.ufrj.br} \rowend
+  \roweve \email{***}                   \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 9989-8196
+}
+
+\addteaminfo{mechanics}{guilherme}
+{
+  \rowhdr \cellcap{Guilherme Pires Sales de Carvalho} \rowend
+  %
+  \rowodd M.Sc. Student     \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{guilherme\_carvalho@poli.ufrj.br} \rowend
+  \roweve \email{guilherme.ps.carvalho@gmail.com}  \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 9376-2355
+}
+
+\addteaminfo{mechanics}{gabriel}
+{
+  \rowhdr \cellcap{Gabriel Martins Franco Ramalho} \rowend
+  %
+  \rowodd B.Sc. Student                   \rowend
+  \roweve \textbf{Mechanical Engineering} \rowend
+  %
+  \rowodd \email{gabriel.ramalho@poli.ufrj.br} \rowend
+  \roweve \email{***}                          \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 8877-1919
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Mechanical Designers
+%%******************************************************************************
+
+\subsection{Mechanical Designers}
+
+\addteaminfo{mechanics}{auderi}
+{
+  \rowhdr \cellcap{Auderi Vicente Santos} \rowend
+  %
+  \rowodd Alis Technology            \rowend
+  \roweve \textbf{Mechanical Design} \rowend
+  %
+  \rowodd \email{auderi@alistecnologia.com} \rowend
+  \roweve \email{***}                       \rowend
+  %
+  \rowodd +55 21 9614-8225 \rowend
+  \roweve +55 21 7905-6996
+}
+
+\addteaminfo{mechanics}{felipe}
+{
+  \rowhdr \cellcap{Felipe Gherren Noel} \rowend
+  %
+  \rowodd Alis Technology            \rowend
+  \roweve \textbf{Mechanical Design} \rowend
+  %
+  \rowodd \email{***}                          \rowend
+  \roweve \email{felipe.gherrennoel@gmail.com} \rowend
+  %
+  \rowodd ***  \rowend
+  \roweve +55 24 8804-3213
+}
+
+\addteaminfo{mechanics}{pedro}
+{
+  \rowhdr \cellcap{Pedro Eduardo Gonzales Panta} \rowend
+  %
+  \rowodd Alis Technology            \rowend
+  \roweve \textbf{Mechanical Design} \rowend
+  %
+  \rowodd \email{pedro@alistecnologia.com} \rowend
+  \roweve \email{***}                      \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 9640-9998
+}
+
+\vfill
+\addtabular{1.0}{C}{\addlogo{2.0cm}{alis}}
+\vfill
+
+
+%%******************************************************************************
+%% SECTION - Group 2: Electronics
+%%******************************************************************************
+
+\section{Group 2: Electronics}
+
+
+%%******************************************************************************
+%% SUBSECTION - Coordinator
+%%******************************************************************************
+
+\subsection{Coordinator}
+
+\addteaminfo{electronics}{liu}
+{
+  \rowhdr \cellcap{Liu Hsu} \rowend
+  %
+  \rowodd Professor - Coordinator \rowend
+  \roweve \textbf{Robotics}       \rowend
+  %
+  \rowodd \email{liu@coep.ufrj.br} \rowend
+  \roweve \email{***}              \rowend
+  %
+  \rowodd +55 21 2562-8605 \rowend
+  \roweve +55 21 8668-8681
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Professors and M.Sc. Students
+%%******************************************************************************
+
+\subsection{Professors and M.Sc. Students}
+
+\addteaminfo{electronics}{alessandro}
+{
+  \rowhdr \cellcap{Alessandro Jacoud Peixoto} \rowend
+  %
+  \rowodd Professor                        \rowend
+  \roweve \textbf{Electronics \& Robotics} \rowend
+  %
+  \rowodd \email{jacoud@coep.ufrj.br} \rowend
+  \roweve \email{***}                 \rowend
+  %
+  \rowodd +55 21 2562-8876 \rowend
+  \roweve +55 21 9818-0599
+}
+
+\addteaminfo{electronics}{marco}
+{
+  \rowhdr \cellcap{Marco Fernandes dos Santos Xaud} \rowend
+  %
+  \rowodd M.Sc. Student     \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{marco.fsantosx@gmail.com} \rowend
+  \roweve \email{marco.fernandes@poli.ufrj.br}                          \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 8646-1130
+}
+%%******************************************************************************
+%% SECTION - Group 3: Power
+%%******************************************************************************
+
+\section{Group 3: Power}
+
+
+%%******************************************************************************
+%% SUBSECTION - Coordinator
+%%******************************************************************************
+
+\subsection{Coordinator}
+
+\addteaminfo{power}{eduardo}
+{
+  \rowhdr \cellcap{Eduardo Vieira Leão Nunes} \rowend
+  %
+  \rowodd Professor - Coordinator \rowend
+  \roweve \textbf{Robotics}       \rowend
+  %
+  \rowodd \email{eduardo@coep.ufrj.br} \rowend
+  \roweve \email{***}                  \rowend
+  %
+  \rowodd +55 21 2562-8603 \rowend
+  \roweve ***
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Professors and M.Sc. Students
+%%******************************************************************************
+
+\subsection{Professors and M.Sc. Students}
+
+\addteaminfo{power}{alessandro}
+{
+  \rowhdr \cellcap{Alessandro Jacoud Peixoto} \rowend
+  %
+  \rowodd Professor                        \rowend
+  \roweve \textbf{Electronics \& Robotics} \rowend
+  %
+  \rowodd \email{jacoud@coep.ufrj.br} \rowend
+  \roweve \email{***}                 \rowend
+  %
+  \rowodd +55 21 2562-8876 \rowend
+  \roweve +55 21 9818-0599
+}
+
+\addteaminfo{power}{ighor}
+{
+  \rowhdr \cellcap{Ighor Marcovistz} \rowend
+  %
+  \rowodd M.Sc. Student     \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{imtz@poli.ufrj.br} \rowend
+  \roweve \email{***}               \rowend
+  %
+  \rowodd +55 21 ????-???? \rowend
+  \roweve +55 21 ????-????
+}
+
+
+%%******************************************************************************
+%% SECTION - Group 4: Software
+%%******************************************************************************
+
+\section{Group 4: Software}
+
+
+%%******************************************************************************
+%% SUBSECTION - Coordinator
+%%******************************************************************************
+
+\subsection{Coordinator}
+
+\addteaminfo{software}{fernando}
+{
+  \rowhdr \cellcap{Fernando Cesar Lizarralde} \rowend
+  %
+  \rowodd Professor - Coordinator \rowend
+  \roweve \textbf{Robotics}       \rowend
+  %
+  \rowodd \email{fernando@coep.ufrj.br} \rowend
+  \roweve \email{***}                   \rowend
+  %
+  \rowodd +55 21 2562-8606 \rowend
+  \roweve +55 21 8610-7058
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Ph.D. and M.Sc. Students
+%%******************************************************************************
+
+\subsection{Ph.D. and M.Sc. Students}
+
+\addteaminfo{software}{alex}
+{
+  \rowhdr \cellcap{Alex Fernandes} \rowend
+  %
+  \rowodd ???               \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{???} \rowend
+  \roweve \email{???} \rowend
+  %
+  \rowodd +55 21 ????-???? \rowend
+  \roweve +55 21 ????-????
+}
+
+\addteaminfo{software}{thiago}
+{
+  \rowhdr \cellcap{Thiago Braga Antonio} \rowend
+  %
+  \rowodd M.Sc. Student     \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{braga.thiago@globo.com} \rowend
+  \roweve \email{***}                    \rowend
+  %
+  \rowodd +55 21 ????-???? \rowend
+  \roweve +55 21 ????-????
+}
+
+\addteaminfo{software}{lucas}
+{
+  \rowhdr \cellcap{Lucas Carvalho} \rowend
+  %
+  \rowodd M.Sc. Student     \rowend
+  \roweve \textbf{Robotics} \rowend
+  %
+  \rowodd \email{lucas\_carvalho@poli.ufrj.br} \rowend
+  \roweve \email{***}                          \rowend
+  %
+  \rowodd +55 21 ????-???? \rowend
+  \roweve +55 21 ????-????
+}
+
+
+%%******************************************************************************
+%% SECTION - Group 5: Signal Processing
+%%******************************************************************************
+
+\section{Group 5: Signal Processing}
+
+
+%%******************************************************************************
+%% SUBSECTION - Coordinators
+%%******************************************************************************
+
+\subsection{Coordinators}
+
+\addteaminfo{signal}{eduardo}
+{
+  \rowhdr \cellcap{Eduardo A. B. da Silva} \rowend
+  %
+  \rowodd Coordinator                          \rowend
+  \roweve \textbf{Signal and Video Processing} \rowend
+  %
+  \rowodd \email{eduardo@smt.ufrj.br} \rowend
+  \roweve \email{eabsilva@gmail.com}  \rowend
+  %
+  \rowodd +55 21 2562-8156 \rowend
+  \roweve +55 21 8876-9202
+}
+
+\addteaminfo{signal}{sergio}
+{
+  \rowhdr \cellcap{Sergio L. Netto} \rowend
+  %
+  \rowodd Coordinator                          \rowend
+  \roweve \textbf{Signal and Audio Processing} \rowend
+  %
+  \rowodd \email{sergioln@smt.ufrj.br}      \rowend
+  \roweve \email{sergiolimanetto@gmail.com} \rowend
+  %
+  \rowodd +55 21 2562-8164 \rowend
+  \roweve +55 21 8848-7279
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Post-doctor Researchers
+%%******************************************************************************
+
+\subsection{Post-doctor Researchers}
+
+\addteaminfo{signal}{jose}
+{
+  \rowhdr \cellcap{Dr. José F. L. de Oliveira} \rowend
+  %
+  \rowodd Post-doc researcher       \rowend
+  \roweve \textbf{Video Processing} \rowend
+  %
+  \rowodd \email{jleite@smt.ufrj.br} \rowend
+  \roweve \email{jleitex@gmail.com}  \rowend
+  %
+  \rowodd +55 21 2562-8119 \rowend
+  \roweve +55 21 8833-5006
+}
+
+\addteaminfo{signal}{amaro}
+{
+  \rowhdr \cellcap{Dr. Amaro A. de Lima} \rowend
+  %
+  \rowodd Post-doc researcher        \rowend
+  \roweve \textbf{Signal Processing} \rowend
+  %
+  \rowodd \email{amaro@smt.ufrj.br}    \rowend
+  \roweve \email{amaroalima@gmail.com} \rowend
+  \rowodd *** \rowend
+  \roweve +55 21 9959-7151
+}
+
+\addteaminfo{signal}{thiago}
+{
+  \rowhdr \cellcap{Dr. Thiago M. Prego} \rowend
+  %
+  \rowodd Post-doc researcher       \rowend
+  \roweve \textbf{Audio Processing} \rowend
+  %
+  \rowodd \email{thprego@smt.ufrj.br} \rowend
+  \roweve \email{thprego@gmail.com}   \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 8865-7603
+}
+
+
+%%******************************************************************************
+%% SUBSECTION - Ph.D. and M.Sc. Students
+%%******************************************************************************
+
+\subsection{Ph.D. and M.Sc. Students}
+
+\addteaminfo{signal}{gustavo}
+{
+  \rowhdr \cellcap{Gustavo H. F. de Carvalho} \rowend
+  %
+  \rowodd Ph.D. Student             \rowend
+  \roweve \textbf{Video Processing} \rowend
+  %
+  \rowodd \email{gustavo.carvalho@smt.ufrj.br} \rowend
+  \roweve \email{gustavohfdc@gmail.com}        \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 8749-5049
+}
+
+\addteaminfo{signal}{allan}
+{
+  \rowhdr \cellcap{Allan F. da Silva} \rowend
+  %
+  \rowodd M.Sc. Student             \rowend
+  \roweve \textbf{Video Processing} \rowend
+  %
+  \rowodd \email{allan.freitas@smt.ufrj.br} \rowend
+  \roweve \email{lanf\_silva@poli.ufrj.br}  \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 9599-8088
+}
+
+\addteaminfo{signal}{lucas}
+{
+  \rowhdr \cellcap{Lucas A. Thomaz} \rowend
+  %
+  \rowodd M.Sc. Student             \rowend
+  \roweve \textbf{Video Processing} \rowend
+  %
+  \rowodd \email{lucas.thomaz@smt.ufrj.br} \rowend
+  \roweve \email{lathomaz@poli.ufrj.br}    \rowend
+  %
+  \rowodd *** \rowend
+  \roweve +55 21 9936-3590
+}
+
+
+%%******************************************************************************
+%% SECTION - Secretary
+%%******************************************************************************
+
+\section{Secretary}
+
+\addteaminfo{signal}{amanda}
+{
+  \rowhdr \cellcap{Amanda S. D. de Loiola} \rowend
+  %
+  \rowodd Secretary            \rowend
+  \roweve \textbf{Secretarial} \rowend
+  %
+  \rowodd \email{amanda@smt.ufrj.br}       \rowend
+  \roweve \email{amandasdloiola@gmail.com} \rowend
+  %
+  \rowodd +55 21 2562-8118 \rowend
+  \roweve +55 21 9534-0878
+}
+
