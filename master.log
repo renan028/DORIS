@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.22)  11 JUN 2014 12:45
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.10.22)  11 JUN 2014 13:57
 entering extended mode
 **master.tex
 (C:\SPB_Data\git\renan028\DORIS\master.tex
@@ -605,13 +605,13 @@ Package hyperref Info: Option `pageanchor' set `false' on input line 48.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omszplm.fd")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxzplm.fd")
 ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1zplm.fd")
-<figs/logo/cenpes-logo.pdf, id=628, 474.77374pt x 142.5325pt>
+<figs/logo/cenpes-logo.pdf, id=632, 474.77374pt x 142.5325pt>
 <use figs/logo/cenpes-logo.pdf>
-<figs/logo/statoil-logo.pdf, id=629, 1291.82625pt x 617.30624pt>
+<figs/logo/statoil-logo.pdf, id=633, 1291.82625pt x 617.30624pt>
 <use figs/logo/statoil-logo.pdf>
-<figs/logo/lead-logo.pdf, id=630, 369.38pt x 141.52875pt>
+<figs/logo/lead-logo.pdf, id=634, 369.38pt x 141.52875pt>
 <use figs/logo/lead-logo.pdf>
-<figs/logo/smt-logo.pdf, id=631, 1549.79pt x 487.8225pt>
+<figs/logo/smt-logo.pdf, id=635, 1549.79pt x 487.8225pt>
 <use figs/logo/smt-logo.pdf> <use figs/logo/cenpes-logo.pdf>
 <use figs/logo/statoil-logo.pdf> <use figs/logo/lead-logo.pdf>
 <use figs/logo/smt-logo.pdf>
@@ -634,7 +634,7 @@ File: figs/logo/smt-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/smt-logo.pdf used on input line 67.
 (pdftex.def)             Requested size: 112.98947pt x 35.56593pt.
 
-<figs/logo/coppetec50-logo.pdf, id=632, 198.7425pt x 175.65625pt>
+<figs/logo/coppetec50-logo.pdf, id=636, 198.7425pt x 175.65625pt>
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
@@ -712,25 +712,25 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 83.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [3]
-Overfull \hbox (6.29904pt too wide) in paragraph at lines 107--107
+Overfull \hbox (6.29904pt too wide) in paragraph at lines 108--108
  [][][] [][][]\T1/ppl/m/n/10.95 Construction of CAN/I-Dc - Ca-ble for CAN be-tw
 een driver 
  []
 
 
-Overfull \hbox (8.01814pt too wide) in paragraph at lines 108--108
+Overfull \hbox (8.01814pt too wide) in paragraph at lines 109--109
  [][][] [][][]\T1/ppl/m/n/10.95 Construction of CAN/I-Dp - Ca-ble for CAN be-tw
 een driver 
  []
 
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 110.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 111.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [4]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 136.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 137.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
 [5])
@@ -822,7 +822,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 23.
 
 
 ]
-<figs/body01/FIGDESIGNEDCOMDIAGRAM.pdf, id=1098, 767.86874pt x 1089.47028pt>
+<figs/body01/FIGDESIGNEDCOMDIAGRAM.pdf, id=1109, 767.86874pt x 1089.47028pt>
 File: figs/body01/FIGDESIGNEDCOMDIAGRAM.pdf Graphic file (type pdf)
 
 <use figs/body01/FIGDESIGNEDCOMDIAGRAM.pdf>
@@ -835,7 +835,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 53.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [4]
-<figs/body01/FIGEXPANSIONSCOMDIAGRAM.pdf, id=1104, 767.86874pt x 1089.47028pt>
+<figs/body01/FIGEXPANSIONSCOMDIAGRAM.pdf, id=1115, 767.86874pt x 1089.47028pt>
 File: figs/body01/FIGEXPANSIONSCOMDIAGRAM.pdf Graphic file (type pdf)
 
 <use figs/body01/FIGEXPANSIONSCOMDIAGRAM.pdf>
@@ -870,7 +870,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 114.
 LaTeX Warning: Reference `FIG:SIGNALPROCESSINGPCDIAGRAM' on page 8 undefined on
  input line 115.
 
-<figs/body01/FIGLANDIAGRAM.pdf, id=4330, 1343.61972pt x 726.31348pt>
+<figs/body01/FIGLANDIAGRAM.pdf, id=4341, 1343.61972pt x 726.31348pt>
 File: figs/body01/FIGLANDIAGRAM.pdf Graphic file (type pdf)
 
 <use figs/body01/FIGLANDIAGRAM.pdf>
@@ -907,7 +907,7 @@ LaTeX Warning: Reference `DEVICE:CABLELIST' on page 10 undefined on input line
 LaTeX Warning: Reference `DEVICE:CONNECTORLIST' on page 10 undefined on input l
 ine 148.
 
-<figs/body01/FIGETHERNETDIAGRAM.pdf, id=4386, 1715.20805pt x 2460.19125pt>
+<figs/body01/FIGETHERNETDIAGRAM.pdf, id=4397, 1715.20805pt x 2460.19125pt>
 File: figs/body01/FIGETHERNETDIAGRAM.pdf Graphic file (type pdf)
 
 <use figs/body01/FIGETHERNETDIAGRAM.pdf>
@@ -941,7 +941,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 174.
 LaTeX Warning: Reference `FIG:WIFIDIAGRAM' on page 12 undefined on input line 1
 77.
 
-<figs/body01/FIGOVERALLACTDIAGRAM.pdf, id=4519, 1274.9632pt x 623.32875pt>
+<figs/body01/FIGOVERALLACTDIAGRAM.pdf, id=4530, 1274.9632pt x 623.32875pt>
 File: figs/body01/FIGOVERALLACTDIAGRAM.pdf Graphic file (type pdf)
 
 <use figs/body01/FIGOVERALLACTDIAGRAM.pdf>
@@ -1043,7 +1043,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 52.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [18]
-<figs/body02/FIGDEVICEPCOPTION1.pdf, id=4581, 601.64778pt x 454.69875pt>
+<figs/body02/FIGDEVICEPCOPTION1.pdf, id=4592, 601.64778pt x 454.69875pt>
 File: figs/body02/FIGDEVICEPCOPTION1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEPCOPTION1.pdf>
@@ -1074,7 +1074,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 88.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
 [20 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEPCOPTION1.pdf>]
-<figs/body02/FIGDEVICEPCOPTION2.pdf, id=4597, 605.86348pt x 424.58624pt>
+<figs/body02/FIGDEVICEPCOPTION2.pdf, id=4608, 605.86348pt x 424.58624pt>
 File: figs/body02/FIGDEVICEPCOPTION2.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEPCOPTION2.pdf>
@@ -1121,7 +1121,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 156.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [23]
-<figs/body02/FIGDEVICEPCOPTION3.pdf, id=4621, 797.98125pt x 651.03223pt>
+<figs/body02/FIGDEVICEPCOPTION3.pdf, id=4632, 797.98125pt x 651.03223pt>
 File: figs/body02/FIGDEVICEPCOPTION3.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEPCOPTION3.pdf>
@@ -1129,7 +1129,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICEPCOPTION3.pdf used on input line
 165.
 (pdftex.def)             Requested size: 797.9793pt x 651.03064pt.
 
-<figs/body02/FIGDEVICEPCOPTION3CABLE.pdf, id=4623, 475.7775pt x 434.82451pt>
+<figs/body02/FIGDEVICEPCOPTION3CABLE.pdf, id=4634, 475.7775pt x 434.82451pt>
 File: figs/body02/FIGDEVICEPCOPTION3CABLE.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEPCOPTION3CABLE.pdf>
@@ -1137,7 +1137,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICEPCOPTION3CABLE.pdf used on input
 line 173.
 (pdftex.def)             Requested size: 475.77632pt x 434.82343pt.
 
-<figs/body02/FIGDEVICEPCOPTION3DRAWING.pdf, id=4625, 795.57222pt x 556.47902pt>
+<figs/body02/FIGDEVICEPCOPTION3DRAWING.pdf, id=4636, 795.57222pt x 556.47902pt>
 File: figs/body02/FIGDEVICEPCOPTION3DRAWING.pdf Graphic file (type pdf)
 <use figs/body02/FIGDEVICEPCOPTION3DRAWING.pdf>
 Package pdftex.def Info: figs/body02/FIGDEVICEPCOPTION3DRAWING.pdf used on inpu
@@ -1218,7 +1218,7 @@ Overfull \hbox (7.97375pt too wide) in paragraph at lines 221--222
 si@beijerinc.com. For
  []
 
-<figs/body02/FIGDEVICESWITCHOPTION1.pdf, id=4665, 412.54124pt x 574.54652pt>
+<figs/body02/FIGDEVICESWITCHOPTION1.pdf, id=4676, 412.54124pt x 574.54652pt>
 File: figs/body02/FIGDEVICESWITCHOPTION1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESWITCHOPTION1.pdf>
@@ -1226,7 +1226,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICESWITCHOPTION1.pdf used on input l
 ine 228.
 (pdftex.def)             Requested size: 412.54024pt x 574.54512pt.
 
-<figs/body02/FIGDEVICESWITCHOPTION1DRAWING.pdf, id=4667, 836.52527pt x 573.9442
+<figs/body02/FIGDEVICESWITCHOPTION1DRAWING.pdf, id=4678, 836.52527pt x 573.9442
 4pt>
 File: figs/body02/FIGDEVICESWITCHOPTION1DRAWING.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICESWITCHOPTION1DRAWING.pdf>
@@ -1278,7 +1278,7 @@ Overfull \hbox (54.62015pt too wide) in paragraph at lines 270--271
 .com; Flavio.Grassi@beijerinc.com.
  []
 
-<figs/body02/FIGDEVICESWITCHOPTION2.pdf, id=4696, 413.14351pt x 573.34201pt>
+<figs/body02/FIGDEVICESWITCHOPTION2.pdf, id=4707, 413.14351pt x 573.34201pt>
 File: figs/body02/FIGDEVICESWITCHOPTION2.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESWITCHOPTION2.pdf>
@@ -1286,7 +1286,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICESWITCHOPTION2.pdf used on input l
 ine 277.
 (pdftex.def)             Requested size: 413.14249pt x 573.3406pt.
 
-<figs/body02/FIGDEVICESWITCHOPTION2DRAWING.pdf, id=4698, 741.36972pt x 530.5822
+<figs/body02/FIGDEVICESWITCHOPTION2DRAWING.pdf, id=4709, 741.36972pt x 530.5822
 3pt>
 File: figs/body02/FIGDEVICESWITCHOPTION2DRAWING.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICESWITCHOPTION2DRAWING.pdf>
@@ -1334,7 +1334,7 @@ Overfull \hbox (7.97375pt too wide) in paragraph at lines 302--303
 si@beijerinc.com. For
  []
 
-<figs/body02/FIGDEVICESWITCHOPTION3.pdf, id=4722, 335.45326pt x 556.47902pt>
+<figs/body02/FIGDEVICESWITCHOPTION3.pdf, id=4733, 335.45326pt x 556.47902pt>
 File: figs/body02/FIGDEVICESWITCHOPTION3.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESWITCHOPTION3.pdf>
@@ -1376,7 +1376,7 @@ Overfull \hbox (54.62015pt too wide) in paragraph at lines 345--346
 .com; Flavio.Grassi@beijerinc.com.
  []
 
-<figs/body02/FIGDEVICESWITCHOPTION4.pdf, id=4737, 239.6955pt x 239.6955pt>
+<figs/body02/FIGDEVICESWITCHOPTION4.pdf, id=4748, 239.6955pt x 239.6955pt>
 File: figs/body02/FIGDEVICESWITCHOPTION4.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESWITCHOPTION4.pdf>
@@ -1384,7 +1384,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICESWITCHOPTION4.pdf used on input l
 ine 352.
 (pdftex.def)             Requested size: 239.6949pt x 239.6949pt.
 
-<figs/body02/FIGDEVICESWITCHOPTION4DRAWING.pdf, id=4739, 750.40347pt x 555.8767
+<figs/body02/FIGDEVICESWITCHOPTION4DRAWING.pdf, id=4750, 750.40347pt x 555.8767
 4pt>
 File: figs/body02/FIGDEVICESWITCHOPTION4DRAWING.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICESWITCHOPTION4DRAWING.pdf>
@@ -1453,7 +1453,7 @@ Overfull \hbox (91.57625pt too wide) in paragraph at lines 396--397
 cs.com; james.eastwood@extronics.com.
  []
 
-<figs/body02/FIGDEVICEWIFIOPTION1.pdf, id=4770, 337.86226pt x 492.64049pt>
+<figs/body02/FIGDEVICEWIFIOPTION1.pdf, id=4781, 337.86226pt x 492.64049pt>
 File: figs/body02/FIGDEVICEWIFIOPTION1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEWIFIOPTION1.pdf>
@@ -1485,7 +1485,7 @@ Overfull \hbox (99.02232pt too wide) in paragraph at lines 431--432
 /motor/ecmotor/ec4pole/305013[][] 
  []
 
-<figs/body02/FIGDEVICEMOTOROPTION1.pdf, id=4782, 383.63326pt x 199.34476pt>
+<figs/body02/FIGDEVICEMOTOROPTION1.pdf, id=4793, 383.63326pt x 199.34476pt>
 File: figs/body02/FIGDEVICEMOTOROPTION1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEMOTOROPTION1.pdf>
@@ -1550,7 +1550,7 @@ Overfull \hbox (84.37155pt too wide) in paragraph at lines 492--493
 LaTeX Warning: Reference `FIG:DEVICEEARGOPTION1' on page 42 undefined on input 
 line 498.
 
-<figs/body02/FIGDEVICEGEAROPTION1.pdf, id=4804, 305.943pt x 215.6055pt>
+<figs/body02/FIGDEVICEGEAROPTION1.pdf, id=4815, 305.943pt x 215.6055pt>
 File: figs/body02/FIGDEVICEGEAROPTION1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEGEAROPTION1.pdf>
@@ -1598,7 +1598,7 @@ Overfull \hbox (92.00328pt too wide) in paragraph at lines 547--548
 /control/Positionierung/375711[][] 
  []
 
-<figs/body02/FIGDEVICEDRIVEROPTION1.pdf, id=4825, 385.44pt x 310.15875pt>
+<figs/body02/FIGDEVICEDRIVEROPTION1.pdf, id=4836, 385.44pt x 310.15875pt>
 File: figs/body02/FIGDEVICEDRIVEROPTION1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEDRIVEROPTION1.pdf>
@@ -1606,7 +1606,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICEDRIVEROPTION1.pdf used on input l
 ine 557.
 (pdftex.def)             Requested size: 385.43906pt x 310.15799pt.
 
-<figs/body02/FIGDEVICEDRIVEROPTION1DRAWING.pdf, id=4827, 274.02374pt x 522.1507
+<figs/body02/FIGDEVICEDRIVEROPTION1DRAWING.pdf, id=4838, 274.02374pt x 522.1507
 6pt>
 File: figs/body02/FIGDEVICEDRIVEROPTION1DRAWING.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICEDRIVEROPTION1DRAWING.pdf>
@@ -1643,7 +1643,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 588.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
 [46 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEDRIVEROPTION1.pdf>]
-<figs/body02/FIGDEVICECOMBINATIONOPTION1.pdf, id=4847, 619.71527pt x 1019.00702
+<figs/body02/FIGDEVICECOMBINATIONOPTION1.pdf, id=4858, 619.71527pt x 1019.00702
 pt>
 File: figs/body02/FIGDEVICECOMBINATIONOPTION1.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICECOMBINATIONOPTION1.pdf>
@@ -1651,7 +1651,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICECOMBINATIONOPTION1.pdf used on in
 put line 595.
 (pdftex.def)             Requested size: 619.71375pt x 1019.00453pt.
 
-<figs/body02/FIGDEVICECOMBINATIONOPTION1DRAWING.pdf, id=4849, 343.88475pt x 691
+<figs/body02/FIGDEVICECOMBINATIONOPTION1DRAWING.pdf, id=4860, 343.88475pt x 691
 .98528pt>
 File: figs/body02/FIGDEVICECOMBINATIONOPTION1DRAWING.pdf Graphic file (type pdf
 )
@@ -1660,7 +1660,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICECOMBINATIONOPTION1DRAWING.pdf use
 d on input line 603.
 (pdftex.def)             Requested size: 343.88391pt x 691.98358pt.
 
-<figs/body02/FIGDEVICECONNECTORTABLE1.pdf, id=4852, 597.55246pt x 421.09319pt>
+<figs/body02/FIGDEVICECONNECTORTABLE1.pdf, id=4863, 597.55246pt x 421.09319pt>
 File: figs/body02/FIGDEVICECONNECTORTABLE1.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICECONNECTORTABLE1.pdf>
@@ -1693,7 +1693,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 621.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [49 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICECONNECTORTABLE1.pdf>]
 
-<figs/body02/FIGDEVICE10pinF(CAN).pdf, id=4925, 238.49101pt x 284.26201pt>
+<figs/body02/FIGDEVICE10pinF(CAN).pdf, id=4936, 238.49101pt x 284.26201pt>
 File: figs/body02/FIGDEVICE10pinF(CAN).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICE10pinF(CAN).pdf>
@@ -1706,7 +1706,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 639.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
 [50 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICE10pinF(CAN).pdf>]
-<figs/body02/FIGDEVICE10pinF(Encoder).pdf, id=4947, 217.41226pt x 283.65976pt>
+<figs/body02/FIGDEVICE10pinF(Encoder).pdf, id=4958, 217.41226pt x 283.65976pt>
 File: figs/body02/FIGDEVICE10pinF(Encoder).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICE10pinF(Encoder).pdf>
@@ -1720,7 +1720,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 656.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [51 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICE10pinF(Encoder).pdf>]
 
-<figs/body02/FIGDEVICECG(CAN).pdf, id=4969, 560.69473pt x 559.49028pt>
+<figs/body02/FIGDEVICECG(CAN).pdf, id=4980, 560.69473pt x 559.49028pt>
 File: figs/body02/FIGDEVICECG(CAN).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICECG(CAN).pdf>
@@ -1733,7 +1733,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 670.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
 [52 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICECG(CAN).pdf>]
-<figs/body02/FIGDEVICECG(LAN).pdf, id=4984, 560.69473pt x 559.49028pt>
+<figs/body02/FIGDEVICECG(LAN).pdf, id=4995, 560.69473pt x 559.49028pt>
 File: figs/body02/FIGDEVICECG(LAN).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICECG(LAN).pdf>
@@ -1746,7 +1746,7 @@ Overfull \hbox (86.9226pt too wide) in paragraph at lines 683--684
 /product-detail/en/D09S13A4GL00LF/609-
  []
 
-<figs/body02/FIGDEVICEDB9F(SH).pdf, id=4987, 293.29576pt x 199.94699pt>
+<figs/body02/FIGDEVICEDB9F(SH).pdf, id=4998, 293.29576pt x 199.94699pt>
 File: figs/body02/FIGDEVICEDB9F(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEDB9F(SH).pdf>
@@ -1770,7 +1770,7 @@ Overfull \hbox (73.97969pt too wide) in paragraph at lines 697--698
 /product-detail/en/DE09P064TXLF/609-
  []
 
-<figs/body02/FIGDEVICEDB9M(SH).pdf, id=5023, 295.1025pt x 225.2415pt>
+<figs/body02/FIGDEVICEDB9M(SH).pdf, id=5034, 295.1025pt x 225.2415pt>
 File: figs/body02/FIGDEVICEDB9M(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEDB9M(SH).pdf>
@@ -1791,7 +1791,7 @@ Overfull \hbox (276.8263pt too wide) in paragraph at lines 713--714
 /product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=43025-
  []
 
-<figs/body02/FIGDEVICEmicroCAN.pdf, id=5027, 290.28452pt x 225.2415pt>
+<figs/body02/FIGDEVICEmicroCAN.pdf, id=5038, 290.28452pt x 225.2415pt>
 File: figs/body02/FIGDEVICEmicroCAN.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEmicroCAN.pdf>
@@ -1810,7 +1810,7 @@ Overfull \hbox (276.8263pt too wide) in paragraph at lines 728--729
 /product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=43025-
  []
 
-<figs/body02/FIGDEVICEmicroHall.pdf, id=5031, 252.945pt x 212.59425pt>
+<figs/body02/FIGDEVICEmicroHall.pdf, id=5042, 252.945pt x 212.59425pt>
 File: figs/body02/FIGDEVICEmicroHall.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEmicroHall.pdf>
@@ -1851,7 +1851,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 744.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [58 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEmicroHall.pdf>]
-<figs/body02/FIGDEVICEminiMotor.pdf, id=5097, 271.0125pt x 213.79875pt>
+<figs/body02/FIGDEVICEminiMotor.pdf, id=5108, 271.0125pt x 213.79875pt>
 File: figs/body02/FIGDEVICEminiMotor.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEminiMotor.pdf>
@@ -1870,7 +1870,7 @@ Overfull \hbox (260.40132pt too wide) in paragraph at lines 758--759
 /product-search/en?WT.z_header=search_go&lang=en&site=us&keywords=39-
  []
 
-<figs/body02/FIGDEVICEminiPower.pdf, id=5101, 193.32225pt x 171.64125pt>
+<figs/body02/FIGDEVICEminiPower.pdf, id=5112, 193.32225pt x 171.64125pt>
 File: figs/body02/FIGDEVICEminiPower.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEminiPower.pdf>
@@ -1878,7 +1878,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICEminiPower.pdf used on input line
 764.
 (pdftex.def)             Requested size: 193.32178pt x 171.64081pt.
 
-<figs/body02/FIGDEVICERJ45F(SH).pdf, id=5103, 334.85101pt x 266.79674pt>
+<figs/body02/FIGDEVICERJ45F(SH).pdf, id=5114, 334.85101pt x 266.79674pt>
 File: figs/body02/FIGDEVICERJ45F(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICERJ45F(SH).pdf>
@@ -1886,7 +1886,7 @@ Package pdftex.def Info: figs/body02/FIGDEVICERJ45F(SH).pdf used on input line
 778.
 (pdftex.def)             Requested size: 334.85019pt x 266.79607pt.
 
-<figs/body02/FIGDEVICERJ45M(SH).pdf, id=5105, 334.85101pt x 278.23952pt>
+<figs/body02/FIGDEVICERJ45M(SH).pdf, id=5116, 334.85101pt x 278.23952pt>
 File: figs/body02/FIGDEVICERJ45M(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICERJ45M(SH).pdf>
@@ -1925,7 +1925,7 @@ Overfull \hbox (13.29533pt too wide) in paragraph at lines 801--802
 roduct-detail/en/1838274-
  []
 
-<figs/body02/FIGDEVICESCANF(SH).pdf, id=5185, 458.31226pt x 449.2785pt>
+<figs/body02/FIGDEVICESCANF(SH).pdf, id=5196, 458.31226pt x 449.2785pt>
 File: figs/body02/FIGDEVICESCANF(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESCANF(SH).pdf>
@@ -1938,7 +1938,7 @@ Overfull \hbox (13.29533pt too wide) in paragraph at lines 816--817
 /product-detail/en/1838277-
  []
 
-<figs/body02/FIGDEVICESCANM(SH).pdf, id=5188, 458.31226pt x 449.2785pt>
+<figs/body02/FIGDEVICESCANM(SH).pdf, id=5199, 458.31226pt x 449.2785pt>
 File: figs/body02/FIGDEVICESCANM(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESCANM(SH).pdf>
@@ -1951,7 +1951,7 @@ Overfull \hbox (61.54047pt too wide) in paragraph at lines 831--832
 /product-search/en?v=626&mpart=17-
  []
 
-<figs/body02/FIGDEVICESLANF(SH).pdf, id=5191, 598.63652pt x 483.60674pt>
+<figs/body02/FIGDEVICESLANF(SH).pdf, id=5202, 598.63652pt x 483.60674pt>
 File: figs/body02/FIGDEVICESLANF(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESLANF(SH).pdf>
@@ -1985,7 +1985,7 @@ Overfull \hbox (40.00223pt too wide) in paragraph at lines 846--847
 /product-detail/en/17-10001/626-
  []
 
-<figs/body02/FIGDEVICESLANM(SH).pdf, id=5259, 649.82777pt x 579.96674pt>
+<figs/body02/FIGDEVICESLANM(SH).pdf, id=5270, 649.82777pt x 579.96674pt>
 File: figs/body02/FIGDEVICESLANM(SH).pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICESLANM(SH).pdf>
@@ -2012,14 +2012,14 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 877.
 LaTeX Warning: Reference `CONSTRUCTIONS' on page 70 undefined on input line 884
 .
 
-<figs/body02/FIGCABLELIST.pdf, id=5288, 845.07718pt x 597.55246pt>
+<figs/body02/FIGCABLELIST.pdf, id=5299, 845.07718pt x 597.55246pt>
 File: figs/body02/FIGCABLELIST.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGCABLELIST.pdf>
 Package pdftex.def Info: figs/body02/FIGCABLELIST.pdf used on input line 894.
 (pdftex.def)             Requested size: 845.07512pt x 597.551pt.
 
-<figs/body02/FIGCABLETYPELIST.pdf, id=5289, 232.4685pt x 155.38051pt>
+<figs/body02/FIGCABLETYPELIST.pdf, id=5300, 232.4685pt x 155.38051pt>
 File: figs/body02/FIGCABLETYPELIST.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGCABLETYPELIST.pdf>
@@ -2027,7 +2027,7 @@ Package pdftex.def Info: figs/body02/FIGCABLETYPELIST.pdf used on input line 90
 1.
 (pdftex.def)             Requested size: 232.46793pt x 155.38011pt.
 
-<figs/body02/FIGOVALGRIP.pdf, id=5290, 532.99126pt x 571.53528pt>
+<figs/body02/FIGOVALGRIP.pdf, id=5301, 532.99126pt x 571.53528pt>
 File: figs/body02/FIGOVALGRIP.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGOVALGRIP.pdf>
@@ -2066,7 +2066,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 975.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [75]
-<figs/body02/FIGDEVICEUTILITYHEATSHRINK.pdf, id=5344, 396.88275pt x 219.219pt>
+<figs/body02/FIGDEVICEUTILITYHEATSHRINK.pdf, id=5355, 396.88275pt x 219.219pt>
 File: figs/body02/FIGDEVICEUTILITYHEATSHRINK.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEUTILITYHEATSHRINK.pdf>
@@ -2078,14 +2078,14 @@ ut line 979.
 LaTeX Warning: Float too large for page by 103.49065pt on input line 982.
 
 
-<figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf, id=5345, 605.86348pt x 491.436pt>
+<figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf, id=5356, 605.86348pt x 491.436pt>
 File: figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf Graphic file (type pdf)
 <use figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf>
 Package pdftex.def Info: figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf used on in
 put line 986.
 (pdftex.def)             Requested size: 605.862pt x 491.4348pt.
 
-<figs/body02/FIGDEVICETOOLPLIERCUTTING.pdf, id=5347, 579.96674pt x 357.7365pt>
+<figs/body02/FIGDEVICETOOLPLIERCUTTING.pdf, id=5358, 579.96674pt x 357.7365pt>
 File: figs/body02/FIGDEVICETOOLPLIERCUTTING.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICETOOLPLIERCUTTING.pdf>
@@ -2097,7 +2097,7 @@ t line 998.
 LaTeX Warning: Float too large for page by 22.65262pt on input line 1001.
 
 
-<figs/body02/FIGDEVICETOOLPLIERNEEDLENOSE.pdf, id=5349, 708.84827pt x 378.81525
+<figs/body02/FIGDEVICETOOLPLIERNEEDLENOSE.pdf, id=5360, 708.84827pt x 378.81525
 pt>
 File: figs/body02/FIGDEVICETOOLPLIERNEEDLENOSE.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICETOOLPLIERNEEDLENOSE.pdf>
@@ -2121,7 +2121,7 @@ Overfull \hbox (51.17056pt too wide) in paragraph at lines 1019--1020
 /product-search/en/tools/crimpers-
  []
 
-<figs/body02/FIGDEVICECRIMPERmicro.pdf, id=5353, 443.85826pt x 478.1865pt>
+<figs/body02/FIGDEVICECRIMPERmicro.pdf, id=5364, 443.85826pt x 478.1865pt>
 File: figs/body02/FIGDEVICECRIMPERmicro.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICECRIMPERmicro.pdf>
@@ -2189,7 +2189,7 @@ Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1035.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
 [81 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICECRIMPERmicro.pdf>]
-<figs/body02/FIGDEVICECRIMPERmini.pdf, id=5406, 371.58826pt x 407.72327pt>
+<figs/body02/FIGDEVICECRIMPERmini.pdf, id=5417, 371.58826pt x 407.72327pt>
 File: figs/body02/FIGDEVICECRIMPERmini.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICECRIMPERmini.pdf>
@@ -2197,96 +2197,132 @@ Package pdftex.def Info: figs/body02/FIGDEVICECRIMPERmini.pdf used on input lin
 e 1040.
 (pdftex.def)             Requested size: 371.58734pt x 407.72226pt.
 
-<figs/body02/FIGDEVICESOLDERINGSTATION.pdf, id=5409, 386.64452pt x 287.27327pt>
-File: figs/body02/FIGDEVICESOLDERINGSTATION.pdf Graphic file (type pdf)
-<use figs/body02/FIGDEVICESOLDERINGSTATION.pdf>
-Package pdftex.def Info: figs/body02/FIGDEVICESOLDERINGSTATION.pdf used on inpu
-t line 1053.
-(pdftex.def)             Requested size: 386.64357pt x 287.27257pt.
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+Overfull \hbox (17.7313pt too wide) in paragraph at lines 1049--1050
+[][][][]\T1/ppl/m/n/10.95 http://www.digikey.com/product-detail/en/DL-5468R/117
+5-1285-ND/3516751[][] 
+ []
 
+
+Overfull \hbox (10.41678pt too wide) in paragraph at lines 1050--1051
+[][][][]\T1/ppl/m/n/10.95 http://www.digikey.com/product-detail/en/DL-1008/1175
+-1293-ND/3516743[][] 
+ []
+
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1056.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1053.
 
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [82 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICECRIMPERmini.pdf>]
-<figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf, id=5423, 524.55972pt x 390.86024p
+<figs/body02/FIGDEVICECRIMPERRJ45.pdf, id=5431, 887.11424pt x 517.33278pt>
+File: figs/body02/FIGDEVICECRIMPERRJ45.pdf Graphic file (type pdf)
+
+<use figs/body02/FIGDEVICECRIMPERRJ45.pdf>
+Package pdftex.def Info: figs/body02/FIGDEVICECRIMPERRJ45.pdf used on input lin
+e 1057.
+(pdftex.def)             Requested size: 887.11209pt x 517.33151pt.
+
+
+LaTeX Warning: Float too large for page by 62.58316pt on input line 1060.
+
+
+<figs/body02/FIGDEVICESOLDERINGSTATION.pdf, id=5434, 386.64452pt x 287.27327pt>
+File: figs/body02/FIGDEVICESOLDERINGSTATION.pdf Graphic file (type pdf)
+<use figs/body02/FIGDEVICESOLDERINGSTATION.pdf>
+Package pdftex.def Info: figs/body02/FIGDEVICESOLDERINGSTATION.pdf used on inpu
+t line 1070.
+(pdftex.def)             Requested size: 386.64357pt x 287.27257pt.
+
+<figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf, id=5438, 524.55972pt x 390.86024p
 t>
 File: figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf Graphic file (type pdf)
  <use figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf>
 Package pdftex.def Info: figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf used on in
-put line 1067.
+put line 1084.
 (pdftex.def)             Requested size: 524.55843pt x 390.85928pt.
 File: figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf>
 Package pdftex.def Info: figs/body02/FIGDEVICEUTILITYHEATSHRINK2.pdf used on in
-put line 1074.
+put line 1091.
 (pdftex.def)             Requested size: 605.862pt x 491.4348pt.
 
-Overfull \hbox (263.7633pt too wide) in paragraph at lines 1083--1084
+Overfull \hbox (263.7633pt too wide) in paragraph at lines 1100--1101
 [][]\T1/ppl/m/n/10.95 Model ref-er-ences (Web-site): [][]http://www.molex.com/m
 olex/products/datasheet.jsp?part=active/0430300002_CRIMP_TERMINALS.xml[][] 
  []
 
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+<use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1101.
 
-Overfull \hbox (93.59126pt too wide) in paragraph at lines 1085--1086
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [83]
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+ <use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1101.
+
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+
+[84 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICECRIMPERRJ45.pdf>]
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+
+<use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1101.
+
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [85 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICESOLDERINGSTATION.pdf>
+]
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+ <use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1101.
+
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+
+[86 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf
+>]
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+ <use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1101.
+
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [87]
+Overfull \hbox (93.59126pt too wide) in paragraph at lines 1102--1103
 [][]\T1/ppl/m/n/10.95 Commercial op-tion (Web-site): [][]http://www.digikey.com
 /product-detail/en/0430300002/WM1125TR-
  []
 
-<figs/body02/FIGDEVICEmicroCrimp.pdf, id=5429, 202.356pt x 302.93173pt>
+<figs/body02/FIGDEVICEmicroCrimp.pdf, id=5478, 202.356pt x 302.93173pt>
 File: figs/body02/FIGDEVICEmicroCrimp.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEmicroCrimp.pdf>
 Package pdftex.def Info: figs/body02/FIGDEVICEmicroCrimp.pdf used on input line
- 1090.
+ 1107.
 (pdftex.def)             Requested size: 202.3555pt x 302.93098pt.
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
- <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1098.
 
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
-
-[83]
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
- <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1098.
-
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [84 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICESOLDERINGSTATION.pdf>
-]
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
- <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1098.
-
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
-
-[85 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEUTILITYHEATSHRINK1.pdf
->]
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
- <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1098.
-
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [86]
-Overfull \hbox (263.7633pt too wide) in paragraph at lines 1099--1100
+Overfull \hbox (263.7633pt too wide) in paragraph at lines 1116--1117
 [][]\T1/ppl/m/n/10.95 Model ref-er-ences (Web-site): [][]http://www.molex.com/m
 olex/products/datasheet.jsp?part=active/0444761112_CRIMP_TERMINALS.xml[][] 
  []
 
 
-Overfull \hbox (79.56453pt too wide) in paragraph at lines 1101--1102
+Overfull \hbox (79.56453pt too wide) in paragraph at lines 1118--1119
 [][]\T1/ppl/m/n/10.95 Commercial op-tion (Web-site): [][]http://www.digikey.com
 /product-detail/en/0444761112/WM1914-
  []
 
-<figs/body02/FIGDEVICEminiCrimp.pdf, id=5462, 682.95152pt x 457.71pt>
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+<use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 1119.
+
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [88 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEmicroCrimp.pdf>]
+<figs/body02/FIGDEVICEminiCrimp.pdf, id=5495, 682.95152pt x 457.71pt>
 File: figs/body02/FIGDEVICEminiCrimp.pdf Graphic file (type pdf)
 
 <use figs/body02/FIGDEVICEminiCrimp.pdf>
 Package pdftex.def Info: figs/body02/FIGDEVICEminiCrimp.pdf used on input line 
-1106.
+1123.
 (pdftex.def)             Requested size: 682.94984pt x 457.7089pt.
 )
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
@@ -2294,14 +2330,13 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 83.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[87 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEmicroCrimp.pdf>]
+[89]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
-
-<use figs/logo/coppetec50-logo.pdf>
+ <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 83.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [88 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEminiCrimp.pdf>] (C:\S
-PB_Data\git\renan028\DORIS\03_body03.tex
+ [90 <C:/SPB_Data/git/renan028/DORIS/figs/body02/FIGDEVICEminiCrimp.pdf>]
+(C:\SPB_Data\git\renan028\DORIS\03_body03.tex
 Chapter 4.
 
 Overfull \hbox (2.38911pt too wide) in paragraph at lines 12--13
@@ -2309,7 +2344,7 @@ Overfull \hbox (2.38911pt too wide) in paragraph at lines 12--13
 ca-ble side. Use the sec-tion [][]3.9.1.2[][]
  []
 
-<figs/body03/FIGACTEconstruction.pdf, id=5490, 736.55174pt x 238.49101pt>
+<figs/body03/FIGACTEconstruction.pdf, id=5518, 736.55174pt x 238.49101pt>
 File: figs/body03/FIGACTEconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGACTEconstruction.pdf>
@@ -2324,7 +2359,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 23.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [89
+ [91
 
 
 
@@ -2334,8 +2369,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 23.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[90 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGACTEconstruction.pdf>]
-<figs/body03/FIGACTHconstruction.pdf, id=5520, 736.55174pt x 238.49101pt>
+[92 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGACTEconstruction.pdf>]
+<figs/body03/FIGACTHconstruction.pdf, id=5547, 736.55174pt x 238.49101pt>
 File: figs/body03/FIGACTHconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGACTHconstruction.pdf>
@@ -2346,7 +2381,7 @@ Package pdftex.def Info: figs/body03/FIGACTHconstruction.pdf used on input line
 
 LaTeX Warning: Float too large for page by 648.91077pt on input line 34.
 
-<figs/body03/FIGACTMconstruction.pdf, id=5527, 736.55174pt x 238.49101pt>
+<figs/body03/FIGACTMconstruction.pdf, id=5554, 736.55174pt x 238.49101pt>
 File: figs/body03/FIGACTMconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGACTMconstruction.pdf>
@@ -2361,20 +2396,20 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 57.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [91]
+ [93]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 57.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[92 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGACTHconstruction.pdf>]
+[94 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGACTHconstruction.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 57.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [93 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGACTMconstruction.pdf>]
-<figs/body03/FIGCANDDconstruction.pdf, id=5577, 736.55174pt x 486.01576pt>
+ [95 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGACTMconstruction.pdf>]
+<figs/body03/FIGCANDDconstruction.pdf, id=5605, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGCANDDconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCANDDconstruction.pdf>
@@ -2386,13 +2421,13 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 87.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[94]
+[96]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 87.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [95 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANDDconstruction.pdf>]
-<figs/body03/FIGCANIDcconstruction.pdf, id=5620, 736.55174pt x 486.01576pt>
+ [97 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANDDconstruction.pdf>]
+<figs/body03/FIGCANIDcconstruction.pdf, id=5647, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGCANIDcconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCANIDcconstruction.pdf>
@@ -2400,7 +2435,7 @@ Package pdftex.def Info: figs/body03/FIGCANIDcconstruction.pdf used on input li
 ne 92.
 (pdftex.def)             Requested size: 736.54994pt x 486.01457pt.
 
-<figs/body03/FIGCANIDpconstruction.pdf, id=5628, 736.55174pt x 486.01576pt>
+<figs/body03/FIGCANIDpconstruction.pdf, id=5655, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGCANIDpconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCANIDpconstruction.pdf>
@@ -2412,20 +2447,20 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 128.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [96]
+ [98]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 128.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[97 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIDcconstruction.pdf>]
+[99 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIDcconstruction.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 128.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [98 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIDpconstruction.pdf>]
-<figs/body03/FIGCANIIconstruction.pdf, id=5700, 736.55174pt x 486.01576pt>
+ [100 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIDpconstruction.pdf>]
+<figs/body03/FIGCANIIconstruction.pdf, id=5727, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGCANIIconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCANIIconstruction.pdf>
@@ -2433,7 +2468,7 @@ Package pdftex.def Info: figs/body03/FIGCANIIconstruction.pdf used on input lin
 e 137.
 (pdftex.def)             Requested size: 736.54994pt x 486.01457pt.
 
-<figs/body03/FIGCANIPCconstruction.pdf, id=5708, 736.55174pt x 486.01576pt>
+<figs/body03/FIGCANIPCconstruction.pdf, id=5735, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGCANIPCconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCANIPCconstruction.pdf>
@@ -2445,20 +2480,20 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 170.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [99]
+ [101]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 170.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[100 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIIconstruction.pdf>]
+[102 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIIconstruction.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 170.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [101 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIPCconstruction.pdf>]
-<figs/body03/FIGCANOutconstruction.pdf, id=5786, 736.55174pt x 486.01576pt>
+ [103 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANIPCconstruction.pdf>]
+<figs/body03/FIGCANOutconstruction.pdf, id=5813, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGCANOutconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCANOutconstruction.pdf>
@@ -2470,14 +2505,14 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 197.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [102]
+ [104]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 197.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[103 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANOutconstruction.pdf>]
-<figs/body03/FIGLANISconstruction.pdf, id=5842, 736.55174pt x 486.01576pt>
+[105 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCANOutconstruction.pdf>]
+<figs/body03/FIGLANISconstruction.pdf, id=5869, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGLANISconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGLANISconstruction.pdf>
@@ -2489,13 +2524,13 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 229.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[104]
+[106]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 229.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [105 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGLANISconstruction.pdf>]
-<figs/body03/FIGLANOutconstruction.pdf, id=5885, 736.55174pt x 486.01576pt>
+ [107 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGLANISconstruction.pdf>]
+<figs/body03/FIGLANOutconstruction.pdf, id=5913, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGLANOutconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGLANOutconstruction.pdf>
@@ -2503,7 +2538,7 @@ Package pdftex.def Info: figs/body03/FIGLANOutconstruction.pdf used on input li
 ne 233.
 (pdftex.def)             Requested size: 736.54994pt x 486.01457pt.
 
-<figs/body03/FIGLANSDconstruction.pdf, id=5891, 736.55174pt x 486.01576pt>
+<figs/body03/FIGLANSDconstruction.pdf, id=5919, 736.55174pt x 486.01576pt>
 File: figs/body03/FIGLANSDconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGLANSDconstruction.pdf>
@@ -2511,7 +2546,7 @@ Package pdftex.def Info: figs/body03/FIGLANSDconstruction.pdf used on input lin
 e 252.
 (pdftex.def)             Requested size: 736.54994pt x 486.01457pt.
 
-<figs/body03/FIGUSBDAQconstruction.pdf, id=5893, 736.55174pt x 195.73125pt>
+<figs/body03/FIGUSBDAQconstruction.pdf, id=5921, 736.55174pt x 195.73125pt>
 File: figs/body03/FIGUSBDAQconstruction.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGUSBDAQconstruction.pdf>
@@ -2522,33 +2557,29 @@ ne 262.
 
 LaTeX Warning: Float too large for page by 936.85037pt on input line 265.
 
-
-LaTeX Warning: Reference `FIG:CRIMPDB9' on page 106 undefined on input line 271
-.
-
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 274.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 273.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [106]
+ [108]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 274.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 273.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[107 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGLANOutconstruction.pdf>]
+[109 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGLANOutconstruction.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 274.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 273.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [108 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGLANSDconstruction.pdf>]
+ [110 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGLANSDconstruction.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 274.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 273.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [109 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGUSBDAQconstruction.pdf>]
-<figs/body03/FIGCRIMPDB9.pdf, id=6004, 821.46902pt x 1283.39473pt>
+ [111 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGUSBDAQconstruction.pdf>]
+<figs/body03/FIGCRIMPDB9.pdf, id=6032, 821.46902pt x 1283.39473pt>
 File: figs/body03/FIGCRIMPDB9.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMPDB9.pdf>
@@ -2563,178 +2594,170 @@ ons [][]3.9.1.12[][], [][]3.9.1.11[][], [][]3.9.1.16[][] and [][]3.9.1.15[][]),
 
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 294.
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [110 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPDB9.pdf>]
-
-LaTeX Warning: Reference `DEVICE:TOOLCRIMPERRJ45' on page 111 undefined on inpu
-t line 302.
-
-
-LaTeX Warning: Reference `FIG:CRIMPDB9' on page 111 undefined on input line 306
-.
-
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
-<use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 312.
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [111]
-File: figs/body03/FIGCRIMPDB9.pdf Graphic file (type pdf)
- <use figs/body03/FIGCRIMPDB9.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMPDB9.pdf used on input line 322.
-(pdftex.def)             Requested size: 821.46703pt x 1283.3916pt.
-
-Overfull \hbox (18.2234pt too wide) in paragraph at lines 329--330
-[][]\T1/ppl/m/n/10.95 Use the tool "Molex Hand Crimper Tool Part Num-ber: 63819
--0000" (see sec-tion [][]3.10.1.4[][]). 
- []
-
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
-<use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 332.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 300.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
  [112]
-<figs/body03/FIGCRIMPmicro1.pdf, id=6153, 855.79723pt x 442.0515pt>
+<figs/body03/FIGCRIMPRJ45.pdf, id=6055, 706.43924pt x 831.105pt>
+File: figs/body03/FIGCRIMPRJ45.pdf Graphic file (type pdf)
+
+<use figs/body03/FIGCRIMPRJ45.pdf>
+Package pdftex.def Info: figs/body03/FIGCRIMPRJ45.pdf used on input line 314.
+(pdftex.def)             Requested size: 706.43752pt x 831.10297pt.
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+ <use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 321.
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [113 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPDB9.pdf>]
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+
+<use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 321.
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [114 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPRJ45.pdf>]
+Overfull \hbox (18.2234pt too wide) in paragraph at lines 321--322
+[]\T1/ppl/m/n/10.95 Use the tool "Molex Hand Crimper Tool Part Num-ber: 63819-0
+000" (see sec-tion [][]3.10.1.4[][]). 
+ []
+
+<figs/body03/FIGCRIMPmicro1.pdf, id=6195, 855.79723pt x 442.0515pt>
 File: figs/body03/FIGCRIMPmicro1.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMPmicro1.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMPmicro1.pdf used on input line 348.
+Package pdftex.def Info: figs/body03/FIGCRIMPmicro1.pdf used on input line 340.
 
 (pdftex.def)             Requested size: 855.79514pt x 442.05042pt.
 
 
-LaTeX Warning: Float too large for page by 156.988pt on input line 351.
+LaTeX Warning: Float too large for page by 156.988pt on input line 343.
 
-<figs/body03/FIGCRIMP2.pdf, id=6154, 702.82576pt x 1147.28625pt>
+<figs/body03/FIGCRIMP2.pdf, id=6196, 702.82576pt x 1147.28625pt>
 File: figs/body03/FIGCRIMP2.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMP2.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMP2.pdf used on input line 355.
+Package pdftex.def Info: figs/body03/FIGCRIMP2.pdf used on input line 347.
 (pdftex.def)             Requested size: 702.82404pt x 1147.28345pt.
 
-<figs/body03/FIGCRIMP3.pdf, id=6155, 798.58348pt x 824.48027pt>
+<figs/body03/FIGCRIMP3.pdf, id=6197, 798.58348pt x 824.48027pt>
 File: figs/body03/FIGCRIMP3.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMP3.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMP3.pdf used on input line 362.
+Package pdftex.def Info: figs/body03/FIGCRIMP3.pdf used on input line 354.
 (pdftex.def)             Requested size: 798.58154pt x 824.47826pt.
 
-<figs/body03/FIGCRIMP4.pdf, id=6156, 749.19902pt x 885.90973pt>
+<figs/body03/FIGCRIMP4.pdf, id=6198, 749.19902pt x 885.90973pt>
 File: figs/body03/FIGCRIMP4.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMP4.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMP4.pdf used on input line 369.
+Package pdftex.def Info: figs/body03/FIGCRIMP4.pdf used on input line 361.
 (pdftex.def)             Requested size: 749.19719pt x 885.90758pt.
 
-Overfull \hbox (11.23636pt too wide) in paragraph at lines 374--376
+Overfull \hbox (11.23636pt too wide) in paragraph at lines 366--368
 []\T1/ppl/m/n/10.95 For con-nect-ing wires to a Molex Mini-Fit\TS1/ppl/m/n/10.9
 5 ®\T1/ppl/m/n/10.95 connector from 39-01-xxxx fam-ily (sec-tions [][]3.9.1.9[]
 []
  []
 
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+<use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 368.
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
+ [115]
+File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
+ <use figs/logo/coppetec50-logo.pdf>
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 368.
+(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-Overfull \hbox (18.2234pt too wide) in paragraph at lines 376--377
-[][]\T1/ppl/m/n/10.95 Use the tool "Molex Hand Crimper Tool Part Num-ber: 63819
--0900" (see sec-tion [][]3.10.1.5[][]). 
+[116 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPmicro1.pdf>]
+Overfull \hbox (18.2234pt too wide) in paragraph at lines 368--369
+[]\T1/ppl/m/n/10.95 Use the tool "Molex Hand Crimper Tool Part Num-ber: 63819-0
+900" (see sec-tion [][]3.10.1.5[][]). 
  []
 
 
-LaTeX Warning: Reference `FIG:CRIMPmini5' on page 113 undefined on input line 3
-78.
+LaTeX Warning: Reference `FIG:CRIMPmini5' on page 117 undefined on input line 3
+70.
 
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 379.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 378.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [113]
+ [117 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP2.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 379.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 378.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
-
-[114 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPmicro1.pdf>]
+ [118 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP3.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 391.
+Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 378.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [115 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP2.pdf>]
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
- <use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 391.
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [116 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP3.pdf>]
-File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
-
-<use figs/logo/coppetec50-logo.pdf>
-Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 391.
-(pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [117 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP4.pdf>]
-<figs/body03/FIGCRIMPmini5.pdf, id=7303, 855.79723pt x 442.0515pt>
+ [119 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP4.pdf>]
+<figs/body03/FIGCRIMPmini5.pdf, id=7344, 855.79723pt x 442.0515pt>
 File: figs/body03/FIGCRIMPmini5.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMPmini5.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMPmini5.pdf used on input line 395.
+Package pdftex.def Info: figs/body03/FIGCRIMPmini5.pdf used on input line 387.
 (pdftex.def)             Requested size: 855.79514pt x 442.05042pt.
 
 
-LaTeX Warning: Float too large for page by 156.988pt on input line 398.
+LaTeX Warning: Float too large for page by 156.988pt on input line 390.
 
-<figs/body03/FIGCRIMP6.pdf, id=7304, 702.82576pt x 1147.28625pt>
+<figs/body03/FIGCRIMP6.pdf, id=7345, 702.82576pt x 1147.28625pt>
 File: figs/body03/FIGCRIMP6.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMP6.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMP6.pdf used on input line 402.
+Package pdftex.def Info: figs/body03/FIGCRIMP6.pdf used on input line 394.
 (pdftex.def)             Requested size: 702.82404pt x 1147.28345pt.
 
-<figs/body03/FIGCRIMP7.pdf, id=7305, 798.58348pt x 824.48027pt>
+<figs/body03/FIGCRIMP7.pdf, id=7346, 798.58348pt x 824.48027pt>
 File: figs/body03/FIGCRIMP7.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMP7.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMP7.pdf used on input line 409.
+Package pdftex.def Info: figs/body03/FIGCRIMP7.pdf used on input line 401.
 (pdftex.def)             Requested size: 798.58154pt x 824.47826pt.
 
-<figs/body03/FIGCRIMP8.pdf, id=7306, 749.19902pt x 885.90973pt>
+<figs/body03/FIGCRIMP8.pdf, id=7347, 749.19902pt x 885.90973pt>
 File: figs/body03/FIGCRIMP8.pdf Graphic file (type pdf)
 
 <use figs/body03/FIGCRIMP8.pdf>
-Package pdftex.def Info: figs/body03/FIGCRIMP8.pdf used on input line 416.
+Package pdftex.def Info: figs/body03/FIGCRIMP8.pdf used on input line 408.
 (pdftex.def)             Requested size: 749.19719pt x 885.90758pt.
 )
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 84.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [118]
+ [120]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 84.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [119 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPmini5.pdf>]
+ [121 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMPmini5.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 84.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [120 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP6.pdf>]
+ [122 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP6.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 84.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [121 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP7.pdf>]
+ [123 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP7.pdf>]
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 84.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [122 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP8.pdf>]
+ [124 <C:/SPB_Data/git/renan028/DORIS/figs/body03/FIGCRIMP8.pdf>]
 (C:\SPB_Data\git\renan028\DORIS\03_body04.tex
 Chapter 5.
 File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 5.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [123
+ [125
 
 
 
@@ -2746,14 +2769,14 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 86.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [124
+ [126
 
 
 
 ]
 (C:\SPB_Data\git\renan028\DORIS\05_team.tex
 Appendix A.
-<figs/team/organogram/general.pdf, id=8435, 687.56876pt x 457.71pt>
+<figs/team/organogram/general.pdf, id=8477, 687.56876pt x 457.71pt>
 <use figs/team/organogram/general.pdf> <use figs/team/organogram/general.pdf>
 File: figs/team/organogram/general.pdf Graphic file (type pdf)
 
@@ -2768,12 +2791,12 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 74.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [125
+ [127
 
 
 
  <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/general.pdf>]
-<figs/team/organogram/coordinator.pdf, id=8468, 513.92pt x 174.6525pt>
+<figs/team/organogram/coordinator.pdf, id=8509, 513.92pt x 174.6525pt>
 <use figs/team/organogram/coordinator.pdf>
 <use figs/team/organogram/coordinator.pdf>
 File: figs/team/organogram/coordinator.pdf Graphic file (type pdf)
@@ -2787,8 +2810,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 92.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[126 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/coordinator.pdf>]
-<figs/team/organogram/mechanics.pdf, id=8482, 538.01pt x 629.35126pt>
+[128 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/coordinator.pdf>]
+<figs/team/organogram/mechanics.pdf, id=8523, 538.01pt x 629.35126pt>
 <use figs/team/organogram/mechanics.pdf>
 <use figs/team/organogram/mechanics.pdf>
 File: figs/team/organogram/mechanics.pdf Graphic file (type pdf)
@@ -2802,8 +2825,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 110.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[127 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/mechanics.pdf>]
-<figs/team/organogram/electronics.pdf, id=8503, 538.01pt x 401.5pt>
+[129 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/mechanics.pdf>]
+<figs/team/organogram/electronics.pdf, id=8544, 538.01pt x 401.5pt>
 <use figs/team/organogram/electronics.pdf>
 <use figs/team/organogram/electronics.pdf>
 File: figs/team/organogram/electronics.pdf Graphic file (type pdf)
@@ -2817,8 +2840,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 128.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[128 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/electronics.pdf>]
-<figs/team/organogram/power.pdf, id=8520, 538.01pt x 401.5pt>
+[130 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/electronics.pdf>]
+<figs/team/organogram/power.pdf, id=8561, 538.01pt x 401.5pt>
 <use figs/team/organogram/power.pdf> <use figs/team/organogram/power.pdf>
 File: figs/team/organogram/power.pdf Graphic file (type pdf)
 
@@ -2831,8 +2854,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 146.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[129 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/power.pdf>]
-<figs/team/organogram/software.pdf, id=8536, 538.01pt x 402.50375pt>
+[131 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/power.pdf>]
+<figs/team/organogram/software.pdf, id=8578, 538.01pt x 402.50375pt>
 <use figs/team/organogram/software.pdf>
 <use figs/team/organogram/software.pdf>
 File: figs/team/organogram/software.pdf Graphic file (type pdf)
@@ -2846,8 +2869,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 164.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[130 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/software.pdf>]
-<figs/team/organogram/signal.pdf, id=8553, 538.01pt x 631.35875pt>
+[132 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/software.pdf>]
+<figs/team/organogram/signal.pdf, id=8595, 538.01pt x 631.35875pt>
 <use figs/team/organogram/signal.pdf> <use figs/team/organogram/signal.pdf>
 File: figs/team/organogram/signal.pdf Graphic file (type pdf)
 
@@ -2860,8 +2883,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 182.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[131 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/signal.pdf>]
-<figs/team/organogram/secretary.pdf, id=8575, 513.92pt x 173.64874pt>
+[133 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/signal.pdf>]
+<figs/team/organogram/secretary.pdf, id=8616, 513.92pt x 173.64874pt>
 <use figs/team/organogram/secretary.pdf>
 <use figs/team/organogram/secretary.pdf>
 File: figs/team/organogram/secretary.pdf Graphic file (type pdf)
@@ -2875,8 +2898,8 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 200.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[132 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/secretary.pdf>]
-<figs/team/coordinator/ramon.pdf, id=8589, 361.35pt x 482.80376pt>
+[134 <C:/SPB_Data/git/renan028/DORIS/figs/team/organogram/secretary.pdf>]
+<figs/team/coordinator/ramon.pdf, id=8630, 361.35pt x 482.80376pt>
 File: figs/team/coordinator/ramon.pdf Graphic file (type pdf)
 
 <use figs/team/coordinator/ramon.pdf>
@@ -2888,15 +2911,15 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 223.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[133 <C:/SPB_Data/git/renan028/DORIS/figs/team/coordinator/ramon.pdf>]
-<figs/team/mechanics/pal.pdf, id=8603, 361.35pt x 482.80376pt>
+[135 <C:/SPB_Data/git/renan028/DORIS/figs/team/coordinator/ramon.pdf>]
+<figs/team/mechanics/pal.pdf, id=8644, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/pal.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/pal.pdf>
 Package pdftex.def Info: figs/team/mechanics/pal.pdf used on input line 250.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/mechanics/gustavo.pdf, id=8610, 361.35pt x 482.80376pt>
+<figs/team/mechanics/gustavo.pdf, id=8651, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/gustavo.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/gustavo.pdf>
@@ -2904,7 +2927,7 @@ Package pdftex.def Info: figs/team/mechanics/gustavo.pdf used on input line 271
 .
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/mechanics/guilherme.pdf, id=8617, 361.35pt x 482.80376pt>
+<figs/team/mechanics/guilherme.pdf, id=8658, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/guilherme.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/guilherme.pdf>
@@ -2912,7 +2935,7 @@ Package pdftex.def Info: figs/team/mechanics/guilherme.pdf used on input line 2
 85.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/mechanics/gabriel.pdf, id=8624, 361.35pt x 482.80376pt>
+<figs/team/mechanics/gabriel.pdf, id=8665, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/gabriel.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/gabriel.pdf>
@@ -2920,7 +2943,7 @@ Package pdftex.def Info: figs/team/mechanics/gabriel.pdf used on input line 299
 .
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/mechanics/auderi.pdf, id=8631, 361.35pt x 482.80376pt>
+<figs/team/mechanics/auderi.pdf, id=8672, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/auderi.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/auderi.pdf>
@@ -2932,11 +2955,11 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 320.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[134 <C:/SPB_Data/git/renan028/DORIS/figs/team/mechanics/pal.pdf> <C:/SPB_Data/
+[136 <C:/SPB_Data/git/renan028/DORIS/figs/team/mechanics/pal.pdf> <C:/SPB_Data/
 git/renan028/DORIS/figs/team/mechanics/gustavo.pdf> <C:/SPB_Data/git/renan028/D
 ORIS/figs/team/mechanics/guilherme.pdf> <C:/SPB_Data/git/renan028/DORIS/figs/te
 am/mechanics/gabriel.pdf>]
-<figs/team/mechanics/felipe.pdf, id=8654, 361.35pt x 482.80376pt>
+<figs/team/mechanics/felipe.pdf, id=8695, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/felipe.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/felipe.pdf>
@@ -2944,14 +2967,14 @@ Package pdftex.def Info: figs/team/mechanics/felipe.pdf used on input line 334.
 
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/mechanics/pedro.pdf, id=8661, 361.35pt x 482.80376pt>
+<figs/team/mechanics/pedro.pdf, id=8702, 361.35pt x 482.80376pt>
 File: figs/team/mechanics/pedro.pdf Graphic file (type pdf)
 
 <use figs/team/mechanics/pedro.pdf>
 Package pdftex.def Info: figs/team/mechanics/pedro.pdf used on input line 348.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/logo/alis-logo.pdf, id=8668, 188.705pt x 91.34125pt>
+<figs/logo/alis-logo.pdf, id=8709, 188.705pt x 91.34125pt>
 <use figs/logo/alis-logo.pdf> <use figs/logo/alis-logo.pdf>
 File: figs/logo/alis-logo.pdf Graphic file (type pdf)
 
@@ -2959,7 +2982,7 @@ File: figs/logo/alis-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/alis-logo.pdf used on input line 351.
 (pdftex.def)             Requested size: 117.56313pt x 56.9055pt.
 
-<figs/team/electronics/liu.pdf, id=8669, 361.35pt x 482.80376pt>
+<figs/team/electronics/liu.pdf, id=8710, 361.35pt x 482.80376pt>
 File: figs/team/electronics/liu.pdf Graphic file (type pdf)
 
 <use figs/team/electronics/liu.pdf>
@@ -2970,11 +2993,11 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 380.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[135 <C:/SPB_Data/git/renan028/DORIS/figs/team/mechanics/auderi.pdf> <C:/SPB_Da
+[137 <C:/SPB_Data/git/renan028/DORIS/figs/team/mechanics/auderi.pdf> <C:/SPB_Da
 ta/git/renan028/DORIS/figs/team/mechanics/felipe.pdf> <C:/SPB_Data/git/renan028
 /DORIS/figs/team/mechanics/pedro.pdf> <C:/SPB_Data/git/renan028/DORIS/figs/logo
 /alis-logo.pdf>]
-<figs/team/electronics/alessandro.pdf, id=8692, 361.35pt x 482.80376pt>
+<figs/team/electronics/alessandro.pdf, id=8734, 361.35pt x 482.80376pt>
 File: figs/team/electronics/alessandro.pdf Graphic file (type pdf)
 
 <use figs/team/electronics/alessandro.pdf>
@@ -2982,7 +3005,7 @@ Package pdftex.def Info: figs/team/electronics/alessandro.pdf used on input lin
 e 401.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/electronics/marco.pdf, id=8699, 361.35pt x 482.80376pt>
+<figs/team/electronics/marco.pdf, id=8741, 361.35pt x 482.80376pt>
 File: figs/team/electronics/marco.pdf Graphic file (type pdf)
 
 <use figs/team/electronics/marco.pdf>
@@ -2990,7 +3013,7 @@ Package pdftex.def Info: figs/team/electronics/marco.pdf used on input line 415
 .
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/electronics/renan.pdf, id=8706, 361.35pt x 482.80376pt>
+<figs/team/electronics/renan.pdf, id=8748, 361.35pt x 482.80376pt>
 File: figs/team/electronics/renan.pdf Graphic file (type pdf)
 
 <use figs/team/electronics/renan.pdf>
@@ -2998,7 +3021,7 @@ Package pdftex.def Info: figs/team/electronics/renan.pdf used on input line 429
 .
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/power/eduardo.pdf, id=8713, 361.35pt x 482.80376pt>
+<figs/team/power/eduardo.pdf, id=8755, 361.35pt x 482.80376pt>
 File: figs/team/power/eduardo.pdf Graphic file (type pdf)
 
 <use figs/team/power/eduardo.pdf>
@@ -3008,11 +3031,11 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 457.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [136 <C:/SPB_Data/git/renan028/DORIS/figs/team/electronics/liu.pdf> <C:/SPB_Da
+ [138 <C:/SPB_Data/git/renan028/DORIS/figs/team/electronics/liu.pdf> <C:/SPB_Da
 ta/git/renan028/DORIS/figs/team/electronics/alessandro.pdf> <C:/SPB_Data/git/re
 nan028/DORIS/figs/team/electronics/marco.pdf> <C:/SPB_Data/git/renan028/DORIS/f
 igs/team/electronics/renan.pdf>]
-<figs/team/power/alessandro.pdf, id=8736, 361.35pt x 482.80376pt>
+<figs/team/power/alessandro.pdf, id=8778, 361.35pt x 482.80376pt>
 File: figs/team/power/alessandro.pdf Graphic file (type pdf)
 
 <use figs/team/power/alessandro.pdf>
@@ -3020,14 +3043,14 @@ Package pdftex.def Info: figs/team/power/alessandro.pdf used on input line 478.
 
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/power/ighor.pdf, id=8743, 361.35pt x 482.80376pt>
+<figs/team/power/ighor.pdf, id=8785, 361.35pt x 482.80376pt>
 File: figs/team/power/ighor.pdf Graphic file (type pdf)
 
 <use figs/team/power/ighor.pdf>
 Package pdftex.def Info: figs/team/power/ighor.pdf used on input line 492.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/software/fernando.pdf, id=8750, 361.35pt x 482.80376pt>
+<figs/team/software/fernando.pdf, id=8792, 361.35pt x 482.80376pt>
 File: figs/team/software/fernando.pdf Graphic file (type pdf)
 
 <use figs/team/software/fernando.pdf>
@@ -3039,31 +3062,31 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 520.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
 
-[137 <C:/SPB_Data/git/renan028/DORIS/figs/team/power/eduardo.pdf> <C:/SPB_Data/
+[139 <C:/SPB_Data/git/renan028/DORIS/figs/team/power/eduardo.pdf> <C:/SPB_Data/
 git/renan028/DORIS/figs/team/power/alessandro.pdf> <C:/SPB_Data/git/renan028/DO
 RIS/figs/team/power/ighor.pdf>]
-<figs/team/software/alex.pdf, id=8771, 361.35pt x 482.80376pt>
+<figs/team/software/alex.pdf, id=8812, 361.35pt x 482.80376pt>
 File: figs/team/software/alex.pdf Graphic file (type pdf)
 
 <use figs/team/software/alex.pdf>
 Package pdftex.def Info: figs/team/software/alex.pdf used on input line 541.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/software/thiago.pdf, id=8778, 361.35pt x 482.80376pt>
+<figs/team/software/thiago.pdf, id=8819, 361.35pt x 482.80376pt>
 File: figs/team/software/thiago.pdf Graphic file (type pdf)
 
 <use figs/team/software/thiago.pdf>
 Package pdftex.def Info: figs/team/software/thiago.pdf used on input line 555.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/software/lucas.pdf, id=8785, 297.36093pt x 380.92313pt>
+<figs/team/software/lucas.pdf, id=8826, 297.36093pt x 380.92313pt>
 File: figs/team/software/lucas.pdf Graphic file (type pdf)
 
 <use figs/team/software/lucas.pdf>
 Package pdftex.def Info: figs/team/software/lucas.pdf used on input line 569.
 (pdftex.def)             Requested size: 88.02538pt x 112.76077pt.
 
-<figs/team/signal/eduardo.pdf, id=8792, 361.35pt x 482.80376pt>
+<figs/team/signal/eduardo.pdf, id=8833, 361.35pt x 482.80376pt>
 File: figs/team/signal/eduardo.pdf Graphic file (type pdf)
 
 <use figs/team/signal/eduardo.pdf>
@@ -3073,10 +3096,10 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 597.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [138 <C:/SPB_Data/git/renan028/DORIS/figs/team/software/fernando.pdf> <C:/SPB_
+ [140 <C:/SPB_Data/git/renan028/DORIS/figs/team/software/fernando.pdf> <C:/SPB_
 Data/git/renan028/DORIS/figs/team/software/alex.pdf> <C:/SPB_Data/git/renan028/
 DORIS/figs/team/software/thiago.pdf> <C:/SPB_Data/git/renan028/DORIS/figs/team/
-software/lucas.pdf>] <figs/team/signal/sergio.pdf, id=8817, 361.35pt x 482.8037
+software/lucas.pdf>] <figs/team/signal/sergio.pdf, id=8858, 361.35pt x 482.8037
 6pt>
 File: figs/team/signal/sergio.pdf Graphic file (type pdf)
 
@@ -3084,21 +3107,21 @@ File: figs/team/signal/sergio.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs/team/signal/sergio.pdf used on input line 611.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/signal/jose.pdf, id=8824, 361.35pt x 482.80376pt>
+<figs/team/signal/jose.pdf, id=8865, 361.35pt x 482.80376pt>
 File: figs/team/signal/jose.pdf Graphic file (type pdf)
 
 <use figs/team/signal/jose.pdf>
 Package pdftex.def Info: figs/team/signal/jose.pdf used on input line 632.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/signal/amaro.pdf, id=8831, 361.35pt x 482.80376pt>
+<figs/team/signal/amaro.pdf, id=8872, 361.35pt x 482.80376pt>
 File: figs/team/signal/amaro.pdf Graphic file (type pdf)
 
 <use figs/team/signal/amaro.pdf>
 Package pdftex.def Info: figs/team/signal/amaro.pdf used on input line 645.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/signal/thiago.pdf, id=8838, 361.35pt x 482.80376pt>
+<figs/team/signal/thiago.pdf, id=8879, 361.35pt x 482.80376pt>
 File: figs/team/signal/thiago.pdf Graphic file (type pdf)
 
 <use figs/team/signal/thiago.pdf>
@@ -3108,31 +3131,31 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 659.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [139 <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/eduardo.pdf> <C:/SPB_Dat
+ [141 <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/eduardo.pdf> <C:/SPB_Dat
 a/git/renan028/DORIS/figs/team/signal/sergio.pdf> <C:/SPB_Data/git/renan028/DOR
 IS/figs/team/signal/jose.pdf> <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/
-amaro.pdf>] <figs/team/signal/gustavo.pdf, id=8861, 361.35pt x 482.80376pt>
+amaro.pdf>] <figs/team/signal/gustavo.pdf, id=8902, 361.35pt x 482.80376pt>
 File: figs/team/signal/gustavo.pdf Graphic file (type pdf)
 
 <use figs/team/signal/gustavo.pdf>
 Package pdftex.def Info: figs/team/signal/gustavo.pdf used on input line 680.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/signal/allan.pdf, id=8868, 361.35pt x 482.80376pt>
+<figs/team/signal/allan.pdf, id=8909, 361.35pt x 482.80376pt>
 File: figs/team/signal/allan.pdf Graphic file (type pdf)
 
 <use figs/team/signal/allan.pdf>
 Package pdftex.def Info: figs/team/signal/allan.pdf used on input line 694.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/signal/lucas.pdf, id=8875, 361.35pt x 482.80376pt>
+<figs/team/signal/lucas.pdf, id=8916, 361.35pt x 482.80376pt>
 File: figs/team/signal/lucas.pdf Graphic file (type pdf)
 
 <use figs/team/signal/lucas.pdf>
 Package pdftex.def Info: figs/team/signal/lucas.pdf used on input line 708.
 (pdftex.def)             Requested size: 88.02538pt x 117.6065pt.
 
-<figs/team/signal/amanda.pdf, id=8882, 361.35pt x 482.80376pt>
+<figs/team/signal/amanda.pdf, id=8923, 361.35pt x 482.80376pt>
 File: figs/team/signal/amanda.pdf Graphic file (type pdf)
 
 <use figs/team/signal/amanda.pdf>
@@ -3142,7 +3165,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 729.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [140 <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/thiago.pdf> <C:/SPB_Data
+ [142 <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/thiago.pdf> <C:/SPB_Data
 /git/renan028/DORIS/figs/team/signal/gustavo.pdf> <C:/SPB_Data/git/renan028/DOR
 IS/figs/team/signal/allan.pdf> <C:/SPB_Data/git/renan028/DORIS/figs/team/signal
 /lucas.pdf>])
@@ -3150,7 +3173,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
  <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 94.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [141 <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/amanda.pdf>] (C:\SPB_Dat
+ [143 <C:/SPB_Data/git/renan028/DORIS/figs/team/signal/amanda.pdf>] (C:\SPB_Dat
 a\git\renan028\DORIS\06_bibliography.tex (C:\SPB_Data\git\renan028\DORIS\master
 .bbl
 (C:\SPB_Data\git\renan028\DORIS\master.brf)
@@ -3161,7 +3184,7 @@ File: figs/logo/coppetec50-logo.pdf Graphic file (type pdf)
 <use figs/logo/coppetec50-logo.pdf>
 Package pdftex.def Info: figs/logo/coppetec50-logo.pdf used on input line 103.
 (pdftex.def)             Requested size: 64.38432pt x 56.9055pt.
- [142
+ [144
 
 
 
@@ -3186,7 +3209,7 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 234F275014E888D2652445C071A7C750;14316.
+(rerunfilecheck)             Checksum: 1B0A7426317B76299CE1D1A35DB13AFD;14404.
 Package rerunfilecheck Info: File `master.brf' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -3199,13 +3222,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 11092 strings out of 493921
- 172019 string characters out of 3147281
- 253440 words of memory out of 3000000
- 13539 multiletter control sequences out of 15000+200000
+ 11105 strings out of 493921
+ 172436 string characters out of 3147281
+ 253803 words of memory out of 3000000
+ 13550 multiletter control sequences out of 15000+200000
  58024 words of font info for 125 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 41i,16n,51p,1021b,507s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,16n,51p,1021b,512s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program File
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
  2.9/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.
@@ -3213,9 +3236,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX
 rw/courier/ucrr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhv
 b8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Pr
 ogram Files/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on master.pdf (156 pages, 26178612 bytes).
+Output written on master.pdf (158 pages, 26421863 bytes).
 PDF statistics:
- 9038 PDF objects out of 10688 (max. 8388607)
+ 9080 PDF objects out of 10688 (max. 8388607)
  428 named destinations out of 1000 (max. 500000)
- 1843 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1861 words of extra memory for PDF output out of 10000 (max. 10000000)
 

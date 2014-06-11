@@ -270,14 +270,14 @@ The USB/DAQ cable type is provided as an accessory of DAQ. However, if needed, t
 \subsubsection{Installation of DB9 connector family} \label{CRIMPINGDB9}
 For connecting cables to DB9 type connectors (sections~\ref{DEVICE:DB9M(SH)} and~\ref{DEVICE:DB9F(SH)}), you need to perform the following steps (for both male and female types). Use figure~\ref{FIG:CRIMPDB9} as a reference.
 \begin{enumerate}
-  \item (1) Note that both male and female connectors are composed by a small "front panel" with small pins (male) or receptacles (females). The "rear panel" of both types is composed by special pins, in which the cable wires must be welded.
+  \item (1) Note that both male and female connectors are composed by a small "front panel" with small pins (male) or receptacles (females). The "rear panel" of both types is composed by special pins, in which the cable wires must be soldered.
   \item (2) Strip about 2cm of the cable envelop. For each wire to be connected, use a cutting plier (like the one described in section~\ref{DEVICE:TOOLPLIERCUTTING}) to strip the wire envelop, leaving about 2mm copper exposed.
   \item (3) Using a preheated soldering station (like the one presented in section~\ref{DEVICE:TOOLSOLDERINGSTATION}), tin the 2mm striped copper of each wire.
   \item (4) For each wire, use the correct pinout for your application (which can be checked in section~\ref{DEVICE:CONNECTORS}) and follow these steps:
   \begin{itemize}
     \item a) Place the tip inside the soldering pin.
-    \item b) Using the preheated soldering station, touch the iron tip over the pin for long enough until the wire tin gets melted, and hence welded on the DB9 pin.
-    \item c) Make sure that the welded copper is entirely inside the DB9 pin.
+    \item b) Using the preheated soldering station, touch the iron tip over the pin for long enough until the wire tin gets melted, and hence solded on the DB9 pin.
+    \item c) Make sure that the soldered copper is entirely inside the DB9 pin.
   \item (5) Accommodate the cable inside the DB9 enclosure and close it.
   \end{itemize}
 \end{enumerate}
@@ -289,12 +289,12 @@ For connecting cables to DB9 type connectors (sections~\ref{DEVICE:DB9M(SH)} and
   \label{FIG:CRIMPDB9}
 \end{figure}
 \subsubsection{Installation of RJ-45 connector family} \label{CRIMPINGRJ45}
-For connecting cables to RJ-45 type connectors (sections~\ref{DEVICE:RJ45M(SH)},~\ref{DEVICE:RJ45F(SH)},~\ref{DEVICE:SLANM(SH)} and~\ref{DEVICE:SLANF(SH)}), you need to perform the following steps:
+For connecting cables to RJ-45 type connectors (sections~\ref{DEVICE:RJ45M(SH)},~\ref{DEVICE:RJ45F(SH)},~\ref{DEVICE:SLANM(SH)} and~\ref{DEVICE:SLANF(SH)}), you need to perform the following steps. Use figure~\ref{FIG:CRIMPRJ45} as an illustration and the link~\href{http://www.wikihow.com/Crimp-Rj45}{http://www.wikihow.com/Crimp-Rj45} as a reference.
   \begin{itemize}
     \item (1) Strip 2.5 to 5.1cm of the outer envelop at the end of the cable wire by making a shallow cut in the envelop with a cutting plier (like the one described in section~\ref{DEVICE:TOOLPLIERCUTTING}).
     \item (2) Fold each pair of wires backwards to expose the cable core. Cut off the core and discard it.
     \item (3) Straighten the twisted wires using 2 pair of tweezers.
-    \item (4) Arrange the untwisted wires in a row, placing them into the correct position, running from right to left, in which they will go into the RJ-45 connector. Check the right pinout at sections~\ref{DEVICE:RJ45M(SH)},~\ref{DEVICE:RJ45F(SH)},~\ref{DEVICE:SLANM(SH)} or~\ref{DEVICE:SLANF(SH)}).
+    \item (4) Arrange the untwisted wires in a row, placing them into the correct position, running from right to left, in which they will go into the RJ-45 connector. Check the right pinout at sections~\ref{DEVICE:RJ45M(SH)} or~\ref{DEVICE:SLANM(SH)}.
     \item \underline{For male type}:
     \begin{itemize}
       \item a) Trim the untwisted wires to a suitable length by holding the RJ-45 connector next to the wires.
@@ -302,26 +302,18 @@ For connecting cables to RJ-45 type connectors (sections~\ref{DEVICE:RJ45M(SH)},
       \item c) Use the RJ-45 crimping tool (section~\ref{DEVICE:TOOLCRIMPERRJ45}) to crimp the connector to the cable by pressing the jacket and cable into the connector so that the wedge at the bottom of the connector is pressed into the jacket.
     \end{itemize}
     \item \underline{For female type}:
+    \begin{itemize}
+      \item a) Female RJ-45 are generally for PCB applications. The connector rear is equipped with a small chip with pins or holes (see figure~\ref{FIG:DEVICESLANF(SH)} as an example), in which the ethernet wires must be soldered.
+      \item b) Please use a preheated soldering station (section~\ref{DEVICE:TOOLSOLDERINGSTATION}) to solder the wires on these pins/holes. Check the right pinout at sections~\ref{DEVICE:RJ45F(SH)} or~\ref{DEVICE:SLANF(SH)}.
+    \end{itemize}
   \end{itemize}
- (for both male and female types). Use figure~\ref{FIG:CRIMPDB9} as a reference.
-\begin{enumerate}
-  \item (1) Note that both male and female connectors are composed by a small "front panel" with small pins (male) or receptacles (females). The "rear panel" of both types is composed by special pins, in which the cable wires must be welded.
-  \item (2) Strip about 2cm of the cable envelop. For each wire to be connected, use a cutting plier (like the one described in section~\ref{DEVICE:TOOLPLIERCUTTING}) to strip the wire envelop, leaving about 2mm copper exposed.
-  \item (3) Using a preheated soldering station (like the one presented in section~\ref{DEVICE:TOOLSOLDERINGSTATION}), tin the 2mm striped copper of each wire.
-  \item (4) For each wire, use the correct pinout for your application (which can be checked in section~\ref{DEVICE:CONNECTORS}) and follow these steps:
-  \begin{itemize}
-    \item a) Place the tip inside the soldering pin.
-    \item b) Using the preheated soldering station, touch the iron tip over the pin for long enough until the wire tin gets melted, and hence welded on the DB9 pin.
-    \item c) Make sure that the welded copper is entirely inside the DB9 pin.
-  \item (5) Accommodate the cable inside the DB9 enclosure and close it.
-  \end{itemize}
-\end{enumerate}
+
 \begin{figure}
   \centering
   % Requires \usepackage{graphicx}
-  \includegraphics[angle=90,width=1\columnwidth]{figs/body03/FIGCRIMPDB9.pdf}\\
-  \caption[Installation of DB9 connector family]{Installation of DB9 connector family}
-  \label{FIG:CRIMPDB9}
+  \includegraphics[angle=90,width=1\columnwidth]{figs/body03/FIGCRIMPRJ45.pdf}\\
+  \caption[Installation of RJ-45 connector family]{Installation of RJ-45 connector family}
+  \label{FIG:CRIMPRJ45}
 \end{figure}
 \subsubsection{Crimping Molex Micro-Fit 3.0\texttrademark Family} \label{CRIMPINGmicro}
 For connecting wires to a Molex Micro-Fit 3.0\texttrademark connector from 43025-xxxx family (sections~\ref{DEVICE:microCAN} and~\ref{DEVICE:microHall}), you first need to crimp the edge of these wires in the Molex crimp terminal from 43030-xxxx family (section~\ref{DEVICE:microCrimp}). For this, you should perform the following steps:

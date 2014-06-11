@@ -52,43 +52,44 @@
 \contentsline {figure}{\numberline {3.43}{\ignorespaces Long needle-nose plier examples (out of scale)}}{80}{figure.3.43}
 \contentsline {figure}{\numberline {3.44}{\ignorespaces Plier: Molex hand crimper for Micro-Fit 3.0\texttrademark crimp terminals (63819-0000)}}{81}{figure.3.44}
 \contentsline {figure}{\numberline {3.45}{\ignorespaces Plier: Molex hand crimper for Mini-Fit\textregistered crimp terminals (63819-0900)}}{82}{figure.3.45}
-\contentsline {figure}{\numberline {3.46}{\ignorespaces Soldering station}}{84}{figure.3.46}
-\contentsline {figure}{\numberline {3.47}{\ignorespaces Heat shrink tube for thermal insulation}}{85}{figure.3.47}
-\contentsline {figure}{\numberline {3.48}{\ignorespaces Heat shrink tube for thermal insulation - Application over the cable/wires}}{86}{figure.3.48}
-\contentsline {figure}{\numberline {3.49}{\ignorespaces microCrimp: Molex Micro-Fit 3.0\texttrademark female crimp terminals (43030-xxxx)}}{87}{figure.3.49}
-\contentsline {figure}{\numberline {3.50}{\ignorespaces miniCrimp: Molex Mini-Fit\textregistered Jr. female crimp terminals (44476-xxxx)}}{88}{figure.3.50}
+\contentsline {figure}{\numberline {3.46}{\ignorespaces Plier: RJ-45 crimper}}{84}{figure.3.46}
+\contentsline {figure}{\numberline {3.47}{\ignorespaces Soldering station}}{85}{figure.3.47}
+\contentsline {figure}{\numberline {3.48}{\ignorespaces Heat shrink tube for thermal insulation}}{86}{figure.3.48}
+\contentsline {figure}{\numberline {3.49}{\ignorespaces Heat shrink tube for thermal insulation - Application over the cable/wires}}{87}{figure.3.49}
+\contentsline {figure}{\numberline {3.50}{\ignorespaces microCrimp: Molex Micro-Fit 3.0\texttrademark female crimp terminals (43030-xxxx)}}{88}{figure.3.50}
+\contentsline {figure}{\numberline {3.51}{\ignorespaces miniCrimp: Molex Mini-Fit\textregistered Jr. female crimp terminals (44476-xxxx)}}{90}{figure.3.51}
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Construction of ACT/E - Cable for motor encoder}}{90}{figure.4.1}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Construction of ACT/H - Cable for motor Hall effect sensor}}{92}{figure.4.2}
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Construction of ACT/M - Cable for motor supply}}{93}{figure.4.3}
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Construction of CAN/D-D - Cable for CAN between drivers}}{95}{figure.4.4}
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Construction of CAN/I-Dc - Cable for CAN between driver and an interface (shield cut)}}{97}{figure.4.5}
-\contentsline {figure}{\numberline {4.6}{\ignorespaces Construction of CAN/I-Dp - Cable for CAN between driver and an interface (shield pass)}}{98}{figure.4.6}
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Construction of CAN/I-I - Cable for CAN between interfaces}}{100}{figure.4.7}
-\contentsline {figure}{\numberline {4.8}{\ignorespaces Construction of CAN/I-PC - Cable for CAN between PC and an interface}}{101}{figure.4.8}
-\contentsline {figure}{\numberline {4.9}{\ignorespaces Construction of CAN/Out - Outdoor cable for CAN between modules}}{103}{figure.4.9}
-\contentsline {figure}{\numberline {4.10}{\ignorespaces Construction of LAN/I-S - Cable for Ethernet between Ethernet Switch and an interface}}{105}{figure.4.10}
-\contentsline {figure}{\numberline {4.11}{\ignorespaces Construction of LAN/Out - Outdoor cable for Ethernet between modules}}{107}{figure.4.11}
-\contentsline {figure}{\numberline {4.12}{\ignorespaces Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}}{108}{figure.4.12}
-\contentsline {figure}{\numberline {4.13}{\ignorespaces USB/DAQ - Cable for USB between DAQ and PC}}{109}{figure.4.13}
-\contentsline {figure}{\numberline {4.14}{\ignorespaces Installation of DB9 connector family}}{110}{figure.4.14}
-\contentsline {figure}{\numberline {4.15}{\ignorespaces Installation of DB9 connector family}}{112}{figure.4.15}
-\contentsline {figure}{\numberline {4.16}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : placing the crimp terminal}}{114}{figure.4.16}
-\contentsline {figure}{\numberline {4.17}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : procedures for manual crimping}}{115}{figure.4.17}
-\contentsline {figure}{\numberline {4.18}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : applying the heat shrink tube}}{116}{figure.4.18}
-\contentsline {figure}{\numberline {4.19}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : inserting the crimp terminals into the connector holes}}{117}{figure.4.19}
-\contentsline {figure}{\numberline {4.20}{\ignorespaces Crimping Molex Mini-Fit \textregistered : placing the crimp terminal}}{119}{figure.4.20}
-\contentsline {figure}{\numberline {4.21}{\ignorespaces Crimping Molex Mini-Fit \textregistered : procedures for manual crimping}}{120}{figure.4.21}
-\contentsline {figure}{\numberline {4.22}{\ignorespaces Crimping Molex Mini-Fit \textregistered : applying the heat shrink tube}}{121}{figure.4.22}
-\contentsline {figure}{\numberline {4.23}{\ignorespaces Crimping Molex Mini-Fit \textregistered : inserting the crimp terminals into the connector holes}}{122}{figure.4.23}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Construction of ACT/E - Cable for motor encoder}}{92}{figure.4.1}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Construction of ACT/H - Cable for motor Hall effect sensor}}{94}{figure.4.2}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Construction of ACT/M - Cable for motor supply}}{95}{figure.4.3}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Construction of CAN/D-D - Cable for CAN between drivers}}{97}{figure.4.4}
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Construction of CAN/I-Dc - Cable for CAN between driver and an interface (shield cut)}}{99}{figure.4.5}
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Construction of CAN/I-Dp - Cable for CAN between driver and an interface (shield pass)}}{100}{figure.4.6}
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Construction of CAN/I-I - Cable for CAN between interfaces}}{102}{figure.4.7}
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Construction of CAN/I-PC - Cable for CAN between PC and an interface}}{103}{figure.4.8}
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Construction of CAN/Out - Outdoor cable for CAN between modules}}{105}{figure.4.9}
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Construction of LAN/I-S - Cable for Ethernet between Ethernet Switch and an interface}}{107}{figure.4.10}
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Construction of LAN/Out - Outdoor cable for Ethernet between modules}}{109}{figure.4.11}
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}}{110}{figure.4.12}
+\contentsline {figure}{\numberline {4.13}{\ignorespaces USB/DAQ - Cable for USB between DAQ and PC}}{111}{figure.4.13}
+\contentsline {figure}{\numberline {4.14}{\ignorespaces Installation of DB9 connector family}}{113}{figure.4.14}
+\contentsline {figure}{\numberline {4.15}{\ignorespaces Installation of RJ-45 connector family}}{114}{figure.4.15}
+\contentsline {figure}{\numberline {4.16}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : placing the crimp terminal}}{116}{figure.4.16}
+\contentsline {figure}{\numberline {4.17}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : procedures for manual crimping}}{117}{figure.4.17}
+\contentsline {figure}{\numberline {4.18}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : applying the heat shrink tube}}{118}{figure.4.18}
+\contentsline {figure}{\numberline {4.19}{\ignorespaces Crimping Molex Micro-Fit 3.0\texttrademark : inserting the crimp terminals into the connector holes}}{119}{figure.4.19}
+\contentsline {figure}{\numberline {4.20}{\ignorespaces Crimping Molex Mini-Fit \textregistered : placing the crimp terminal}}{121}{figure.4.20}
+\contentsline {figure}{\numberline {4.21}{\ignorespaces Crimping Molex Mini-Fit \textregistered : procedures for manual crimping}}{122}{figure.4.21}
+\contentsline {figure}{\numberline {4.22}{\ignorespaces Crimping Molex Mini-Fit \textregistered : applying the heat shrink tube}}{123}{figure.4.22}
+\contentsline {figure}{\numberline {4.23}{\ignorespaces Crimping Molex Mini-Fit \textregistered : inserting the crimp terminals into the connector holes}}{124}{figure.4.23}
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {A.1}{\ignorespaces \leavevmode {\color {blue}General organogram.}}}{125}{figure.A.1}
-\contentsline {figure}{\numberline {A.2}{\ignorespaces \leavevmode {\color {blue}Project coordinator.}}}{126}{figure.A.2}
-\contentsline {figure}{\numberline {A.3}{\ignorespaces \leavevmode {\color {blue}Mechanics organogram.}}}{127}{figure.A.3}
-\contentsline {figure}{\numberline {A.4}{\ignorespaces \leavevmode {\color {blue}Electronics organogram.}}}{128}{figure.A.4}
-\contentsline {figure}{\numberline {A.5}{\ignorespaces \leavevmode {\color {blue}Power organogram.}}}{129}{figure.A.5}
-\contentsline {figure}{\numberline {A.6}{\ignorespaces \leavevmode {\color {blue}Software organogram.}}}{130}{figure.A.6}
-\contentsline {figure}{\numberline {A.7}{\ignorespaces \leavevmode {\color {blue}Signal processing organogram.}}}{131}{figure.A.7}
-\contentsline {figure}{\numberline {A.8}{\ignorespaces \leavevmode {\color {blue}Project secretary.}}}{132}{figure.A.8}
+\contentsline {figure}{\numberline {A.1}{\ignorespaces \leavevmode {\color {blue}General organogram.}}}{127}{figure.A.1}
+\contentsline {figure}{\numberline {A.2}{\ignorespaces \leavevmode {\color {blue}Project coordinator.}}}{128}{figure.A.2}
+\contentsline {figure}{\numberline {A.3}{\ignorespaces \leavevmode {\color {blue}Mechanics organogram.}}}{129}{figure.A.3}
+\contentsline {figure}{\numberline {A.4}{\ignorespaces \leavevmode {\color {blue}Electronics organogram.}}}{130}{figure.A.4}
+\contentsline {figure}{\numberline {A.5}{\ignorespaces \leavevmode {\color {blue}Power organogram.}}}{131}{figure.A.5}
+\contentsline {figure}{\numberline {A.6}{\ignorespaces \leavevmode {\color {blue}Software organogram.}}}{132}{figure.A.6}
+\contentsline {figure}{\numberline {A.7}{\ignorespaces \leavevmode {\color {blue}Signal processing organogram.}}}{133}{figure.A.7}
+\contentsline {figure}{\numberline {A.8}{\ignorespaces \leavevmode {\color {blue}Project secretary.}}}{134}{figure.A.8}
