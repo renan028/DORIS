@@ -111,47 +111,47 @@
 \contentsline {subsubsection}{\numberline {4.1.1.9}Construction of CAN/Out - Outdoor cable for CAN between modules}{102}{subsubsection.4.1.1.9}
 \contentsline {subsubsection}{\numberline {4.1.1.10}Construction of LAN/I-S - Cable for Ethernet between Ethernet Switch and an interface}{102}{subsubsection.4.1.1.10}
 \contentsline {subsubsection}{\numberline {4.1.1.11}Construction of LAN/Out - Outdoor cable for Ethernet between modules}{104}{subsubsection.4.1.1.11}
-\contentsline {subsubsection}{\numberline {4.1.1.12}Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}{107}{subsubsection.4.1.1.12}
-\contentsline {subsubsection}{\numberline {4.1.1.13}Construction of USB/DAQ - Cable for USB between DAQ and PC}{107}{subsubsection.4.1.1.13}
-\contentsline {subsection}{\numberline {4.1.2}Connector installation procedures}{107}{subsection.4.1.2}
-\contentsline {subsubsection}{\numberline {4.1.2.1}Installation of 4-pin connector}{107}{subsubsection.4.1.2.1}
-\contentsline {subsubsection}{\numberline {4.1.2.2}Installation of 10-pin connector}{107}{subsubsection.4.1.2.2}
-\contentsline {subsubsection}{\numberline {4.1.2.3}Installation of DB9 connector family}{107}{subsubsection.4.1.2.3}
-\contentsline {subsubsection}{\numberline {4.1.2.4}Installation of RJ-45 connector family}{107}{subsubsection.4.1.2.4}
-\contentsline {subsubsection}{\numberline {4.1.2.5}Crimping Molex Micro-Fit 3.0\texttrademark Family}{107}{subsubsection.4.1.2.5}
-\contentsline {subsubsection}{\numberline {4.1.2.6}Crimping Molex Mini-Fit\textregistered Family}{110}{subsubsection.4.1.2.6}
-\contentsline {subsection}{\numberline {4.1.3}Printed circuit boards (PCB) fabrication and assembly}{115}{subsection.4.1.3}
-\contentsline {section}{\numberline {4.2}System installation on site}{115}{section.4.2}
-\contentsline {section}{\numberline {4.3}System testing on site}{115}{section.4.3}
-\contentsline {section}{\numberline {4.4}System commissioning}{115}{section.4.4}
-\contentsline {chapter}{\numberline {5}Performed tests for validations}{120}{chapter.5}
-\contentsline {chapter}{\numberline {6}Bibliographic references}{121}{chapter.6}
-\contentsline {chapter}{\numberline {A}Team}{122}{appendix.A}
-\contentsline {section}{\numberline {A.1}General Organogram}{122}{section.A.1}
-\contentsline {subsection}{\numberline {A.1.1}Project Coordinator}{123}{subsection.A.1.1}
-\contentsline {subsection}{\numberline {A.1.2}Group 1: Mechanics Organogram}{124}{subsection.A.1.2}
-\contentsline {subsection}{\numberline {A.1.3}Group 2: Electronics Organogram}{125}{subsection.A.1.3}
-\contentsline {subsection}{\numberline {A.1.4}Group 3: Power Organogram}{126}{subsection.A.1.4}
-\contentsline {subsection}{\numberline {A.1.5}Group 4: Software Organogram}{127}{subsection.A.1.5}
-\contentsline {subsection}{\numberline {A.1.6}Group 5: Signal Processing Organogram}{128}{subsection.A.1.6}
-\contentsline {subsection}{\numberline {A.1.7}Project Secretary}{129}{subsection.A.1.7}
-\contentsline {section}{\numberline {A.2}Project Coordinator}{130}{section.A.2}
-\contentsline {section}{\numberline {A.3}Group 1: Mechanics}{131}{section.A.3}
-\contentsline {subsection}{\numberline {A.3.1}Coordinator}{131}{subsection.A.3.1}
-\contentsline {subsection}{\numberline {A.3.2}Ph.D., M.Sc., and B.Sc. Students}{131}{subsection.A.3.2}
-\contentsline {subsection}{\numberline {A.3.3}Mechanical Designers}{132}{subsection.A.3.3}
-\contentsline {section}{\numberline {A.4}Group 2: Electronics}{133}{section.A.4}
-\contentsline {subsection}{\numberline {A.4.1}Coordinator}{133}{subsection.A.4.1}
-\contentsline {subsection}{\numberline {A.4.2}Professors and M.Sc. Students}{133}{subsection.A.4.2}
-\contentsline {section}{\numberline {A.5}Group 3: Power}{134}{section.A.5}
-\contentsline {subsection}{\numberline {A.5.1}Coordinator}{134}{subsection.A.5.1}
-\contentsline {subsection}{\numberline {A.5.2}Professors and M.Sc. Students}{134}{subsection.A.5.2}
-\contentsline {section}{\numberline {A.6}Group 4: Software}{135}{section.A.6}
-\contentsline {subsection}{\numberline {A.6.1}Coordinator}{135}{subsection.A.6.1}
-\contentsline {subsection}{\numberline {A.6.2}Ph.D. and M.Sc. Students}{135}{subsection.A.6.2}
-\contentsline {section}{\numberline {A.7}Group 5: Signal Processing}{136}{section.A.7}
-\contentsline {subsection}{\numberline {A.7.1}Coordinators}{136}{subsection.A.7.1}
-\contentsline {subsection}{\numberline {A.7.2}Post-doctor Researchers}{136}{subsection.A.7.2}
-\contentsline {subsection}{\numberline {A.7.3}Ph.D. and M.Sc. Students}{137}{subsection.A.7.3}
-\contentsline {section}{\numberline {A.8}Secretary}{138}{section.A.8}
-\contentsline {chapter}{Bibliography}{139}{appendix*.5}
+\contentsline {subsubsection}{\numberline {4.1.1.12}Construction of LAN/S-D - Cable for Ethernet between Ethernet Switch and a device}{106}{subsubsection.4.1.1.12}
+\contentsline {subsubsection}{\numberline {4.1.1.13}Construction of USB/DAQ - Cable for USB between DAQ and PC}{106}{subsubsection.4.1.1.13}
+\contentsline {subsection}{\numberline {4.1.2}Connector installation procedures}{106}{subsection.4.1.2}
+\contentsline {subsubsection}{\numberline {4.1.2.1}Installation of 4-pin connector}{106}{subsubsection.4.1.2.1}
+\contentsline {subsubsection}{\numberline {4.1.2.2}Installation of 10-pin connector}{106}{subsubsection.4.1.2.2}
+\contentsline {subsubsection}{\numberline {4.1.2.3}Installation of DB9 connector family}{106}{subsubsection.4.1.2.3}
+\contentsline {subsubsection}{\numberline {4.1.2.4}Installation of RJ-45 connector family}{111}{subsubsection.4.1.2.4}
+\contentsline {subsubsection}{\numberline {4.1.2.5}Crimping Molex Micro-Fit 3.0\texttrademark Family}{112}{subsubsection.4.1.2.5}
+\contentsline {subsubsection}{\numberline {4.1.2.6}Crimping Molex Mini-Fit\textregistered Family}{113}{subsubsection.4.1.2.6}
+\contentsline {subsection}{\numberline {4.1.3}Printed circuit boards (PCB) fabrication and assembly}{118}{subsection.4.1.3}
+\contentsline {section}{\numberline {4.2}System installation on site}{118}{section.4.2}
+\contentsline {section}{\numberline {4.3}System testing on site}{118}{section.4.3}
+\contentsline {section}{\numberline {4.4}System commissioning}{118}{section.4.4}
+\contentsline {chapter}{\numberline {5}Performed tests for validations}{123}{chapter.5}
+\contentsline {chapter}{\numberline {6}Bibliographic references}{124}{chapter.6}
+\contentsline {chapter}{\numberline {A}Team}{125}{appendix.A}
+\contentsline {section}{\numberline {A.1}General Organogram}{125}{section.A.1}
+\contentsline {subsection}{\numberline {A.1.1}Project Coordinator}{126}{subsection.A.1.1}
+\contentsline {subsection}{\numberline {A.1.2}Group 1: Mechanics Organogram}{127}{subsection.A.1.2}
+\contentsline {subsection}{\numberline {A.1.3}Group 2: Electronics Organogram}{128}{subsection.A.1.3}
+\contentsline {subsection}{\numberline {A.1.4}Group 3: Power Organogram}{129}{subsection.A.1.4}
+\contentsline {subsection}{\numberline {A.1.5}Group 4: Software Organogram}{130}{subsection.A.1.5}
+\contentsline {subsection}{\numberline {A.1.6}Group 5: Signal Processing Organogram}{131}{subsection.A.1.6}
+\contentsline {subsection}{\numberline {A.1.7}Project Secretary}{132}{subsection.A.1.7}
+\contentsline {section}{\numberline {A.2}Project Coordinator}{133}{section.A.2}
+\contentsline {section}{\numberline {A.3}Group 1: Mechanics}{134}{section.A.3}
+\contentsline {subsection}{\numberline {A.3.1}Coordinator}{134}{subsection.A.3.1}
+\contentsline {subsection}{\numberline {A.3.2}Ph.D., M.Sc., and B.Sc. Students}{134}{subsection.A.3.2}
+\contentsline {subsection}{\numberline {A.3.3}Mechanical Designers}{135}{subsection.A.3.3}
+\contentsline {section}{\numberline {A.4}Group 2: Electronics}{136}{section.A.4}
+\contentsline {subsection}{\numberline {A.4.1}Coordinator}{136}{subsection.A.4.1}
+\contentsline {subsection}{\numberline {A.4.2}Professors and M.Sc. Students}{136}{subsection.A.4.2}
+\contentsline {section}{\numberline {A.5}Group 3: Power}{137}{section.A.5}
+\contentsline {subsection}{\numberline {A.5.1}Coordinator}{137}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A.5.2}Professors and M.Sc. Students}{137}{subsection.A.5.2}
+\contentsline {section}{\numberline {A.6}Group 4: Software}{138}{section.A.6}
+\contentsline {subsection}{\numberline {A.6.1}Coordinator}{138}{subsection.A.6.1}
+\contentsline {subsection}{\numberline {A.6.2}Ph.D. and M.Sc. Students}{138}{subsection.A.6.2}
+\contentsline {section}{\numberline {A.7}Group 5: Signal Processing}{139}{section.A.7}
+\contentsline {subsection}{\numberline {A.7.1}Coordinators}{139}{subsection.A.7.1}
+\contentsline {subsection}{\numberline {A.7.2}Post-doctor Researchers}{139}{subsection.A.7.2}
+\contentsline {subsection}{\numberline {A.7.3}Ph.D. and M.Sc. Students}{140}{subsection.A.7.3}
+\contentsline {section}{\numberline {A.8}Secretary}{141}{section.A.8}
+\contentsline {chapter}{Bibliography}{142}{appendix*.5}
